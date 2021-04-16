@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Mon Feb 15 16:31:13 2016</snippet>
+    <LookAt>
+      <longitude>-121.606502</longitude>
+      <latitude>41.865480</latitude>
+      <range>280180.678089</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>Deer</name>
+        <description>Deer Mountain</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.128167,41.607033,2100.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whaleback</name>
+        <description>Whaleback  Mountain</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.140683,41.528250,2579.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>launchWhale</name>
+        <description>Whaleback launch</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.152566,41.535103,2266.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>shasta</name>
+        <description>Mt Shasta</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.195350,41.410483,4272.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ashbutte</name>
+        <description>Ash Butte Creek</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.048317,41.446933,2493.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McCloud</name>
+        <description>McCloud airstrip</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.940167,41.285083,1132.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weed</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.366433,41.435300,1092.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sheep</name>
+        <description>Sheep rock</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.222067,41.580933,1705.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Herd</name>
+        <description>Herd Peak</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.230767,41.628350,2085.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MtSheep</name>
+        <description>Sheep Mountain</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.885283,41.801667,1872.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebron</name>
+        <description>Mt Hebron</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.017350,41.703317,1865.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orr</name>
+        <description>Orr Mountain</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.976100,41.667500,1772.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cedar</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.908683,41.709200,1812.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>macdoel</name>
+        <description>Macdoel City</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.005233,41.830117,1298.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juniper</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.987400,41.836667,1395.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>hillD</name>
+        <description>Dorris Hill</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.930817,41.990033,1635.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dorris</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.925000,41.962367,1293.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dome</name>
+        <description>Mt Dome</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.687717,41.808983,1974.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sharp</name>
+        <description>Sharp Mtn</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.770650,41.703317,1892.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middle</name>
+        <description>Middle sister</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.739183,41.717317,1608.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tulelake</name>
+        <description>Tulelake racetrack</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.478717,41.947867,1229.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grass</name>
+        <description>Grass Lake Visitors Center</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.167340,41.643920,1529.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WhaleLZ</name>
+        <description>whaleback LZ</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.198967,41.550217,1372.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bikini</name>
+        <description>Bikini Junction (aka Mt Shasta Woods)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.073262,41.605041,1501.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USFS42</name>
+        <description>USFS 42</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.049750,41.541150,1555.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mahagony</name>
+        <description>Mahagony Mountain</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.857217,41.875033,1879.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Howizter</name>
+        <description>Howitzer Point</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.532683,41.818367,1232.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>cllkrd</name>
+        <description>Clear Lake Road</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.176250,41.794183,1367.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tionesta</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.325300,41.647933,1303.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falls</name>
+        <description>Falls Highway</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.839633,42.236483,1362.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aspen</name>
+        <description>Aspen Lake</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.023633,42.323983,1331.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buck</name>
+        <description>Near Buck Island</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.914067,42.287533,1278.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klamath</name>
+        <description>Klamath Airport. Make it in here and you get DQed.</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.733200,42.156100,1247.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>shastina</name>
+        <description>Lake Shastina</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.401317,41.494683,884.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>eddy</name>
+        <description>Mt Eddy</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.479250,41.319133,2733.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>goosenest</name>
+        <description>Goosenest</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.222583,41.719383,2513.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antelope</name>
+        <description>Antelope Mtn</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.640467,41.593185,1852.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagle </name>
+        <description>Eagle Rock</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.241717,41.877250,2083.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rabbit</name>
+        <description>Rabbit Hill</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.388033,41.671167,1042.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black</name>
+        <description>black mountain</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.512020,41.857680,1543.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paradise</name>
+        <description>Paradise Craggy</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.546933,41.814867,1464.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonnet</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.575150,41.514250,1280.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stewart</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.541783,41.447250,2082.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emigrant</name>
+        <description>Emigrant Lake</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.611420,42.146263,687.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Willow</name>
+        <description>Willow Creek Mtn</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.242150,41.814717,2373.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montague</name>
+        <description>Montague athletic field</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.526417,41.722783,776.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hornbrook</name>
+        <description>Hornbrook school</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.561717,41.910183,670.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perez</name>
+        <description>Perez landing strip</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.268064,41.676895,1265.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tickner</name>
+        <description>Tickner Road</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.122149,41.527038,1450.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kandra</name>
+        <description>Kandra grain elevator</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.398683,41.829333,1235.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ambrose</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-120.976748,41.500498,1513.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alturas</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-120.566078,41.493802,1335.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dairy</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.516900,42.247933,1273.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beatty</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.265396,42.445876,1319.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bly</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.035817,42.401080,1325.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ball</name>
+        <description>Ball Mountain</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.155781,41.794739,2377.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keno</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.910790,42.127948,1258.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonanza</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.409456,42.201791,1261.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Merrill</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.606890,42.028910,1242.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yreka</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.646925,41.695088,839.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>yellow</name>
+        <description>Yellow Butte</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.262279,41.547472,1630.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LTDEER</name>
+        <description>LITTLE DEER MOUNTAIN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.117583,41.676417,1799.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MTHEBRON</name>
+        <description>MT HEBRON</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.003467,41.789250,1298.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BVAIR</name>
+        <description>BUTTE VALLEY AIRPORT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.975517,41.886667,1292.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MUD</name>
+        <description>MUD LAKE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.983883,41.985683,1452.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SECRET</name>
+        <description>SECRET SPRINGS MOUNTAIN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.135817,41.974333,1698.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HAMAKER</name>
+        <description>HAMAKER HILL</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.970300,42.067983,1986.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOYLER</name>
+        <description>BOYLER RESERVOIR</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-122.028750,42.134183,42916904.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SHEEPY</name>
+        <description>SHEEPY PEAK</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-121.576967,41.953800,1531.00</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

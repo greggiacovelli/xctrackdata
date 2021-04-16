@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Mon Feb 15 16:32:15 2016</snippet>
+    <LookAt>
+      <longitude>-118.351242</longitude>
+      <latitude>37.018225</latitude>
+      <range>433382.544018</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>barcroft</name>
+        <description>MOUNT BARCROFT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.248017,37.581767,3945.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>benton</name>
+        <description>BENTON</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.474333,37.820250,1650.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIGEAR</name>
+        <description>DEEP SPACE RADIO</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.283250,37.232433,1205.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIGPIN</name>
+        <description>BIG PINE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.288331,37.171225,1208.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BLACK</name>
+        <description>BLACK MOUNTAIN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.225750,37.267000,2743.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CASBAH</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.390233,37.644733,1393.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHALK</name>
+        <description>CHALK BLUFF ROAD</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.432667,37.417600,1283.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHLFNT</name>
+        <description>CHALFANT VALLEY</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.364117,37.529933,1303.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DARWIN</name>
+        <description>DARWIN AIRSTRIP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-117.598283,36.265800,1442.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DUBOIS</name>
+        <description>MOUNT DUBOIS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.343000,37.783267,4121.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAIR</name>
+        <description>BISHOP FAIR GROU</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.399300,37.372767,1266.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FISH</name>
+        <description>FISH SLOUGH ROAD</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.405000,37.459067,1387.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FLNLNC</name>
+        <description>FLYNNS LAUNCH</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.295108,37.388086,1716.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FLYNLZ</name>
+        <description>FLYNZ LZ</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.315133,37.392033,1268.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GNTRLZ</name>
+        <description>GUNTER LZ</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.334033,37.437683,1281.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUNTER</name>
+        <description>GUNTER LAUNCH</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.262833,37.467967,2522.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HAMMIL</name>
+        <description>HAMMIL LANDING S</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.403450,37.673983,1396.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HIWAY6</name>
+        <description>HIGHWAY 6</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.350867,37.456300,1275.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOGUE</name>
+        <description>MOUNT HOGUE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.305133,37.732017,3881.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INDEP</name>
+        <description>INDEPENDENCE AIR</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.203150,36.812817,1185.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INYKRN</name>
+        <description>INYOKERN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-117.811583,35.646783,740.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JANEYS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.405744,37.927481,1901.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JEFFRY</name>
+        <description>JEFFREY RADIO</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.346067,37.605050,1878.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KEOUGH</name>
+        <description>KEOUGH HOT SPRIN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.370033,37.255617,1264.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LAWS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.345683,37.400350,1253.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LONPIN</name>
+        <description>LONE PINE AIRPOR</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.045450,36.590533,1120.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MANZAP</name>
+        <description>MANZANAR AIRPORT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.145450,36.737600,1163.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MGRPS</name>
+        <description>MONTGOMERY PASS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.317983,37.979983,2175.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MGYCRK</name>
+        <description>MONTGOMERY CREEK</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.416733,37.833683,2239.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MILPND</name>
+        <description>MILLPOND RECREAT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.491867,37.377117,1356.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MINA</name>
+        <description>MINA TOWN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.102383,38.389667,1384.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MUSTANG</name>
+        <description>MUSTANG POINT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.316783,37.904333,3001.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MVWMIN</name>
+        <description>MOUNTAIN VIEW MI</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.368983,37.723633,1953.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N78</name>
+        <description>HILL</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.264300,37.422883,2465.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OLNCHA</name>
+        <description>OLANCHA</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.004450,36.282233,1111.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAIULZ</name>
+        <description>PAIUTE LZ</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.349267,37.510050,1303.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAIUTE</name>
+        <description>PAUITE LAUNCH</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.293733,37.518800,2435.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARTRD</name>
+        <description>MINE PROSPECT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.284833,37.332617,1392.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEAK</name>
+        <description>SUMMIT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.274250,37.497517,2650.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PITS</name>
+        <description>TAILING PITS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.289350,37.458317,1751.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PTRGLF</name>
+        <description>PETROGLYPH</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.434517,37.650750,1485.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUPFSH</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.283017,37.297700,1247.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QENDIX</name>
+        <description>QUEEN DICKS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.402667,37.764817,1901.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REDHIL</name>
+        <description>REDHILL PEAK</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.254567,37.391550,2543.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SABIES</name>
+        <description>SABIES CANYON</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.344650,37.583450,1673.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SCRMNT</name>
+        <description>SACRAMENTO MINE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.333800,37.542767,1525.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOBLMIN</name>
+        <description>SOUTHERN BELLE M</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.316172,37.461547,1507.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUGAR</name>
+        <description>SUGARLOAF MOUNTA</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.305933,37.934617,2746.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TINMAH</name>
+        <description>TINEMAHA RESERVO</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.226933,37.050850,1175.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TWRCTR</name>
+        <description>RADIO TOWER</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.285753,37.355422,1581.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WALTS</name>
+        <description>WALTS POINT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.115067,36.473133,2788.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WATERS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.413783,37.705283,1431.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WHITE</name>
+        <description>WHITE MOUNTAIN P</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.255578,37.634275,4313.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WMRSEZ</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.321633,37.360906,1236.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WMTRCH</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.385870,37.615592,1394.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZURICH</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.259467,37.182433,1196.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAZOURKA</name>
+        <description>MAZOURKA PEAK</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.121383,36.976900,2858.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CRATER</name>
+        <description>CRATER MOUNTAIN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.299317,37.113117,1847.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ROUND</name>
+        <description>ROUND MTN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.432600,37.207967,3365.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TOM</name>
+        <description>mT TOM</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.656767,37.338783,4070.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GROUSE</name>
+        <description>GROUSE MTN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.601617,37.306783,2233.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLEASV</name>
+        <description>PLEASENT VALLEY RESERVOIR</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.497900,37.403867,1304.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NFISH</name>
+        <description>North of Fish SLOUGH</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.400950,37.519033,1290.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INDIAN</name>
+        <description>INDIAN PEAK</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.312067,37.691767,3376.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CASAD</name>
+        <description>CASA DIABLO MINE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.550350,37.578017,2402.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BANNER</name>
+        <description>BANNER RIDGE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.577600,37.684433,2502.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEARCE</name>
+        <description>PEARCE PEAK</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.486550,37.781150,2081.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPES</name>
+        <description>SIPES RANCH ROAD</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.493933,37.847917,1652.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRAFTON</name>
+        <description>TRAFTON MTN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.566567,37.850583,2349.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GLASS</name>
+        <description>GLASS MOUNTAIN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.708667,37.774983,3393.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRANITE</name>
+        <description>GRANITE MOUNTAIN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-118.771183,37.924750,2659.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEEV</name>
+        <description>LEE Vining AIRPORT</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-119.104200,37.953867,2070.00</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

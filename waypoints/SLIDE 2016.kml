@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>50-341</name>
+        <description>JUNCTION 50 341</description>
+        <Point>
+        <coordinates>-119.639110,39.223620,1434.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BORDER</name>
+        <description>BORDER TOWN</description>
+        <Point>
+        <coordinates>-119.999310,39.671680,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C HILL</name>
+        <description>C HILL</description>
+        <Point>
+        <coordinates>-119.790480,39.156370,1745.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DOYLE</name>
+<description>DOYLE</description>
+         <Point>
+        <coordinates>-120.105590,40.030460,1303.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GEN PE</name>
+        <description>GENOA PEAK</description>
+        <Point>
+        <coordinates>-119.882200,39.043370,2768.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GENOA</name>
+        <description>GENOA</description>
+        <Point>
+        <coordinates>-119.843000,38.999470,1447.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HALLEL</name>
+        <description>HALLELUJAH JUNCTION</description>
+        <Point>
+        <coordinates>-120.041560,39.774010,1527.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOBO</name>
+        <description>HOBO HOT SPRINGS</description>
+        <Point>
+        <coordinates>-119.822240,39.057290,1513.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KINGSB</name>
+        <description>KINGSBURY MTN</description>
+        <Point>
+        <coordinates>-119.877890,38.989600,2499.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MCLELL</name>
+        <description>MCLELLAN PEAK</description>
+        <Point>
+        <coordinates>-119.722733,39.251517,2134.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEADOW</name>
+        <description>E MEADOW</description>
+        <Point>
+        <coordinates>-119.916730,39.302850,2606.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MOTTSV</name>
+        <description>MOTTSVILLE</description>
+        <Point>
+        <coordinates>-119.839530,38.941560,1441.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEAVIN</name>
+        <description></description>
+        <Point>
+        <coordinates>-119.936033,39.596500,2499.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PYRAMI</name>
+        <description>PYRAMID LAKE</description>
+        <Point>
+        <coordinates>-119.573992,39.921983,1173.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ROSE</name>
+        <description>MT ROSE</description>
+        <Point>
+        <coordinates>-119.884380,39.313160,2935.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAWMIL</name>
+        <description>SAWMILL</description>
+        <Point>
+        <coordinates>-119.824760,39.220290,1888.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SHERID</name>
+        <description>SHERIDAN</description>
+        <Point>
+        <coordinates>-119.819750,38.899230,1454.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILVER</name>
+        <description>SILVER SPRINGS</description>
+        <Point>
+        <coordinates>-119.228950,39.419530,1291.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLIDE</name>
+        <description>SLIDE LAUNCH</description>
+        <Point>
+        <coordinates>-119.870180,39.318340,2522.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLIDE</name>
+        <description>SLIDE LZ</description>
+        <Point>
+        <coordinates>-119.822680,39.308960,1552.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUNFLO</name>
+        <description>SUNFLOWER PEAK</description>
+        <Point>
+        <coordinates>-119.935560,39.382460,3079.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUTRO</name>
+        <description>O</description>
+        <Point>
+        <coordinates>-119.524954,39.299467,1324.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TANK</name>
+        <description>TANK</description>
+        <Point>
+        <coordinates>-119.839270,39.381340,1833.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VERDI</name>
+        <description>VERDI PEAK</description>
+        <Point>
+        <coordinates>-120.039550,39.472350,2560.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WARMSP</name>
+        <description>WARM SPRINGS</description>
+        <Point>
+        <coordinates>-119.690240,39.770550,1376.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WASHOE</name>
+        <description>WASHOE LAKE</description>
+        <Point>
+        <coordinates>-119.757030,39.247710,1553.000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
