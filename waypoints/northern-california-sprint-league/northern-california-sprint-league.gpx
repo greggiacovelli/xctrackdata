@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2021-08-13T04:39:49.857Z</time>
+  <bounds minlat="36.713770000" minlon="-122.710809000" maxlat="39.430433000" maxlon="-119.076666000"/>
+  <wpt lat="39.389287000" lon="-122.687974000">
+    <ele>1245.000</ele>
+    <name>4160</name>
+    <cmt>HILL</cmt>
+    <desc>HILL</desc>
+  </wpt>
+  <wpt lat="36.781434000" lon="-119.121414000">
+    <ele>1511.000</ele>
+    <name>49917</name>
+    <cmt>49917</cmt>
+    <desc>49917</desc>
+  </wpt>
+  <wpt lat="37.065125000" lon="-119.456674000">
+    <ele>645.000</ele>
+    <name>4LNTRN</name>
+    <cmt>4 LANE TURN</cmt>
+    <desc>4 LANE TURN</desc>
+  </wpt>
+  <wpt lat="36.716483000" lon="-119.137649000">
+    <ele>641.000</ele>
+    <name>AIRSTR</name>
+    <cmt>AIRSTRIP</cmt>
+    <desc>AIRSTRIP</desc>
+  </wpt>
+  <wpt lat="36.765950000" lon="-119.203370000">
+    <ele>1081.000</ele>
+    <name>BALDMT</name>
+    <cmt>BALD MOUNTAIN</cmt>
+    <desc>BALD MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="36.766384000" lon="-119.129500000">
+    <ele>785.000</ele>
+    <name>BIGCAT</name>
+    <cmt>PROJECT SURVIVAL</cmt>
+    <desc>PROJECT SURVIVAL</desc>
+  </wpt>
+  <wpt lat="39.409858000" lon="-122.621188000">
+    <ele>978.000</ele>
+    <name>BLKDMD</name>
+    <cmt>BLACK DIAMOND</cmt>
+    <desc>BLACK DIAMOND</desc>
+  </wpt>
+  <wpt lat="37.012841000" lon="-119.451973000">
+    <ele>1091.000</ele>
+    <name>BLKMTN</name>
+    <cmt>BLACK MOUNTAIN</cmt>
+    <desc>BLACK MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="39.397054000" lon="-122.663827000">
+    <ele>741.000</ele>
+    <name>BRITTA</name>
+    <cmt>BRITTAN RANCH</cmt>
+    <desc>BRITTAN RANCH</desc>
+  </wpt>
+  <wpt lat="36.735500000" lon="-119.105132000">
+    <ele>632.000</ele>
+    <name>TIM</name>
+    <cmt>TIMS LZ</cmt>
+    <desc>TIMS LZ</desc>
+  </wpt>
+  <wpt lat="39.362252000" lon="-122.654673000">
+    <ele>491.000</ele>
+    <name>DAVIS</name>
+    <cmt>DAVIS</cmt>
+    <desc>DAVIS</desc>
+  </wpt>
+  <wpt lat="36.789115000" lon="-119.118986000">
+    <ele>1623.000</ele>
+    <name>DELILA</name>
+    <cmt>DELILAH</cmt>
+    <desc>DELILAH</desc>
+  </wpt>
+  <wpt lat="36.774402000" lon="-119.241068000">
+    <ele>1053.000</ele>
+    <name>DLTNMT</name>
+    <cmt>DALTON MOUNTAIN</cmt>
+    <desc>DALTON MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="36.765267000" lon="-119.098432000">
+    <ele>1415.000</ele>
+    <name>TMLNCH</name>
+    <cmt>TIMS LAUNCH</cmt>
+    <desc>TIMS LAUNCH</desc>
+  </wpt>
+  <wpt lat="36.729831000" lon="-119.134483000">
+    <ele>881.000</ele>
+    <name>GRNY</name>
+    <cmt>GRANY S KNOB</cmt>
+    <desc>GRANY S KNOB</desc>
+  </wpt>
+  <wpt lat="39.380036000" lon="-122.675356000">
+    <ele>749.000</ele>
+    <name>HAPPY</name>
+    <cmt>Y CAMPERS</cmt>
+    <desc>Y CAMPERS</desc>
+  </wpt>
+  <wpt lat="39.395486000" lon="-122.710809000">
+    <ele>1444.000</ele>
+    <name>HILLOC</name>
+    <cmt>HILLOCK YOU PILL</cmt>
+    <desc>HILLOCK YOU PILL</desc>
+  </wpt>
+  <wpt lat="36.760156000" lon="-119.169082000">
+    <ele>635.000</ele>
+    <name>HOPE</name>
+    <cmt>HOPEWELL ROAD</cmt>
+    <desc>HOPEWELL ROAD</desc>
+  </wpt>
+  <wpt lat="39.419556000" lon="-122.673678000">
+    <ele>1668.000</ele>
+    <name>JOHNLO</name>
+    <cmt>LOW ON ST JOHN</cmt>
+    <desc>LOW ON ST JOHN</desc>
+  </wpt>
+  <wpt lat="37.022163000" lon="-119.410428000">
+    <ele>832.000</ele>
+    <name>KNOB</name>
+    <cmt>KNOB</cmt>
+    <desc>KNOB</desc>
+  </wpt>
+  <wpt lat="36.737117000" lon="-119.079649000">
+    <ele>1053.000</ele>
+    <name>LASTCH</name>
+    <cmt>LAST CHANCE</cmt>
+    <desc>LAST CHANCE</desc>
+  </wpt>
+  <wpt lat="36.721367000" lon="-119.121182000">
+    <ele>854.000</ele>
+    <name>NONAME</name>
+    <cmt>NO NAME KNOB</cmt>
+    <desc>NO NAME KNOB</desc>
+  </wpt>
+  <wpt lat="39.340662000" lon="-122.685269000">
+    <ele>1040.000</ele>
+    <name>POTLAU</name>
+    <cmt>POTATO LAUNCH</cmt>
+    <desc>POTATO LAUNCH</desc>
+  </wpt>
+  <wpt lat="39.349642000" lon="-122.662075000">
+    <ele>518.000</ele>
+    <name>POTLZ</name>
+    <cmt>POTATO LZ</cmt>
+    <desc>POTATO LZ</desc>
+  </wpt>
+  <wpt lat="36.730317000" lon="-119.191886000">
+    <ele>815.000</ele>
+    <name>RUTH</name>
+    <cmt>RUTH HILL</cmt>
+    <desc>RUTH HILL</desc>
+  </wpt>
+  <wpt lat="37.073890000" lon="-119.465090000">
+    <ele>930.000</ele>
+    <name>SANDYM</name>
+    <cmt>SANDY MOUNTAIN</cmt>
+    <desc>SANDY MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="37.036241000" lon="-119.454840000">
+    <ele>587.000</ele>
+    <name>SJUHS</name>
+    <cmt>RA JOINT UNI</cmt>
+    <desc>RA JOINT UNI</desc>
+  </wpt>
+  <wpt lat="37.046408000" lon="-119.450690000">
+    <ele>643.000</ele>
+    <name>SKNOB</name>
+    <cmt>SANDY KNOB</cmt>
+    <desc>SANDY KNOB</desc>
+  </wpt>
+  <wpt lat="39.371072000" lon="-122.699824000">
+    <ele>1600.000</ele>
+    <name>SNOWLO</name>
+    <cmt>SNOW MOUNTAIN L</cmt>
+    <desc>SNOW MOUNTAIN L</desc>
+  </wpt>
+  <wpt lat="39.370823000" lon="-122.690083000">
+    <ele>1361.000</ele>
+    <name>SNOWVL</name>
+    <cmt>VERY LOW ON SNOW</cmt>
+    <desc>VERY LOW ON SNOW</desc>
+  </wpt>
+  <wpt lat="36.746933000" lon="-119.076666000">
+    <ele>1277.000</ele>
+    <name>SONTAG</name>
+    <cmt>SONTAG POINT</cmt>
+    <desc>SONTAG POINT</desc>
+  </wpt>
+  <wpt lat="36.738768000" lon="-119.251518000">
+    <ele>507.000</ele>
+    <name>SQVAL</name>
+    <cmt>SQUAW VALLEY</cmt>
+    <desc>SQUAW VALLEY</desc>
+  </wpt>
+  <wpt lat="39.430433000" lon="-122.691621000">
+    <ele>1939.000</ele>
+    <name>STJOHN</name>
+    <cmt>St JOHN MOUNTAIN</cmt>
+    <desc>St JOHN MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="39.375019000" lon="-122.543858000">
+    <ele>360.000</ele>
+    <name>STONYF</name>
+    <cmt>STONYFORD</cmt>
+    <desc>STONYFORD</desc>
+  </wpt>
+  <wpt lat="36.713770000" lon="-119.211554000">
+    <ele>700.000</ele>
+    <name>TANK</name>
+    <cmt>TANK</cmt>
+    <desc>TANK</desc>
+  </wpt>
+  <wpt lat="37.033307000" lon="-119.386606000">
+    <ele>1190.000</ele>
+    <name>TIT</name>
+    <cmt>SQUAW TIT</cmt>
+    <desc>SQUAW TIT</desc>
+  </wpt>
+  <wpt lat="37.015507000" lon="-119.373355000">
+    <ele>1241.000</ele>
+    <name>TOLLLN</name>
+    <cmt>TOLLHOUSE LAUNCH</cmt>
+    <desc>TOLLHOUSE LAUNCH</desc>
+  </wpt>
+  <wpt lat="37.014007000" lon="-119.400388000">
+    <ele>581.000</ele>
+    <name>TOLLLZ</name>
+    <cmt>TOLLHOUSE LZ</cmt>
+    <desc>TOLLHOUSE LZ</desc>
+  </wpt>
+  <wpt lat="39.334906000" lon="-122.698033000">
+    <ele>1073.000</ele>
+    <name>TOP</name>
+    <cmt>POTATO TOP</cmt>
+    <desc>POTATO TOP</desc>
+  </wpt>
+  <wpt lat="39.349706000" lon="-122.646633000">
+    <ele>775.000</ele>
+    <name>TROUGH</name>
+    <cmt>TROUGH SPUR</cmt>
+    <desc>TROUGH SPUR</desc>
+  </wpt>
+  <wpt lat="37.002029000" lon="-119.412419000">
+    <ele>770.000</ele>
+    <name>LODGE</name>
+    <cmt>LODGE ROAD HILL</cmt>
+    <desc>LODGE ROAD HILL</desc>
+  </wpt>
+  <wpt lat="36.740185000" lon="-119.129448000">
+    <ele>568.000</ele>
+    <name>TURKEY</name>
+    <cmt>TURKEY FARM</cmt>
+    <desc>TURKEY FARM</desc>
+  </wpt>
+  <wpt lat="36.769400000" lon="-119.101429900">
+    <ele>1415.000</ele>
+    <name>DNLNCH</name>
+    <cmt>DUNLAP LAUNCH</cmt>
+    <desc>DUNLAP LAUNCH</desc>
+  </wpt>
+  <wpt lat="36.728890000" lon="-119.107480000">
+    <ele>568.000</ele>
+    <name>DNLPLZ</name>
+    <cmt>DUNLAP LZ</cmt>
+    <desc>DUNLAP LZ</desc>
+  </wpt>
+</gpx>
