@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>Vaca_waypoints</name>
+  <Placemark>
+	<name>Vaca Launch</name>
+	<description>Mt Vaca Launch</description>
+      <Point><coordinates>-122.105984542865,38.4003207640929, 860.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calfire</name>
+	<description>Calfire at Wilbur Springs</description>
+      <Point><coordinates>-122.357672286582,39.0119360101042, 333.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lodoga</name>
+	<description>Lodoga lodge</description>
+      <Point><coordinates>-122.488488959751,39.3019913278426, 370.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5k north</name>
+	<description>5k north of launch</description>
+      <Point><coordinates>-122.123760081888,38.4397567110996, 722.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East hills</name>
+	<description>East hills</description>
+      <Point><coordinates>-122.036728135713,38.4559082245781, 191.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking</name>
+	<description>main parking area</description>
+      <Point><coordinates>-122.040641500776,38.3997931426089, 109.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Horse LZ</name>
+<description>Horse LZ by HW120</description>
+      <Point><coordinates>-122.155381693338,38.4634589006378, 162.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>winters</name>
+<description>winters</description>
+      <Point><coordinates>-121.96165520017,38.5293906271734, 38.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>table mountain</name>
+<description>table mountain</description>
+      <Point><coordinates>-122.536615932378,38.6802609783214, 875.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Knoxville south</name>
+<description>Berryessa Peak Trailhead</description>
+      <Point><coordinates>-122.269199383098,38.7029695841093, 173.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Berryessa peak</name>
+<description>Berryessa Peak</description>
+      <Point><coordinates>-122.189586248495,38.6635493623109, 913.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rivertrip</name>
+<description>Rivertrip</description>
+      <Point><coordinates>-122.25462494025,38.8989600698982, 145.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>williams</name>
+<description>williams</description>
+      <Point><coordinates>-122.159234,39.156408, 25.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>knoxville</name>
+<description>knoxville</description>
+      <Point><coordinates>-122.3338703,38.825053, 388.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>hwy 20 gap</name>
+<description>hwy 20 gap</description>
+      <Point><coordinates>-122.325297782194,39.10446565285, 150.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maxwell road</name>
+<description>Maxwell road</description>
+      <Point><coordinates>-122.322737337415,39.306777511318,76.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bear valley north</name>
+	<description>Bear valley north</description>
+      <Point><coordinates>-122.440717602874,39.1642576604422, 411.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>bear valley south</name>
+<description>Bear valley south</description>
+      <Point><coordinates>-122.409557844426,39.0737159308319, 407.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoon Valley</name>
+<description>Lagoon Valley</description>
+      <Point><coordinates>-122.017905652238,38.330353033185, 67.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Skyline park LZ</name>
+	<description>Skyline park LZ</description>
+      <Point><coordinates>-122.247395503965,38.278722745307, 54.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121 ridge</name>
+	<description>121 ridge</description>
+      <Point><coordinates>-122.211615195795,38.3783291475564, 521.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>rockville</name>
+	<description>rockville</description>
+      <Point><coordinates>-122.123195473325,38.2431540118088, 19.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidden Valley</name>
+<description>Hidden Valley</description>
+      <Point><coordinates>-122.56756009676,38.7960551184105, 293.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Helena</name>
+<description>St HElena</description>
+      <Point><coordinates>-122.633377549923,38.6685822240062, 1310.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pope Valley</name>
+<description>Pope Valley</description>
+      <Point><coordinates>-122.464070993541,38.6559133402541, 212.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esparto</name>
+<description>Esparto</description>
+      <Point><coordinates>-122.028657,38.698371, 62.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Guinda</name>
+<description>East Guinda peak</description>
+      <Point><coordinates>-122.135177,38.837802, 539.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rumsey</name>
+<description>Rumsey</description>
+      <Point><coordinates>-122.234818,38.884046,129.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guinda</name>
+<description>Guinda</description>
+      <Point><coordinates>-122.187672,38.821860,109.000000</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moskowite</name>
+<description>Moskowite corner</description>
+      <Point><coordinates>-122.188089,38.442946,260.000000</coordinates></Point>
+  </Placemark>
+
+
+
+</Folder>
+</Document></kml>
