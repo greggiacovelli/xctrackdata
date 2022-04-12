@@ -1,0 +1,70 @@
+Group	sID	sDescription	fLat	fLong	fEasting	fNorthing	fAlt	iColour	iSymbol	sHyperLink
+new	Deer	Deer Mountain	41.607033	-122.128167			2100.00	255	1	
+new	Whaleb	Whaleback  Mountain	41.528250	-122.140683			2579.00	255	1	
+new	launch	Whaleback launch	41.535103	-122.152566			2266.00	255	1	
+new	shasta	Mt Shasta	41.410483	-122.195350			4272.00	255	1	
+new	Ashbut	Ash Butte Creek	41.446933	-122.048317			2493.00	255	1	
+new	McClou	McCloud airstrip	41.285083	-121.940167			1132.00	255	1	
+new	Weed	Weed	41.435300	-122.366433			1092.00	255	1	
+new	Sheep	Sheep rock	41.580933	-122.222067			1705.00	255	1	
+new	Herd	Herd Peak	41.628350	-122.230767			2085.00	255	1	
+new	MtShee	Sheep Mountain	41.801667	-121.885283			1872.00	255	1	
+new	Hebron	Mt Hebron	41.703317	-122.017350			1865.00	255	1	
+new	Orr	Orr Mountain	41.667500	-121.976100			1772.00	255	1	
+new	Cedar	Cedar	41.709200	-121.908683			1812.00	255	1	
+new	macdoe	Macdoel City	41.830117	-122.005233			1298.00	255	1	
+new	Junipe	Juniper	41.836667	-121.987400			1395.00	255	1	
+new	hillD	Dorris Hill	41.990033	-121.930817			1635.00	255	1	
+new	Dorris	Dorris	41.962367	-121.925000			1293.00	255	1	
+new	Dome	Mt Dome	41.808983	-121.687717			1974.00	255	1	
+new	Sharp	Sharp Mtn	41.703317	-121.770650			1892.00	255	1	
+new	Middle	Middle sister	41.717317	-121.739183			1608.00	255	1	
+new	Tulela	Tulelake racetrack	41.947867	-121.478717			1229.00	255	1	
+new	Grass	Grass Lake Visitors Center	41.643920	-122.167340			1529.00	255	1	
+new	WhaleL	whaleback LZ	41.550217	-122.198967			1372.00	255	1	
+new	Bikini	Bikini Junction (aka Mt Shasta Woods)	41.605041	-122.073262			1501.00	255	1	
+new	USFS42	USFS 42	41.541150	-122.049750			1555.00	255	1	
+new	Mahago	Mahagony Mountain	41.875033	-121.857217			1879.00	255	1	
+new	Howizt	Howitzer Point	41.818367	-121.532683			1232.00	255	1	
+new	cllkrd	Clear Lake Road	41.794183	-121.176250			1367.00	255	1	
+new	Tiones	Tionesta	41.647933	-121.325300			1303.00	255	1	
+new	Falls	Falls Highway	42.236483	-121.839633			1362.00	255	1	
+new	Aspen	Aspen Lake	42.323983	-122.023633			1331.00	255	1	
+new	Buck	Near Buck Island	42.287533	-121.914067			1278.00	255	1	
+new	Klamat	Klamath Airport. Make it in here and you get DQed.	42.156100	-121.733200			1247.00	255	1	
+new	shasti	Lake Shastina	41.494683	-122.401317			884.00	255	1	
+new	eddy	Mt Eddy	41.319133	-122.479250			2733.00	255	1	
+new	goosen	Goosenest	41.719383	-122.222583			2513.00	255	1	
+new	Antelo	Antelope Mtn	41.593185	-122.640467			1852.00	255	1	
+new	Eagle 	Eagle Rock	41.877250	-122.241717			2083.00	255	1	
+new	Rabbit	Rabbit Hill	41.671167	-122.388033			1042.00	255	1	
+new	Black	black mountain	41.857680	-122.512020			1543.00	255	1	
+new	Paradi	Paradise Craggy	41.814867	-122.546933			1464.00	255	1	
+new	Bonnet	Bonnet	41.514250	-122.575150			1280.00	255	1	
+new	Stewar	Stewart	41.447250	-122.541783			2082.00	255	1	
+new	Emigra	Emigrant Lake	42.146263	-122.611420			687.00	255	1	
+new	Willow	Willow Creek Mtn	41.814717	-122.242150			2373.00	255	1	
+new	Montag	Montague athletic field	41.722783	-122.526417			776.00	255	1	
+new	Hornbr	Hornbrook school	41.910183	-122.561717			670.00	255	1	
+new	Perez	Perez landing strip	41.676895	-121.268064			1265.00	255	1	
+new	Tickne	Tickner Road	41.527038	-121.122149			1450.00	255	1	
+new	Kandra	Kandra grain elevator	41.829333	-121.398683			1235.00	255	1	
+new	Ambros	Ambrose	41.500498	-120.976748			1513.00	255	1	
+new	Altura	Alturas	41.493802	-120.566078			1335.00	255	1	
+new	Dairy	Dairy	42.247933	-121.516900			1273.00	255	1	
+new	Beatty	Beatty	42.445876	-121.265396			1319.00	255	1	
+new	Bly	Bly	42.401080	-121.035817			1325.00	255	1	
+new	Ball	Ball Mountain	41.794739	-122.155781			2377.00	255	1	
+new	Keno	Keno	42.127948	-121.910790			1258.00	255	1	
+new	Bonanz	Bonanza	42.201791	-121.409456			1261.00	255	1	
+new	Merril	Merrill	42.028910	-121.606890			1242.00	255	1	
+new	Yreka	Yreka	41.695088	-122.646925			839.00	255	1	
+new	yellow	Yellow Butte	41.547472	-122.262279			1630.00	255	1	
+new	LTDEER	LITTLE DEER MOUNTAIN	41.676417	-122.117583			1799.00	255	1	
+new	MTHEBR	MT HEBRON	41.789250	-122.003467			1298.00	255	1	
+new	BVAIR	BUTTE VALLEY AIRPORT	41.886667	-121.975517			1292.00	255	1	
+new	MUD	MUD LAKE	41.985683	-121.983883			1452.00	255	1	
+new	SECRET	SECRET SPRINGS MOUNTAIN	41.974333	-122.135817			1698.00	255	1	
+new	HAMAKE	HAMAKER HILL	42.067983	-121.970300			1986.00	255	1	
+new	BOYLER	BOYLER RESERVOIR	42.134183	-122.028750			42916904.00	255	1	
+new	SHEEPY	SHEEPY PEAK	41.953800	-121.576967			1531.00	255	1	

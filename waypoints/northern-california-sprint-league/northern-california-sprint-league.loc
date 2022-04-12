@@ -1,0 +1,222 @@
+<?xml version="1.0"?><loc version="1.0" src="EasyGPS">
+<waypoint>
+<name id="4160"><![CDATA[HILL]]></name>
+<coord lat="39.389287" lon="-122.687974"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="49917"><![CDATA[49917]]></name>
+<coord lat="36.781434" lon="-119.121414"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="4LNTRN"><![CDATA[4 LANE TURN]]></name>
+<coord lat="37.065125" lon="-119.456674"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="AIRSTR"><![CDATA[AIRSTRIP]]></name>
+<coord lat="36.716483" lon="-119.137649"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BALDMT"><![CDATA[BALD MOUNTAIN]]></name>
+<coord lat="36.765950" lon="-119.203370"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BIGCAT"><![CDATA[PROJECT SURVIVAL]]></name>
+<coord lat="36.766384" lon="-119.129500"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BLKDMD"><![CDATA[BLACK DIAMOND]]></name>
+<coord lat="39.409858" lon="-122.621188"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BLKMTN"><![CDATA[BLACK MOUNTAIN]]></name>
+<coord lat="37.012841" lon="-119.451973"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BRITTA"><![CDATA[BRITTAN RANCH]]></name>
+<coord lat="39.397054" lon="-122.663827"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TIM"><![CDATA[TIMS LZ]]></name>
+<coord lat="36.735500" lon="-119.105132"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DAVIS"><![CDATA[DAVIS]]></name>
+<coord lat="39.362252" lon="-122.654673"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DELILA"><![CDATA[DELILAH]]></name>
+<coord lat="36.789115" lon="-119.118986"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DLTNMT"><![CDATA[DALTON MOUNTAIN]]></name>
+<coord lat="36.774402" lon="-119.241068"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TMLNCH"><![CDATA[TIMS LAUNCH]]></name>
+<coord lat="36.765267" lon="-119.098432"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GRNY"><![CDATA[GRANY S KNOB]]></name>
+<coord lat="36.729831" lon="-119.134483"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HAPPY"><![CDATA[Y CAMPERS]]></name>
+<coord lat="39.380036" lon="-122.675356"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HILLOC"><![CDATA[HILLOCK YOU PILL]]></name>
+<coord lat="39.395486" lon="-122.710809"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HOPE"><![CDATA[HOPEWELL ROAD]]></name>
+<coord lat="36.760156" lon="-119.169082"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="JOHNLO"><![CDATA[LOW ON ST JOHN]]></name>
+<coord lat="39.419556" lon="-122.673678"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="KNOB"><![CDATA[KNOB]]></name>
+<coord lat="37.022163" lon="-119.410428"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LASTCH"><![CDATA[LAST CHANCE]]></name>
+<coord lat="36.737117" lon="-119.079649"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="NONAME"><![CDATA[NO NAME KNOB]]></name>
+<coord lat="36.721367" lon="-119.121182"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="POTLAU"><![CDATA[POTATO LAUNCH]]></name>
+<coord lat="39.340662" lon="-122.685269"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="POTLZ"><![CDATA[POTATO LZ]]></name>
+<coord lat="39.349642" lon="-122.662075"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="RUTH"><![CDATA[RUTH HILL]]></name>
+<coord lat="36.730317" lon="-119.191886"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SANDYM"><![CDATA[SANDY MOUNTAIN]]></name>
+<coord lat="37.073890" lon="-119.465090"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SJUHS"><![CDATA[RA JOINT UNI]]></name>
+<coord lat="37.036241" lon="-119.454840"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SKNOB"><![CDATA[SANDY KNOB]]></name>
+<coord lat="37.046408" lon="-119.450690"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SNOWLO"><![CDATA[SNOW MOUNTAIN L]]></name>
+<coord lat="39.371072" lon="-122.699824"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SNOWVL"><![CDATA[VERY LOW ON SNOW]]></name>
+<coord lat="39.370823" lon="-122.690083"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SONTAG"><![CDATA[SONTAG POINT]]></name>
+<coord lat="36.746933" lon="-119.076666"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SQVAL"><![CDATA[SQUAW VALLEY]]></name>
+<coord lat="36.738768" lon="-119.251518"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="STJOHN"><![CDATA[St JOHN MOUNTAIN]]></name>
+<coord lat="39.430433" lon="-122.691621"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="STONYF"><![CDATA[STONYFORD]]></name>
+<coord lat="39.375019" lon="-122.543858"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TANK"><![CDATA[TANK]]></name>
+<coord lat="36.713770" lon="-119.211554"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TIT"><![CDATA[SQUAW TIT]]></name>
+<coord lat="37.033307" lon="-119.386606"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TOLLLN"><![CDATA[TOLLHOUSE LAUNCH]]></name>
+<coord lat="37.015507" lon="-119.373355"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TOLLLZ"><![CDATA[TOLLHOUSE LZ]]></name>
+<coord lat="37.014007" lon="-119.400388"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TOP"><![CDATA[POTATO TOP]]></name>
+<coord lat="39.334906" lon="-122.698033"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TROUGH"><![CDATA[TROUGH SPUR]]></name>
+<coord lat="39.349706" lon="-122.646633"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LODGE"><![CDATA[LODGE ROAD HILL]]></name>
+<coord lat="37.002029" lon="-119.412419"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TURKEY"><![CDATA[TURKEY FARM]]></name>
+<coord lat="36.740185" lon="-119.129448"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DNLNCH"><![CDATA[DUNLAP LAUNCH]]></name>
+<coord lat="36.769400" lon="-119.101430"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DNLPLZ"><![CDATA[DUNLAP LZ]]></name>
+<coord lat="36.728890" lon="-119.107480"/>
+<type></type>
+</waypoint>
+</loc>

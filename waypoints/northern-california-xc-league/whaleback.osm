@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='GPSBabel-1.5.2'>
+  <node id='-1' visible='true' lat='41.6070330' lon='-122.1281670'>
+    <tag k='name' v='Deer'/>
+    <tag k='note' v='Deer Mountain'/>
+  </node>
+  <node id='-2' visible='true' lat='41.5282500' lon='-122.1406830'>
+    <tag k='name' v='Whaleback'/>
+    <tag k='note' v='Whaleback  Mountain'/>
+  </node>
+  <node id='-3' visible='true' lat='41.5351030' lon='-122.1525660'>
+    <tag k='name' v='launchWhale'/>
+    <tag k='note' v='Whaleback launch'/>
+  </node>
+  <node id='-4' visible='true' lat='41.4104830' lon='-122.1953500'>
+    <tag k='name' v='shasta'/>
+    <tag k='note' v='Mt Shasta'/>
+  </node>
+  <node id='-5' visible='true' lat='41.4469330' lon='-122.0483170'>
+    <tag k='name' v='Ashbutte'/>
+    <tag k='note' v='Ash Butte Creek'/>
+  </node>
+  <node id='-6' visible='true' lat='41.2850830' lon='-121.9401670'>
+    <tag k='name' v='McCloud'/>
+    <tag k='note' v='McCloud airstrip'/>
+  </node>
+  <node id='-7' visible='true' lat='41.4353000' lon='-122.3664330'>
+    <tag k='name' v='Weed'/>
+    <tag k='note' v='Weed'/>
+  </node>
+  <node id='-8' visible='true' lat='41.5809330' lon='-122.2220670'>
+    <tag k='name' v='Sheep'/>
+    <tag k='note' v='Sheep rock'/>
+  </node>
+  <node id='-9' visible='true' lat='41.6283500' lon='-122.2307670'>
+    <tag k='name' v='Herd'/>
+    <tag k='note' v='Herd Peak'/>
+  </node>
+  <node id='-10' visible='true' lat='41.8016670' lon='-121.8852830'>
+    <tag k='name' v='MtSheep'/>
+    <tag k='note' v='Sheep Mountain'/>
+  </node>
+  <node id='-11' visible='true' lat='41.7033170' lon='-122.0173500'>
+    <tag k='name' v='Hebron'/>
+    <tag k='note' v='Mt Hebron'/>
+  </node>
+  <node id='-12' visible='true' lat='41.6675000' lon='-121.9761000'>
+    <tag k='name' v='Orr'/>
+    <tag k='note' v='Orr Mountain'/>
+  </node>
+  <node id='-13' visible='true' lat='41.7092000' lon='-121.9086830'>
+    <tag k='name' v='Cedar'/>
+    <tag k='note' v='Cedar'/>
+  </node>
+  <node id='-14' visible='true' lat='41.8301170' lon='-122.0052330'>
+    <tag k='name' v='macdoel'/>
+    <tag k='note' v='Macdoel City'/>
+  </node>
+  <node id='-15' visible='true' lat='41.8366670' lon='-121.9874000'>
+    <tag k='name' v='Juniper'/>
+    <tag k='note' v='Juniper'/>
+  </node>
+  <node id='-16' visible='true' lat='41.9900330' lon='-121.9308170'>
+    <tag k='name' v='hillD'/>
+    <tag k='note' v='Dorris Hill'/>
+  </node>
+  <node id='-17' visible='true' lat='41.9623670' lon='-121.9250000'>
+    <tag k='name' v='Dorris'/>
+    <tag k='note' v='Dorris'/>
+  </node>
+  <node id='-18' visible='true' lat='41.8089830' lon='-121.6877170'>
+    <tag k='name' v='Dome'/>
+    <tag k='note' v='Mt Dome'/>
+  </node>
+  <node id='-19' visible='true' lat='41.7033170' lon='-121.7706500'>
+    <tag k='name' v='Sharp'/>
+    <tag k='note' v='Sharp Mtn'/>
+  </node>
+  <node id='-20' visible='true' lat='41.7173170' lon='-121.7391830'>
+    <tag k='name' v='Middle'/>
+    <tag k='note' v='Middle sister'/>
+  </node>
+  <node id='-21' visible='true' lat='41.9478670' lon='-121.4787170'>
+    <tag k='name' v='Tulelake'/>
+    <tag k='note' v='Tulelake racetrack'/>
+  </node>
+  <node id='-22' visible='true' lat='41.6439200' lon='-122.1673400'>
+    <tag k='name' v='Grass'/>
+    <tag k='note' v='Grass Lake Visitors Center'/>
+  </node>
+  <node id='-23' visible='true' lat='41.5502170' lon='-122.1989670'>
+    <tag k='name' v='WhaleLZ'/>
+    <tag k='note' v='whaleback LZ'/>
+  </node>
+  <node id='-24' visible='true' lat='41.6050410' lon='-122.0732620'>
+    <tag k='name' v='Bikini'/>
+    <tag k='note' v='Bikini Junction (aka Mt Shasta Woods)'/>
+  </node>
+  <node id='-25' visible='true' lat='41.5411500' lon='-122.0497500'>
+    <tag k='name' v='USFS42'/>
+    <tag k='note' v='USFS 42'/>
+  </node>
+  <node id='-26' visible='true' lat='41.8750330' lon='-121.8572170'>
+    <tag k='name' v='Mahagony'/>
+    <tag k='note' v='Mahagony Mountain'/>
+  </node>
+  <node id='-27' visible='true' lat='41.8183670' lon='-121.5326830'>
+    <tag k='name' v='Howizter'/>
+    <tag k='note' v='Howitzer Point'/>
+  </node>
+  <node id='-28' visible='true' lat='41.7941830' lon='-121.1762500'>
+    <tag k='name' v='cllkrd'/>
+    <tag k='note' v='Clear Lake Road'/>
+  </node>
+  <node id='-29' visible='true' lat='41.6479330' lon='-121.3253000'>
+    <tag k='name' v='Tionesta'/>
+    <tag k='note' v='Tionesta'/>
+  </node>
+  <node id='-30' visible='true' lat='42.2364830' lon='-121.8396330'>
+    <tag k='name' v='Falls'/>
+    <tag k='note' v='Falls Highway'/>
+  </node>
+  <node id='-31' visible='true' lat='42.3239830' lon='-122.0236330'>
+    <tag k='name' v='Aspen'/>
+    <tag k='note' v='Aspen Lake'/>
+  </node>
+  <node id='-32' visible='true' lat='42.2875330' lon='-121.9140670'>
+    <tag k='name' v='Buck'/>
+    <tag k='note' v='Near Buck Island'/>
+  </node>
+  <node id='-33' visible='true' lat='42.1561000' lon='-121.7332000'>
+    <tag k='name' v='Klamath'/>
+    <tag k='note' v='Klamath Airport. Make it in here and you get DQed.'/>
+  </node>
+  <node id='-34' visible='true' lat='41.4946830' lon='-122.4013170'>
+    <tag k='name' v='shastina'/>
+    <tag k='note' v='Lake Shastina'/>
+  </node>
+  <node id='-35' visible='true' lat='41.3191330' lon='-122.4792500'>
+    <tag k='name' v='eddy'/>
+    <tag k='note' v='Mt Eddy'/>
+  </node>
+  <node id='-36' visible='true' lat='41.7193830' lon='-122.2225830'>
+    <tag k='name' v='goosenest'/>
+    <tag k='note' v='Goosenest'/>
+  </node>
+  <node id='-37' visible='true' lat='41.5931850' lon='-122.6404670'>
+    <tag k='name' v='Antelope'/>
+    <tag k='note' v='Antelope Mtn'/>
+  </node>
+  <node id='-38' visible='true' lat='41.8772500' lon='-122.2417170'>
+    <tag k='name' v='Eagle '/>
+    <tag k='note' v='Eagle Rock'/>
+  </node>
+  <node id='-39' visible='true' lat='41.6711670' lon='-122.3880330'>
+    <tag k='name' v='Rabbit'/>
+    <tag k='note' v='Rabbit Hill'/>
+  </node>
+  <node id='-40' visible='true' lat='41.8576800' lon='-122.5120200'>
+    <tag k='name' v='Black'/>
+    <tag k='note' v='black mountain'/>
+  </node>
+  <node id='-41' visible='true' lat='41.8148670' lon='-122.5469330'>
+    <tag k='name' v='Paradise'/>
+    <tag k='note' v='Paradise Craggy'/>
+  </node>
+  <node id='-42' visible='true' lat='41.5142500' lon='-122.5751500'>
+    <tag k='name' v='Bonnet'/>
+    <tag k='note' v='Bonnet'/>
+  </node>
+  <node id='-43' visible='true' lat='41.4472500' lon='-122.5417830'>
+    <tag k='name' v='Stewart'/>
+    <tag k='note' v='Stewart'/>
+  </node>
+  <node id='-44' visible='true' lat='42.1462630' lon='-122.6114200'>
+    <tag k='name' v='Emigrant'/>
+    <tag k='note' v='Emigrant Lake'/>
+  </node>
+  <node id='-45' visible='true' lat='41.8147170' lon='-122.2421500'>
+    <tag k='name' v='Willow'/>
+    <tag k='note' v='Willow Creek Mtn'/>
+  </node>
+  <node id='-46' visible='true' lat='41.7227830' lon='-122.5264170'>
+    <tag k='name' v='Montague'/>
+    <tag k='note' v='Montague athletic field'/>
+  </node>
+  <node id='-47' visible='true' lat='41.9101830' lon='-122.5617170'>
+    <tag k='name' v='Hornbrook'/>
+    <tag k='note' v='Hornbrook school'/>
+  </node>
+  <node id='-48' visible='true' lat='41.6768950' lon='-121.2680640'>
+    <tag k='name' v='Perez'/>
+    <tag k='note' v='Perez landing strip'/>
+  </node>
+  <node id='-49' visible='true' lat='41.5270380' lon='-121.1221490'>
+    <tag k='name' v='Tickner'/>
+    <tag k='note' v='Tickner Road'/>
+  </node>
+  <node id='-50' visible='true' lat='41.8293330' lon='-121.3986830'>
+    <tag k='name' v='Kandra'/>
+    <tag k='note' v='Kandra grain elevator'/>
+  </node>
+  <node id='-51' visible='true' lat='41.5004980' lon='-120.9767480'>
+    <tag k='name' v='Ambrose'/>
+    <tag k='note' v='Ambrose'/>
+  </node>
+  <node id='-52' visible='true' lat='41.4938020' lon='-120.5660780'>
+    <tag k='name' v='Alturas'/>
+    <tag k='note' v='Alturas'/>
+  </node>
+  <node id='-53' visible='true' lat='42.2479330' lon='-121.5169000'>
+    <tag k='name' v='Dairy'/>
+    <tag k='note' v='Dairy'/>
+  </node>
+  <node id='-54' visible='true' lat='42.4458760' lon='-121.2653960'>
+    <tag k='name' v='Beatty'/>
+    <tag k='note' v='Beatty'/>
+  </node>
+  <node id='-55' visible='true' lat='42.4010800' lon='-121.0358170'>
+    <tag k='name' v='Bly'/>
+    <tag k='note' v='Bly'/>
+  </node>
+  <node id='-56' visible='true' lat='41.7947390' lon='-122.1557810'>
+    <tag k='name' v='Ball'/>
+    <tag k='note' v='Ball Mountain'/>
+  </node>
+  <node id='-57' visible='true' lat='42.1279480' lon='-121.9107900'>
+    <tag k='name' v='Keno'/>
+    <tag k='note' v='Keno'/>
+  </node>
+  <node id='-58' visible='true' lat='42.2017910' lon='-121.4094560'>
+    <tag k='name' v='Bonanza'/>
+    <tag k='note' v='Bonanza'/>
+  </node>
+  <node id='-59' visible='true' lat='42.0289100' lon='-121.6068900'>
+    <tag k='name' v='Merrill'/>
+    <tag k='note' v='Merrill'/>
+  </node>
+  <node id='-60' visible='true' lat='41.6950880' lon='-122.6469250'>
+    <tag k='name' v='Yreka'/>
+    <tag k='note' v='Yreka'/>
+  </node>
+  <node id='-61' visible='true' lat='41.5474720' lon='-122.2622790'>
+    <tag k='name' v='yellow'/>
+    <tag k='note' v='Yellow Butte'/>
+  </node>
+  <node id='-62' visible='true' lat='41.6764170' lon='-122.1175830'>
+    <tag k='name' v='LTDEER'/>
+    <tag k='note' v='LITTLE DEER MOUNTAIN'/>
+  </node>
+  <node id='-63' visible='true' lat='41.7892500' lon='-122.0034670'>
+    <tag k='name' v='MTHEBRON'/>
+    <tag k='note' v='MT HEBRON'/>
+  </node>
+  <node id='-64' visible='true' lat='41.8866670' lon='-121.9755170'>
+    <tag k='name' v='BVAIR'/>
+    <tag k='note' v='BUTTE VALLEY AIRPORT'/>
+  </node>
+  <node id='-65' visible='true' lat='41.9856830' lon='-121.9838830'>
+    <tag k='name' v='MUD'/>
+    <tag k='note' v='MUD LAKE'/>
+  </node>
+  <node id='-66' visible='true' lat='41.9743330' lon='-122.1358170'>
+    <tag k='name' v='SECRET'/>
+    <tag k='note' v='SECRET SPRINGS MOUNTAIN'/>
+  </node>
+  <node id='-67' visible='true' lat='42.0679830' lon='-121.9703000'>
+    <tag k='name' v='HAMAKER'/>
+    <tag k='note' v='HAMAKER HILL'/>
+  </node>
+  <node id='-68' visible='true' lat='42.1341830' lon='-122.0287500'>
+    <tag k='name' v='BOYLER'/>
+    <tag k='note' v='BOYLER RESERVOIR'/>
+  </node>
+  <node id='-69' visible='true' lat='41.9538000' lon='-121.5769670'>
+    <tag k='name' v='SHEEPY'/>
+    <tag k='note' v='SHEEPY PEAK'/>
+  </node>
+</osm>

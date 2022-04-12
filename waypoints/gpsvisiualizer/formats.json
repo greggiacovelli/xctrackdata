@@ -1,0 +1,598 @@
+[
+    {
+        "input": "alantrl",
+        "name": "Alan Map500 tracklogs (.trl) [T]"
+    },
+    {
+        "input": "alanwpr",
+        "name": "Alan Map500 waypoints and routes (.wpr) [W][R]",
+        "suffix": "wpr"
+    },
+    {
+        "input": "bushnell_trl",
+        "name": "Bushnell GPS Trail file [T]"
+    },
+    {
+        "input": "bushnell",
+        "name": "Bushnell GPS Waypoint file [W]"
+    },
+    {
+        "input": "cambridge",
+        "name": "Cambridge/Winpilot glider software [T]",
+        "special": { "xcsv:datum": "WGS 84" }
+    },
+    {
+        "input": "cst",
+        "name": "CarteSurTable data file [W][T][R]"
+    },
+    {
+        "input": "v900",
+        "name": "Columbus/Visiontac V900 files (.csv) [W][T]"
+    },
+    {
+        "input": "compegps",
+        "name": "CompeGPS data files (.wpt/.trk/.rte) [W][T][R]",
+        "suffix": "wpt"
+    },
+    {
+        "input": "iblue747",
+        "name": "Data Logger iBlue747 csv [T]"
+    },
+    {
+        "input": "iblue757",
+        "name": "Data Logger iBlue757 csv [T]"
+    },
+    {
+        "input": "an1",
+        "name": "DeLorme .an1 (drawing) file [W][R]"
+    },
+    {
+        "input": "gpl",
+        "name": "DeLorme GPL [T]"
+    },
+    {
+        "input": "saplus",
+        "name": "DeLorme Street Atlas Plus [W]"
+    },
+    {
+        "input": "saroute",
+        "name": "DeLorme Street Atlas Route [T]"
+    },
+    {
+        "input": "xmap",
+        "name": "DeLorme XMap HH Native .WPT [W]"
+    },
+    {
+        "input": "xmap2006",
+        "name": "DeLorme XMap/SAHH 2006 Native .TXT [W]",
+        "suffix": "xmap2006.txt"
+    },
+    {
+        "input": "xmapwpt",
+        "name": "DeLorme XMat HH Street Atlas USA .WPT (PPC) [W]",
+        "suffix": "delorme.wpt"
+    },
+    {
+        "input": "destinator_itn",
+        "name": "Destinator Itineraries (.dat) [R]",
+        "suffix": "destinator_itn.dat"
+    },
+    {
+        "input": "destinator_poi",
+        "name": "Destinator Points of Interest (.dat) [W]",
+        "suffix": "destinator_poi.dat"
+    },
+    {
+        "input": "destinator_trl",
+        "name": "Destinator TrackLogs (.dat) [T]",
+        "suffix": "destinator_trl.dat"
+    },
+    {
+        "input": "easygps",
+        "name": "EasyGPS binary format [W]"
+    },
+    {
+        "input": "exif",
+        "name": "Embedded Exif-GPS data (.jpg) [W]"
+    },
+    {
+        "input": "energympro",
+        "name": "Energympro GPS training watch [T]"
+    },
+    {
+        "input": "enigma",
+        "name": "Enigma binary waypoint file (.ert) [R]",
+        "suffix": "ert"
+    },
+    {
+        "input": "f90g",
+        "name": "F90G Automobile DVR GPS log file [T]"
+    },
+    {
+        "input": "igc",
+        "name": "FAI/IGC Flight Recorder Data Format [T][R]"
+    },
+    {
+        "input": "garmin_fit",
+        "name": "Flexible and Interoperable Data Transfer (FIT) Activity file [T]"
+    },
+    {
+        "input": "flysight",
+        "name": "FlySight GPS File [T]"
+    },
+    {
+        "input": "fugawi",
+        "name": "Fugawi [W]"
+    },
+    {
+        "input": "g7towin",
+        "name": "G7ToWin data files (.g7t) [W][T][R]",
+        "suffix": "g7t"
+    },
+    {
+        "input": "garmin301",
+        "name": "Garmin 301 Custom position and heartrate [W]"
+    },
+    {
+        "input": "garmin_g1000",
+        "name": "Garmin G1000 datalog input filter file [T]"
+    },
+    {
+        "input": "glogbook",
+        "name": "Garmin Logbook XML [T]"
+    },
+    {
+        "input": "gdb",
+        "name": "Garmin MapSource - gdb [W][T][R]"
+    },
+    {
+        "input": "mapsource",
+        "name": "Garmin MapSource - mps [W][T][R]",
+        "suffix": "mps"
+    },
+    {
+        "input": "garmin_txt",
+        "name": "Garmin MapSource - txt (tab delimited) [W][T][R]",
+        "suffix": "garmin.txt"
+    },
+    {
+        "input": "pcx",
+        "name": "Garmin PCX5 [W][T][R]"
+    },
+    {
+        "input": "garmin_poi",
+        "name": "Garmin POI database [W]"
+    },
+    {
+        "input": "garmin_gpi",
+        "name": "Garmin Points of Interest (.gpi) [W]",
+        "suffix": "gpi"
+    },
+    {
+        "input": "gtrnctr",
+        "name": "Garmin Training Center (.tcx/.xml) [W][T]",
+        "suffix": "tcx"
+    },
+    {
+        "input": "geo",
+        "name": "Geocaching.com .loc [W]",
+        "suffix": "loc"
+    },
+    {
+        "input": "ggv_ovl",
+        "name": "Geogrid-Viewer ascii overlay file (.ovl) [W][T][R]",
+        "suffix": "ovl"
+    },
+    {
+        "input": "ggv_log",
+        "name": "Geogrid-Viewer tracklogs (.log) [T]",
+        "suffix": "log"
+    },
+    {
+        "input": "geonet",
+        "name": "GEOnet Names Server (GNS) [W]"
+    },
+    {
+        "input": "googledir",
+        "name": "Google Directions XML [T]"
+    },
+    {
+        "input": "kml",
+        "name": "Google Earth (Keyhole) Markup Language [W][T][R]"
+    },
+    {
+        "input": "google",
+        "name": "Google Maps XML [T]"
+    },
+    {
+        "input": "gnav_trl",
+        "name": "Google Navigator Tracklines (.trl) [T]",
+        "suffix": "google.trl"
+    },
+    {
+        "input": "gopal",
+        "name": "GoPal GPS track log (.trk) [T]",
+        "suffix": "gopal.trk"
+    },
+    {
+        "input": "land_air_sea",
+        "name": "GPS Tracking Key Pro text [T]"
+    },
+    {
+        "input": "gtm",
+        "name": "GPS TrackMaker [W][T][R]"
+    },
+    {
+        "input": "arc",
+        "name": "GPSBabel arc filter file [T]"
+    },
+    {
+        "input": "gpsdrive",
+        "name": "GpsDrive Format [T]"
+    },
+    {
+        "input": "gpsdrivetrack",
+        "name": "GpsDrive Format for Tracks [T]"
+    },
+    {
+        "input": "gpsman",
+        "name": "GPSman [W]"
+    },
+    {
+        "input": "gpsutil",
+        "name": "gpsutil [W]"
+    },
+    {
+        "input": "gpx",
+        "name": "GPX XML [W][T][R]"
+    },
+    {
+        "input": "hiketech",
+        "name": "HikeTech [W][T]"
+    },
+    {
+        "input": "holux",
+        "name": "Holux (gm-100) .wpo Format [W]",
+        "suffix": "holux.wpo"
+    },
+    {
+        "input": "m241-bin",
+        "name": "Holux M-241 (MTK based) Binary File Format [W][T]"
+    },
+    {
+        "input": "vpl",
+        "name": "Honda/Acura Navigation System VP Log File Format [T]"
+    },
+    {
+        "input": "humminbird_ht",
+        "name": "Humminbird tracks (.ht) [W][T][R]",
+        "suffix": "ht"
+    },
+    {
+        "input": "humminbird",
+        "name": "Humminbird waypoints and routes (.hwr) [W][T][R]",
+        "suffix": "hwr"
+    },
+    {
+        "input": "ignrando",
+        "name": "IGN Rando track files [T]"
+    },
+    {
+        "input": "igo2008_poi",
+        "name": "iGO2008 points of interest (.upoi) [W]",
+        "suffix": "upoi"
+    },
+    {
+        "input": "igo8",
+        "name": "IGO8 .trk [T]",
+        "suffix": "igo8.trk"
+    },
+    {
+        "input": "jtr",
+        "name": "Jelbert GeoTagger data file [T]"
+    },
+    {
+        "input": "jogmap",
+        "name": "Jogmap.de XML format [T]"
+    },
+    {
+        "input": "kompass_tk",
+        "name": "Kompass (DAV) Track (.tk) [T]",
+        "suffix": "kompass.tk"
+    },
+    {
+        "input": "kompass_wp",
+        "name": "Kompass (DAV) Waypoints (.wp) [W]",
+        "suffix": "kompass.wp"
+    },
+    {
+        "input": "psitrex",
+        "name": "KuDaTa PsiTrex text [W][T][R]"
+    },
+    {
+        "input": "lowranceusr",
+        "name": "Lowrance USR [W][T][R]"
+    },
+    {
+        "input": "lowranceusr4",
+        "name": "Lowrance USR version 4 [W][T][R]"
+    },
+    {
+        "input": "maggeo",
+        "name": "Magellan Explorist Geocaching [W]"
+    },
+    {
+        "input": "mapsend",
+        "name": "Magellan Mapsend [W][T][R]"
+    },
+    {
+        "input": "magellanx",
+        "name": "Magellan SD files (as for eXplorist) [W][T][R]"
+    },
+    {
+        "input": "magellan",
+        "name": "Magellan SD files (as for Meridian) [W][T][R]"
+    },
+    {
+        "input": "ik3d",
+        "name": "MagicMaps IK3D project file (.ikt) [W][T]",
+        "suffix": "ikt"
+    },
+    {
+        "input": "mainnav",
+        "name": "Mainnav [T]"
+    },
+    {
+        "input": "tef",
+        "name": "Map&Guide 'TourExchangeFormat' XML [R]"
+    },
+    {
+        "input": "mapasia_tr7",
+        "name": "MapAsia track file (.tr7) [T]"
+    },
+    {
+        "input": "mapbar",
+        "name": "Mapbar (China) navigation track for Sonim Xp3300 [T]"
+    },
+    {
+        "input": "mapfactor",
+        "name": "Mapfactor Navigator [W]"
+    },
+    {
+        "input": "mapconverter",
+        "name": "Mapopolis.com Mapconverter CSV [W]"
+    },
+    {
+        "input": "mxf",
+        "name": "MapTech Exchange Format [W]"
+    },
+    {
+        "input": "mtk_locus",
+        "name": "MediaTek Locus [W][T]"
+    },
+    {
+        "input": "mmo",
+        "name": "Memory-Map Navigator overlay files (.mmo) [W][T][R]"
+    },
+    {
+        "input": "s_and_t",
+        "name": "Microsoft Streets and Trips 2002-2007 [W]"
+    },
+    {
+        "input": "garmin_xt",
+        "name": "Mobile Garmin XT Track files [T]"
+    },
+    {
+        "input": "motoactv",
+        "name": "Motoactiv CSV [W]"
+    },
+    {
+        "input": "bcr",
+        "name": "Motorrad Routenplaner (Map&Guide) .bcr files [R]"
+    },
+    {
+        "input": "mtk-bin",
+        "name": "MTK Logger (iBlue 747,...) Binary File Format [W][T]"
+    },
+    {
+        "input": "mynav",
+        "name": "MyNav TRC format [T]"
+    },
+    {
+        "input": "tpg",
+        "name": "National Geographic Topo .tpg (waypoints) [W]"
+    },
+    {
+        "input": "tpo2",
+        "name": "National Geographic Topo 2.x .tpo [T]"
+    },
+    {
+        "input": "tpo3",
+        "name": "National Geographic Topo 3.x/4.x .tpo [W][T][R]"
+    },
+    {
+        "input": "navicache",
+        "name": "Navicache.com XML [W]"
+    },
+    {
+        "input": "nmn4",
+        "name": "Navigon Mobile Navigator .rte files [R]"
+    },
+    {
+        "input": "navigonwpt",
+        "name": "Navigon Waypoints [W]"
+    },
+    {
+        "input": "sbp",
+        "name": "NaviGPS GT-31/BGT-31 datalogger (.sbp) [T]"
+    },
+    {
+        "input": "sbn",
+        "name": "NaviGPS GT-31/BGT-31 SiRF binary logfile (.sbn) [T]"
+    },
+    {
+        "input": "naviguide",
+        "name": "Naviguide binary route file (.twl) [W]",
+        "suffix": "twl"
+    },
+    {
+        "input": "navitel_trk",
+        "name": "Navitel binary track (.bin) [T]",
+        "suffix": "navitel_trk.bin"
+    },
+    {
+        "input": "dna",
+        "name": "Navitrak DNA marker format [W]"
+    },
+    {
+        "input": "netstumbler",
+        "name": "NetStumbler Summary File (text) [W]"
+    },
+    {
+        "input": "nima",
+        "name": "NIMA/GNIS Geographic Names File [W]"
+    },
+    {
+        "input": "nmea",
+        "name": "NMEA 0183 sentences [W][T]"
+    },
+    {
+        "input": "lmx",
+        "name": "Nokia Landmark Exchange [W]"
+    },
+    {
+        "input": "osm",
+        "name": "OpenStreetMap data files [W][R]"
+    },
+    {
+        "input": "ozi",
+        "name": "OziExplorer [W][T][R]"
+    },
+    {
+        "input": "pocketfms_bc",
+        "name": "PocketFMS breadcrumbs [T]"
+    },
+    {
+        "input": "pocketfms_fp",
+        "name": "PocketFMS flightplan (.xml) [W][R]"
+    },
+    {
+        "input": "pocketfms_wp",
+        "name": "PocketFMS waypoints (.txt) [W]"
+    },
+    {
+        "input": "raymarine",
+        "name": "Raymarine Waypoint File (.rwf) [W][R]"
+    },
+    {
+        "input": "ricoh",
+        "name": "Ricoh GPS Log File [T]"
+    },
+    {
+        "input": "cup",
+        "name": "See You flight analysis data [W]",
+        "special": {
+           "cup:datum": "WGS 84"
+        }
+    },
+    {
+        "input": "skyforce",
+        "name": "Skymap / KMD150 ascii files [W][T][R]"
+    },
+    {
+        "input": "skytraq-bin",
+        "name": "SkyTraq Venus based loggers Binary File Format [W][T]"
+    },
+    {
+        "input": "stmsdf",
+        "name": "Suunto Trek Manager (STM) .sdf files [T][R]"
+    },
+    {
+        "input": "stmwpp",
+        "name": "Suunto Trek Manager (STM) WaypointPlus files [W][T][R]"
+    },
+    {
+        "input": "xol",
+        "name": "Swiss Map 25/50/100 (.xol) [W][T]"
+    },
+    {
+        "input": "openoffice",
+        "name": "Tab delimited fields useful for OpenOffice, Ploticus etc. [W]"
+    },
+    {
+        "input": "teletype",
+        "name": "Teletype [W]"
+    },
+    {
+        "input": "tomtom_itn",
+        "name": "TomTom Itineraries (.itn) [R]"
+    },
+    {
+        "input": "tomtom_itn_places",
+        "name": "TomTom Places Itineraries (.itn) [R]"
+    },
+    {
+        "input": "tomtom_asc",
+        "name": "TomTom POI file (.asc) [W]"
+    },
+    {
+        "input": "tomtom",
+        "name": "TomTom POI file (.ov2) [W]"
+    },
+    {
+        "input": "tmpro",
+        "name": "TopoMapPro Places File [W]"
+    },
+    {
+        "input": "dmtlog",
+        "name": "TrackLogs digital mapping (.trl) [W][T]"
+    },
+    {
+        "input": "tiger",
+        "name": "U.S. Census Bureau Tiger Mapping Service [W]"
+    },
+    {
+        "input": "unicsv",
+        "name": "Universal csv with field structure in first line [W][T][R]"
+    },
+    {
+        "input": "vidaone",
+        "name": "VidaOne GPS for Pocket PC (.gpb) [T]"
+    },
+    {
+        "input": "vitosmt",
+        "name": "Vito Navigator II tracks [W][T][R]"
+    },
+    {
+        "input": "vitovtt",
+        "name": "Vito SmartMap tracks (.vtt) [T]"
+    },
+    {
+        "input": "wfff",
+        "name": "WiFiFoFum 2.0 for PocketPC XML [W]"
+    },
+    {
+        "input": "wintec_tes",
+        "name": "Wintec TES file [W][T]"
+    },
+    {
+        "input": "wbt-bin",
+        "name": "Wintec WBT-100/200 Binary File Format [T]"
+    },
+    {
+        "input": "wbt-tk1",
+        "name": "Wintec WBT-201/G-Rays 2 Binary File Format [T]"
+    },
+    {
+        "input": "itracku",
+        "name": "XAiOX iTrackU Logger [W][T]"
+    },
+    {
+        "input": "itracku-bin",
+        "name": "XAiOX iTrackU Logger Binary File Format [W][T]"
+    },
+    {
+        "input": "yahoo",
+        "name": "Yahoo Geocode API data [W]"
+    }
+]

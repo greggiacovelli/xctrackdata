@@ -1,0 +1,637 @@
+<?xml version="1.0"?><loc version="1.0" src="EasyGPS">
+<waypoint>
+<name id="49917"><![CDATA[HILL 49917]]></name>
+<coord lat="36.781434" lon="-119.121414"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ACADMY"><![CDATA[ACADEMY]]></name>
+<coord lat="36.887250" lon="-119.539083"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="AIRSTR"><![CDATA[AIRSTRIP]]></name>
+<coord lat="36.716483" lon="-119.137650"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="AUBERY"><![CDATA[AUBERY LANDING S]]></name>
+<coord lat="37.077683" lon="-119.488533"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BALDMT"><![CDATA[BALD MOUNTAIN]]></name>
+<coord lat="36.765950" lon="-119.203370"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BEARMT"><![CDATA[BEAR MOUNTAIN]]></name>
+<coord lat="36.745950" lon="-119.281732"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BIGCAT"><![CDATA[PROJECT SURVIVAL]]></name>
+<coord lat="36.766384" lon="-119.129500"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BLKMTN"><![CDATA[BLACK MOUNTAIN]]></name>
+<coord lat="37.012833" lon="-119.451967"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CAMPBE"><![CDATA[CAMPBELL MTN]]></name>
+<coord lat="36.694885" lon="-119.422086"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CLIFF"><![CDATA[CLIFF PEAK]]></name>
+<coord lat="36.556580" lon="-119.170966"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CORLEW"><![CDATA[CORLEW MOUNTIAN]]></name>
+<coord lat="37.001500" lon="-119.549750"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CURTIS"><![CDATA[Waypoint no: 12]]></name>
+<coord lat="36.594732" lon="-119.256699"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TIM"><![CDATA[TIM LZ]]></name>
+<coord lat="36.735500" lon="-119.105133"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DELILA"><![CDATA[DELIILAH]]></name>
+<coord lat="36.789114" lon="-119.118987"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TIMLNCH"><![CDATA[TIM LAUNCH]]></name>
+<coord lat="36.765267" lon="-119.098434"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DRUM"><![CDATA[DRUM HILL]]></name>
+<coord lat="36.634516" lon="-119.117362"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ECKERT"><![CDATA[ECKERT AIRPORT]]></name>
+<coord lat="36.161117" lon="-119.048883"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ELK"><![CDATA[ELK CREEK]]></name>
+<coord lat="39.601837" lon="-122.538478"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="EXETER"><![CDATA[Waypoint no: 19]]></name>
+<coord lat="36.297343" lon="-119.146046"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="FELKNE"><![CDATA[FELKNER OH MY GO]]></name>
+<coord lat="39.520503" lon="-122.681856"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GRNY"><![CDATA[GRANY S KNOB]]></name>
+<coord lat="36.729831" lon="-119.134483"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HOOKER"><![CDATA[Waypoint no: 22]]></name>
+<coord lat="40.300707" lon="-122.326883"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HUMPH"><![CDATA[HREY STATION]]></name>
+<coord lat="36.959541" lon="-119.444173"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="INDIAN"><![CDATA[INDIAN VALLEY]]></name>
+<coord lat="39.405803" lon="-122.551706"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="JESSE"><![CDATA[JESSE MTN]]></name>
+<coord lat="36.737536" lon="-119.407053"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="JOHNLO"><![CDATA[LOW ON ST JOHN]]></name>
+<coord lat="39.419537" lon="-122.673654"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="KEYS"><![CDATA[KEYS MOUNTAIN]]></name>
+<coord lat="36.952050" lon="-119.482450"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="KNOB"><![CDATA[KNOB]]></name>
+<coord lat="37.022156" lon="-119.410421"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LEMON"><![CDATA[LEMONCOVE]]></name>
+<coord lat="36.385974" lon="-119.022777"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LODOGA"><![CDATA[Waypoint no: 30]]></name>
+<coord lat="39.302783" lon="-122.490567"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LOWREY"><![CDATA[Waypoint no: 31]]></name>
+<coord lat="40.013742" lon="-122.553231"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MARSHA"><![CDATA[MARSHALL HILL]]></name>
+<coord lat="37.018750" lon="-119.573983"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MAXWEL"><![CDATA[MAXWELL AIRSTRIP]]></name>
+<coord lat="39.287350" lon="-122.188717"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MILLLZ"><![CDATA[MILLERTON LAKE L]]></name>
+<coord lat="36.991183" lon="-119.711650"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="NONAME"><![CDATA[NO NAME KNOB]]></name>
+<coord lat="36.721366" lon="-119.121185"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ORANGE"><![CDATA[ORANGE COVE SOCC]]></name>
+<coord lat="36.630116" lon="-119.308668"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="OROSI"><![CDATA[EAST OROSI]]></name>
+<coord lat="36.545750" lon="-119.268367"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PASKEN"><![CDATA[PASKENTA]]></name>
+<coord lat="39.884624" lon="-122.545823"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PORTER"><![CDATA[PORTERVILLE]]></name>
+<coord lat="36.072319" lon="-119.024590"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="POTLZ"><![CDATA[POTATO LZ]]></name>
+<coord lat="39.349622" lon="-122.662050"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="RADIO"><![CDATA[RADIO TOWER]]></name>
+<coord lat="39.515818" lon="-122.562791"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="REDBLF"><![CDATA[RED BLUFF BABY]]></name>
+<coord lat="40.180050" lon="-122.237900"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="RESERV"><![CDATA[EAST PARK RESERV]]></name>
+<coord lat="39.356367" lon="-122.516483"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="RNGSTN"><![CDATA[RANGER STATION]]></name>
+<coord lat="36.756417" lon="-119.165734"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="RUTH"><![CDATA[RUTH HILL]]></name>
+<coord lat="36.730316" lon="-119.191887"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SANDYM"><![CDATA[SANDY MOUNTAIN]]></name>
+<coord lat="37.073883" lon="-119.465083"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SKNOB"><![CDATA[SANDY KNOB]]></name>
+<coord lat="37.046400" lon="-119.450683"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SNOWVL"><![CDATA[VERY LOW ON SNOW]]></name>
+<coord lat="39.370803" lon="-122.690058"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SONTAG"><![CDATA[SONTAG POINT]]></name>
+<coord lat="36.746933" lon="-119.076667"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SQVAL"><![CDATA[SQUAW VALLEY]]></name>
+<coord lat="36.738767" lon="-119.251517"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="STJOHN"><![CDATA[ST JOHN MOUNTAIN]]></name>
+<coord lat="39.430413" lon="-122.691597"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="STONYF"><![CDATA[STONYFORD]]></name>
+<coord lat="39.375000" lon="-122.543833"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TIT"><![CDATA[SQUAW TIT]]></name>
+<coord lat="37.033300" lon="-119.386600"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TIVYMT"><![CDATA[TIVY MOUNTAIN]]></name>
+<coord lat="36.800403" lon="-119.359686"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TOLLLN"><![CDATA[TOLLHOUSE LAUNCH]]></name>
+<coord lat="37.015500" lon="-119.373350"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TOP"><![CDATA[POTATO TOP]]></name>
+<coord lat="39.334887" lon="-122.698008"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TROUGH"><![CDATA[TROUGH SPUR]]></name>
+<coord lat="39.349687" lon="-122.646608"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TUCKER"><![CDATA[TUCKER MOUNTAIN]]></name>
+<coord lat="36.638583" lon="-119.209480"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WATT"><![CDATA[WATTS VALLEY]]></name>
+<coord lat="36.932950" lon="-119.367483"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WILLOW"><![CDATA[WILLOWS AIRPORT]]></name>
+<coord lat="39.521450" lon="-122.220383"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WOLVER"><![CDATA[WOLVERINE LANE S]]></name>
+<coord lat="36.691117" lon="-119.258034"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WOODLA"><![CDATA[WOODLAKE SCHOOL]]></name>
+<coord lat="36.421767" lon="-119.100650"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LINDSY"><![CDATA[LINDSAY]]></name>
+<coord lat="36.213015" lon="-119.094586"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HOPE"><![CDATA[HOPEWELL ROAD]]></name>
+<coord lat="36.760380" lon="-119.170060"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="JEEP"><![CDATA[Jeep trail hill]]></name>
+<coord lat="36.710280" lon="-119.137830"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="63BEND"><![CDATA[Bend in Highway63]]></name>
+<coord lat="36.717020" lon="-119.288550"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="FAWN"><![CDATA[FAWN LANE HILL]]></name>
+<coord lat="36.703780" lon="-119.237840"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SNDCRN"><![CDATA[Waypoint no: 68]]></name>
+<coord lat="36.668980" lon="-119.238270"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ROCKYH"><![CDATA[ROCKY HILL]]></name>
+<coord lat="36.287630" lon="-119.088760"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ROUND"><![CDATA[Round Mt]]></name>
+<coord lat="36.818690" lon="-119.510940"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="COYOTE"><![CDATA[COYOTE RIDGE]]></name>
+<coord lat="36.813310" lon="-119.465350"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="KINDSV"><![CDATA[KINDSVATER RANCH AIRPORT]]></name>
+<coord lat="36.847230" lon="-119.515440"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WILDCAT"><![CDATA[WILDCAT MOUNTAIN]]></name>
+<coord lat="36.886520" lon="-119.436010"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="4CORNERS"><![CDATA[4 CORNERS]]></name>
+<coord lat="37.011260" lon="-119.792910"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MILLVW"><![CDATA[MILLVIEW PARK]]></name>
+<coord lat="36.973770" lon="-120.035000"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="4LNTRN"><![CDATA[4 LANE TURN]]></name>
+<coord lat="37.065125" lon="-119.456674"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="63LZ"><![CDATA[HILLS VALLEY]]></name>
+<coord lat="36.698151" lon="-119.305469"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ANT"><![CDATA[ANTELOPE MOUNTAI]]></name>
+<coord lat="36.432460" lon="-119.075564"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="AVOCAD"><![CDATA[AVACADO LAKE]]></name>
+<coord lat="36.782086" lon="-119.414471"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BLKDMD"><![CDATA[BLACK DIAMOND]]></name>
+<coord lat="39.409858" lon="-122.621189"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BURROU"><![CDATA[BURROUGH VALLEY]]></name>
+<coord lat="36.972274" lon="-119.376872"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CASINO"><![CDATA[TABLE MOUNTAIN C]]></name>
+<coord lat="36.983326" lon="-119.640641"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CHROME"><![CDATA[Waypoint no: 83]]></name>
+<coord lat="39.724799" lon="-122.551116"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="COLVIN"><![CDATA[COLVIN MOUNTAIN]]></name>
+<coord lat="36.452338" lon="-119.150348"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CUTLER"><![CDATA[Waypoint no: 85]]></name>
+<coord lat="36.523625" lon="-119.286400"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DLTNMT"><![CDATA[DALTON MOUNTAIN]]></name>
+<coord lat="36.774402" lon="-119.241068"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DOYLES"><![CDATA[DOYLES STORE WIT]]></name>
+<coord lat="36.819990" lon="-119.379390"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DRYCRK"><![CDATA[CREEK]]></name>
+<coord lat="36.972566" lon="-119.532996"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ELDERW"><![CDATA[ELDERWOOD STATIO]]></name>
+<coord lat="36.479072" lon="-119.115847"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LASTCH"><![CDATA[LAST CHANCE]]></name>
+<coord lat="36.737117" lon="-119.079649"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="NICHOL"><![CDATA[NICHOLAS ROAD HI]]></name>
+<coord lat="36.961308" lon="-119.507489"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PINEFL"><![CDATA[PINE FLAT RESERV]]></name>
+<coord lat="36.867057" lon="-119.291889"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="POTLAU"><![CDATA[POTATO LAUNCH]]></name>
+<coord lat="39.340662" lon="-122.685269"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PRATHE"><![CDATA[PRATHER AIRSTRIP]]></name>
+<coord lat="37.038491" lon="-119.524058"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="REDBAN"><![CDATA[RED BANK]]></name>
+<coord lat="40.099447" lon="-122.445424"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="REDMTN"><![CDATA[RED MOUNTAIN]]></name>
+<coord lat="39.742599" lon="-122.609649"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SJUHS"><![CDATA[SIERRA JOINT UNI]]></name>
+<coord lat="37.036241" lon="-119.454840"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SNDCRK"><![CDATA[SAND CREEK]]></name>
+<coord lat="36.624216" lon="-119.262301"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SQUAW"><![CDATA[SQUAW LEAP]]></name>
+<coord lat="37.069425" lon="-119.540491"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="STOKES"><![CDATA[STOKES MOUNTAIN]]></name>
+<coord lat="36.517107" lon="-119.196882"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="STYCKR"><![CDATA[STONY CREEK RESE]]></name>
+<coord lat="39.542210" lon="-122.536135"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TOLLLZ"><![CDATA[TOLLHOUSE LZ]]></name>
+<coord lat="37.014007" lon="-119.400388"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TONY"><![CDATA[TONYVILLE]]></name>
+<coord lat="36.249556" lon="-119.093378"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ELWOOD"><![CDATA[Waypoint no: 104]]></name>
+<coord lat="36.790048" lon="-119.307720"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DEER"><![CDATA[Waypoint no: 105]]></name>
+<coord lat="36.825030" lon="-119.342887"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TANK"><![CDATA[Waypoint no: 106]]></name>
+<coord lat="36.713770" lon="-119.211554"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Sanger180"><![CDATA[Sanger and 180]]></name>
+<coord lat="36.751376" lon="-119.557445"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Alice"><![CDATA[Alice Bass]]></name>
+<coord lat="39.329830" lon="-122.535650"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BALDYMT"><![CDATA[BALDY MOUNTAIN]]></name>
+<coord lat="39.141400" lon="-122.498400"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BEARVB"><![CDATA[BEAR VALLEY BUTTE]]></name>
+<coord lat="39.199717" lon="-122.444800"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SITES"><![CDATA[Waypoint no: 111]]></name>
+<coord lat="39.310283" lon="-122.337567"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GRAPE"><![CDATA[GRAPEVINE PASS RADIO]]></name>
+<coord lat="39.351333" lon="-122.456900"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CLARK"><![CDATA[CLARK RIDGE]]></name>
+<coord lat="39.374400" lon="-122.475500"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GILMORE"><![CDATA[GILMORE PEAK]]></name>
+<coord lat="39.309400" lon="-122.553167"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HORNET"><![CDATA[HORNET NEST HILL]]></name>
+<coord lat="39.330600" lon="-122.583633"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WOLF"><![CDATA[WOLF CREEK]]></name>
+<coord lat="39.366050" lon="-122.622183"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SNOW"><![CDATA[SNOW MT EAST]]></name>
+<coord lat="39.383250" lon="-122.751967"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="AUKAUK"><![CDATA[AUK AUK RIDGE]]></name>
+<coord lat="39.395033" lon="-122.599600"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SULPHUR"><![CDATA[SULPHUR SPRINGS]]></name>
+<coord lat="39.433583" lon="-122.540200"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ELEPHANT"><![CDATA[Waypoint no: 120]]></name>
+<coord lat="39.458100" lon="-122.607167"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="RADIOC"><![CDATA[RADIO ON CLAERK RIDGE]]></name>
+<coord lat="39.452750" lon="-122.470900"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HOODOO"><![CDATA[HOODOO HILLS]]></name>
+<coord lat="39.531383" lon="-122.331417"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="FRUTO"><![CDATA[FRUTO]]></name>
+<coord lat="39.587800" lon="-122.447350"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BLACKB"><![CDATA[BLACK BUTTE RESERVOIR]]></name>
+<coord lat="39.829383" lon="-122.368717"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DNLNCH"><![CDATA[DUNLAP LAUNCH]]></name>
+<coord lat="36.769400" lon="-119.101430"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DNLPLZ"><![CDATA[DUNLAP LZ]]></name>
+<coord lat="36.728890" lon="-119.107480"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MIDDLE"><![CDATA[MIDDLE KING]]></name>
+<coord lat="37.058509" lon="-119.517292"/>
+<type></type>
+</waypoint>
+</loc>

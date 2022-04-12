@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2022-04-12T17:58:05.760Z</time>
+  <bounds minlat="41.285083000" minlon="-122.646925000" maxlat="42.445876000" maxlon="-120.566078000"/>
+  <wpt lat="41.607033000" lon="-122.128167000">
+    <ele>2100.000000</ele>
+    <name>Deer</name>
+    <cmt>Deer Mountain</cmt>
+    <desc>Deer Mountain</desc>
+  </wpt>
+  <wpt lat="41.528250000" lon="-122.140683000">
+    <ele>2579.000000</ele>
+    <name>Whaleback</name>
+    <cmt>Whaleback  Mountain</cmt>
+    <desc>Whaleback  Mountain</desc>
+  </wpt>
+  <wpt lat="41.535103000" lon="-122.152566000">
+    <ele>2266.000000</ele>
+    <name>launchWhale</name>
+    <cmt>Whaleback launch</cmt>
+    <desc>Whaleback launch</desc>
+  </wpt>
+  <wpt lat="41.410483000" lon="-122.195350000">
+    <ele>4272.000000</ele>
+    <name>shasta</name>
+    <cmt>Mt Shasta</cmt>
+    <desc>Mt Shasta</desc>
+  </wpt>
+  <wpt lat="41.446933000" lon="-122.048317000">
+    <ele>2493.000000</ele>
+    <name>Ashbutte</name>
+    <cmt>Ash Butte Creek</cmt>
+    <desc>Ash Butte Creek</desc>
+  </wpt>
+  <wpt lat="41.285083000" lon="-121.940167000">
+    <ele>1132.000000</ele>
+    <name>McCloud</name>
+    <cmt>McCloud airstrip</cmt>
+    <desc>McCloud airstrip</desc>
+  </wpt>
+  <wpt lat="41.435300000" lon="-122.366433000">
+    <ele>1092.000000</ele>
+    <name>Weed</name>
+    <cmt>Weed</cmt>
+    <desc>Weed</desc>
+  </wpt>
+  <wpt lat="41.580933000" lon="-122.222067000">
+    <ele>1705.000000</ele>
+    <name>Sheep</name>
+    <cmt>Sheep rock</cmt>
+    <desc>Sheep rock</desc>
+  </wpt>
+  <wpt lat="41.628350000" lon="-122.230767000">
+    <ele>2085.000000</ele>
+    <name>Herd</name>
+    <cmt>Herd Peak</cmt>
+    <desc>Herd Peak</desc>
+  </wpt>
+  <wpt lat="41.801667000" lon="-121.885283000">
+    <ele>1872.000000</ele>
+    <name>MtSheep</name>
+    <cmt>Sheep Mountain</cmt>
+    <desc>Sheep Mountain</desc>
+  </wpt>
+  <wpt lat="41.703317000" lon="-122.017350000">
+    <ele>1865.000000</ele>
+    <name>Hebron</name>
+    <cmt>Mt Hebron</cmt>
+    <desc>Mt Hebron</desc>
+  </wpt>
+  <wpt lat="41.667500000" lon="-121.976100000">
+    <ele>1772.000000</ele>
+    <name>Orr</name>
+    <cmt>Orr Mountain</cmt>
+    <desc>Orr Mountain</desc>
+  </wpt>
+  <wpt lat="41.709200000" lon="-121.908683000">
+    <ele>1812.000000</ele>
+    <name>Cedar</name>
+    <cmt>Cedar</cmt>
+    <desc>Cedar</desc>
+  </wpt>
+  <wpt lat="41.830117000" lon="-122.005233000">
+    <ele>1298.000000</ele>
+    <name>macdoel</name>
+    <cmt>Macdoel City</cmt>
+    <desc>Macdoel City</desc>
+  </wpt>
+  <wpt lat="41.836667000" lon="-121.987400000">
+    <ele>1395.000000</ele>
+    <name>Juniper</name>
+    <cmt>Juniper</cmt>
+    <desc>Juniper</desc>
+  </wpt>
+  <wpt lat="41.990033000" lon="-121.930817000">
+    <ele>1635.000000</ele>
+    <name>hillD</name>
+    <cmt>Dorris Hill</cmt>
+    <desc>Dorris Hill</desc>
+  </wpt>
+  <wpt lat="41.962367000" lon="-121.925000000">
+    <ele>1293.000000</ele>
+    <name>Dorris</name>
+    <cmt>Dorris</cmt>
+    <desc>Dorris</desc>
+  </wpt>
+  <wpt lat="41.808983000" lon="-121.687717000">
+    <ele>1974.000000</ele>
+    <name>Dome</name>
+    <cmt>Mt Dome</cmt>
+    <desc>Mt Dome</desc>
+  </wpt>
+  <wpt lat="41.703317000" lon="-121.770650000">
+    <ele>1892.000000</ele>
+    <name>Sharp</name>
+    <cmt>Sharp Mtn</cmt>
+    <desc>Sharp Mtn</desc>
+  </wpt>
+  <wpt lat="41.717317000" lon="-121.739183000">
+    <ele>1608.000000</ele>
+    <name>Middle</name>
+    <cmt>Middle sister</cmt>
+    <desc>Middle sister</desc>
+  </wpt>
+  <wpt lat="41.947867000" lon="-121.478717000">
+    <ele>1229.000000</ele>
+    <name>Tulelake</name>
+    <cmt>Tulelake racetrack</cmt>
+    <desc>Tulelake racetrack</desc>
+  </wpt>
+  <wpt lat="41.643920000" lon="-122.167340000">
+    <ele>1529.000000</ele>
+    <name>Grass</name>
+    <cmt>Grass Lake Visitors Center</cmt>
+    <desc>Grass Lake Visitors Center</desc>
+  </wpt>
+  <wpt lat="41.550217000" lon="-122.198967000">
+    <ele>1372.000000</ele>
+    <name>WhaleLZ</name>
+    <cmt>whaleback LZ</cmt>
+    <desc>whaleback LZ</desc>
+  </wpt>
+  <wpt lat="41.605041000" lon="-122.073262000">
+    <ele>1501.000000</ele>
+    <name>Bikini</name>
+    <cmt>Bikini Junction (aka Mt Shasta Woods)</cmt>
+    <desc>Bikini Junction (aka Mt Shasta Woods)</desc>
+  </wpt>
+  <wpt lat="41.541150000" lon="-122.049750000">
+    <ele>1555.000000</ele>
+    <name>USFS42</name>
+    <cmt>USFS 42</cmt>
+    <desc>USFS 42</desc>
+  </wpt>
+  <wpt lat="41.875033000" lon="-121.857217000">
+    <ele>1879.000000</ele>
+    <name>Mahagony</name>
+    <cmt>Mahagony Mountain</cmt>
+    <desc>Mahagony Mountain</desc>
+  </wpt>
+  <wpt lat="41.818367000" lon="-121.532683000">
+    <ele>1232.000000</ele>
+    <name>Howizter</name>
+    <cmt>Howitzer Point</cmt>
+    <desc>Howitzer Point</desc>
+  </wpt>
+  <wpt lat="41.794183000" lon="-121.176250000">
+    <ele>1367.000000</ele>
+    <name>cllkrd</name>
+    <cmt>Clear Lake Road</cmt>
+    <desc>Clear Lake Road</desc>
+  </wpt>
+  <wpt lat="41.647933000" lon="-121.325300000">
+    <ele>1303.000000</ele>
+    <name>Tionesta</name>
+    <cmt>Tionesta</cmt>
+    <desc>Tionesta</desc>
+  </wpt>
+  <wpt lat="42.236483000" lon="-121.839633000">
+    <ele>1362.000000</ele>
+    <name>Falls</name>
+    <cmt>Falls Highway</cmt>
+    <desc>Falls Highway</desc>
+  </wpt>
+  <wpt lat="42.323983000" lon="-122.023633000">
+    <ele>1331.000000</ele>
+    <name>Aspen</name>
+    <cmt>Aspen Lake</cmt>
+    <desc>Aspen Lake</desc>
+  </wpt>
+  <wpt lat="42.287533000" lon="-121.914067000">
+    <ele>1278.000000</ele>
+    <name>Buck</name>
+    <cmt>Near Buck Island</cmt>
+    <desc>Near Buck Island</desc>
+  </wpt>
+  <wpt lat="42.156100000" lon="-121.733200000">
+    <ele>1247.000000</ele>
+    <name>Klamath</name>
+    <cmt>Klamath Airport. Make it in here and you get DQed.</cmt>
+    <desc>Klamath Airport. Make it in here and you get DQed.</desc>
+  </wpt>
+  <wpt lat="41.494683000" lon="-122.401317000">
+    <ele>884.000000</ele>
+    <name>shastina</name>
+    <cmt>Lake Shastina</cmt>
+    <desc>Lake Shastina</desc>
+  </wpt>
+  <wpt lat="41.319133000" lon="-122.479250000">
+    <ele>2733.000000</ele>
+    <name>eddy</name>
+    <cmt>Mt Eddy</cmt>
+    <desc>Mt Eddy</desc>
+  </wpt>
+  <wpt lat="41.719383000" lon="-122.222583000">
+    <ele>2513.000000</ele>
+    <name>goosenest</name>
+    <cmt>Goosenest</cmt>
+    <desc>Goosenest</desc>
+  </wpt>
+  <wpt lat="41.593185000" lon="-122.640467000">
+    <ele>1852.000000</ele>
+    <name>Antelope</name>
+    <cmt>Antelope Mtn</cmt>
+    <desc>Antelope Mtn</desc>
+  </wpt>
+  <wpt lat="41.877250000" lon="-122.241717000">
+    <ele>2083.000000</ele>
+    <name>Eagle </name>
+    <cmt>Eagle Rock</cmt>
+    <desc>Eagle Rock</desc>
+  </wpt>
+  <wpt lat="41.671167000" lon="-122.388033000">
+    <ele>1042.000000</ele>
+    <name>Rabbit</name>
+    <cmt>Rabbit Hill</cmt>
+    <desc>Rabbit Hill</desc>
+  </wpt>
+  <wpt lat="41.857680000" lon="-122.512020000">
+    <ele>1543.000000</ele>
+    <name>Black</name>
+    <cmt>black mountain</cmt>
+    <desc>black mountain</desc>
+  </wpt>
+  <wpt lat="41.814867000" lon="-122.546933000">
+    <ele>1464.000000</ele>
+    <name>Paradise</name>
+    <cmt>Paradise Craggy</cmt>
+    <desc>Paradise Craggy</desc>
+  </wpt>
+  <wpt lat="41.514250000" lon="-122.575150000">
+    <ele>1280.000000</ele>
+    <name>Bonnet</name>
+    <cmt>Bonnet</cmt>
+    <desc>Bonnet</desc>
+  </wpt>
+  <wpt lat="41.447250000" lon="-122.541783000">
+    <ele>2082.000000</ele>
+    <name>Stewart</name>
+    <cmt>Stewart</cmt>
+    <desc>Stewart</desc>
+  </wpt>
+  <wpt lat="42.146263000" lon="-122.611420000">
+    <ele>687.000000</ele>
+    <name>Emigrant</name>
+    <cmt>Emigrant Lake</cmt>
+    <desc>Emigrant Lake</desc>
+  </wpt>
+  <wpt lat="41.814717000" lon="-122.242150000">
+    <ele>2373.000000</ele>
+    <name>Willow</name>
+    <cmt>Willow Creek Mtn</cmt>
+    <desc>Willow Creek Mtn</desc>
+  </wpt>
+  <wpt lat="41.722783000" lon="-122.526417000">
+    <ele>776.000000</ele>
+    <name>Montague</name>
+    <cmt>Montague athletic field</cmt>
+    <desc>Montague athletic field</desc>
+  </wpt>
+  <wpt lat="41.910183000" lon="-122.561717000">
+    <ele>670.000000</ele>
+    <name>Hornbrook</name>
+    <cmt>Hornbrook school</cmt>
+    <desc>Hornbrook school</desc>
+  </wpt>
+  <wpt lat="41.676895000" lon="-121.268064000">
+    <ele>1265.000000</ele>
+    <name>Perez</name>
+    <cmt>Perez landing strip</cmt>
+    <desc>Perez landing strip</desc>
+  </wpt>
+  <wpt lat="41.527038000" lon="-121.122149000">
+    <ele>1450.000000</ele>
+    <name>Tickner</name>
+    <cmt>Tickner Road</cmt>
+    <desc>Tickner Road</desc>
+  </wpt>
+  <wpt lat="41.829333000" lon="-121.398683000">
+    <ele>1235.000000</ele>
+    <name>Kandra</name>
+    <cmt>Kandra grain elevator</cmt>
+    <desc>Kandra grain elevator</desc>
+  </wpt>
+  <wpt lat="41.500498000" lon="-120.976748000">
+    <ele>1513.000000</ele>
+    <name>Ambrose</name>
+    <cmt>Ambrose</cmt>
+    <desc>Ambrose</desc>
+  </wpt>
+  <wpt lat="41.493802000" lon="-120.566078000">
+    <ele>1335.000000</ele>
+    <name>Alturas</name>
+    <cmt>Alturas</cmt>
+    <desc>Alturas</desc>
+  </wpt>
+  <wpt lat="42.247933000" lon="-121.516900000">
+    <ele>1273.000000</ele>
+    <name>Dairy</name>
+    <cmt>Dairy</cmt>
+    <desc>Dairy</desc>
+  </wpt>
+  <wpt lat="42.445876000" lon="-121.265396000">
+    <ele>1319.000000</ele>
+    <name>Beatty</name>
+    <cmt>Beatty</cmt>
+    <desc>Beatty</desc>
+  </wpt>
+  <wpt lat="42.401080000" lon="-121.035817000">
+    <ele>1325.000000</ele>
+    <name>Bly</name>
+    <cmt>Bly</cmt>
+    <desc>Bly</desc>
+  </wpt>
+  <wpt lat="41.794739000" lon="-122.155781000">
+    <ele>2377.000000</ele>
+    <name>Ball</name>
+    <cmt>Ball Mountain</cmt>
+    <desc>Ball Mountain</desc>
+  </wpt>
+  <wpt lat="42.127948000" lon="-121.910790000">
+    <ele>1258.000000</ele>
+    <name>Keno</name>
+    <cmt>Keno</cmt>
+    <desc>Keno</desc>
+  </wpt>
+  <wpt lat="42.201791000" lon="-121.409456000">
+    <ele>1261.000000</ele>
+    <name>Bonanza</name>
+    <cmt>Bonanza</cmt>
+    <desc>Bonanza</desc>
+  </wpt>
+  <wpt lat="42.028910000" lon="-121.606890000">
+    <ele>1242.000000</ele>
+    <name>Merrill</name>
+    <cmt>Merrill</cmt>
+    <desc>Merrill</desc>
+  </wpt>
+  <wpt lat="41.695088000" lon="-122.646925000">
+    <ele>839.000000</ele>
+    <name>Yreka</name>
+    <cmt>Yreka</cmt>
+    <desc>Yreka</desc>
+  </wpt>
+  <wpt lat="41.547472000" lon="-122.262279000">
+    <ele>1630.000000</ele>
+    <name>yellow</name>
+    <cmt>Yellow Butte</cmt>
+    <desc>Yellow Butte</desc>
+  </wpt>
+  <wpt lat="41.676417000" lon="-122.117583000">
+    <ele>1799.000000</ele>
+    <name>LTDEER</name>
+    <cmt>LITTLE DEER MOUNTAIN</cmt>
+    <desc>LITTLE DEER MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="41.789250000" lon="-122.003467000">
+    <ele>1298.000000</ele>
+    <name>MTHEBRON</name>
+    <cmt>MT HEBRON</cmt>
+    <desc>MT HEBRON</desc>
+  </wpt>
+  <wpt lat="41.886667000" lon="-121.975517000">
+    <ele>1292.000000</ele>
+    <name>BVAIR</name>
+    <cmt>BUTTE VALLEY AIRPORT</cmt>
+    <desc>BUTTE VALLEY AIRPORT</desc>
+  </wpt>
+  <wpt lat="41.985683000" lon="-121.983883000">
+    <ele>1452.000000</ele>
+    <name>MUD</name>
+    <cmt>MUD LAKE</cmt>
+    <desc>MUD LAKE</desc>
+  </wpt>
+  <wpt lat="41.974333000" lon="-122.135817000">
+    <ele>1698.000000</ele>
+    <name>SECRET</name>
+    <cmt>SECRET SPRINGS MOUNTAIN</cmt>
+    <desc>SECRET SPRINGS MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="42.067983000" lon="-121.970300000">
+    <ele>1986.000000</ele>
+    <name>HAMAKER</name>
+    <cmt>HAMAKER HILL</cmt>
+    <desc>HAMAKER HILL</desc>
+  </wpt>
+  <wpt lat="42.134183000" lon="-122.028750000">
+    <ele>42916904.000000</ele>
+    <name>BOYLER</name>
+    <cmt>BOYLER RESERVOIR</cmt>
+    <desc>BOYLER RESERVOIR</desc>
+  </wpt>
+  <wpt lat="41.953800000" lon="-121.576967000">
+    <ele>1531.000000</ele>
+    <name>SHEEPY</name>
+    <cmt>SHEEPY PEAK</cmt>
+    <desc>SHEEPY PEAK</desc>
+  </wpt>
+</gpx>

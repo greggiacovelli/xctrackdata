@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2022-04-12T17:43:47.982Z</time>
+  <bounds minlat="38.243154012" minlon="-122.633377550" maxlat="39.306777511" maxlon="-121.961655200"/>
+  <wpt lat="38.400320764" lon="-122.105984543">
+    <ele>860.000000</ele>
+    <name>Vaca Launch</name>
+    <cmt>Mt Vaca Launch</cmt>
+    <desc>Mt Vaca Launch</desc>
+  </wpt>
+  <wpt lat="39.011936010" lon="-122.357672287">
+    <ele>333.000000</ele>
+    <name>Calfire</name>
+    <cmt>Calfire at Wilbur Springs</cmt>
+    <desc>Calfire at Wilbur Springs</desc>
+  </wpt>
+  <wpt lat="39.301991328" lon="-122.488488960">
+    <ele>370.000000</ele>
+    <name>Lodoga</name>
+    <cmt>Lodoga lodge</cmt>
+    <desc>Lodoga lodge</desc>
+  </wpt>
+  <wpt lat="38.439756711" lon="-122.123760082">
+    <ele>722.000000</ele>
+    <name>5k north</name>
+    <cmt>5k north of launch</cmt>
+    <desc>5k north of launch</desc>
+  </wpt>
+  <wpt lat="38.455908225" lon="-122.036728136">
+    <ele>191.000000</ele>
+    <name>East hills</name>
+    <cmt>East hills</cmt>
+    <desc>East hills</desc>
+  </wpt>
+  <wpt lat="38.399793143" lon="-122.040641501">
+    <ele>109.000000</ele>
+    <name>Parking</name>
+    <cmt>main parking area</cmt>
+    <desc>main parking area</desc>
+  </wpt>
+  <wpt lat="38.463458901" lon="-122.155381693">
+    <ele>162.000000</ele>
+    <name>Horse LZ</name>
+    <cmt>Horse LZ by HW120</cmt>
+    <desc>Horse LZ by HW120</desc>
+  </wpt>
+  <wpt lat="38.529390627" lon="-121.961655200">
+    <ele>38.000000</ele>
+    <name>winters</name>
+    <cmt>winters</cmt>
+    <desc>winters</desc>
+  </wpt>
+  <wpt lat="38.680260978" lon="-122.536615932">
+    <ele>875.000000</ele>
+    <name>table mountain</name>
+    <cmt>table mountain</cmt>
+    <desc>table mountain</desc>
+  </wpt>
+  <wpt lat="38.702969584" lon="-122.269199383">
+    <ele>173.000000</ele>
+    <name>Knoxville south</name>
+    <cmt>Berryessa Peak Trailhead</cmt>
+    <desc>Berryessa Peak Trailhead</desc>
+  </wpt>
+  <wpt lat="38.663549362" lon="-122.189586248">
+    <ele>913.000000</ele>
+    <name>Berryessa peak</name>
+    <cmt>Berryessa Peak</cmt>
+    <desc>Berryessa Peak</desc>
+  </wpt>
+  <wpt lat="38.898960070" lon="-122.254624940">
+    <ele>145.000000</ele>
+    <name>Rivertrip</name>
+    <cmt>Rivertrip</cmt>
+    <desc>Rivertrip</desc>
+  </wpt>
+  <wpt lat="39.156408000" lon="-122.159234000">
+    <ele>25.000000</ele>
+    <name>williams</name>
+    <cmt>williams</cmt>
+    <desc>williams</desc>
+  </wpt>
+  <wpt lat="38.825053000" lon="-122.333870300">
+    <ele>388.000000</ele>
+    <name>knoxville</name>
+    <cmt>knoxville</cmt>
+    <desc>knoxville</desc>
+  </wpt>
+  <wpt lat="39.104465653" lon="-122.325297782">
+    <ele>150.000000</ele>
+    <name>hwy 20 gap</name>
+    <cmt>hwy 20 gap</cmt>
+    <desc>hwy 20 gap</desc>
+  </wpt>
+  <wpt lat="39.306777511" lon="-122.322737337">
+    <ele>76.000000</ele>
+    <name>Maxwell road</name>
+    <cmt>Maxwell road</cmt>
+    <desc>Maxwell road</desc>
+  </wpt>
+  <wpt lat="39.164257660" lon="-122.440717603">
+    <ele>411.000000</ele>
+    <name>Bear valley north</name>
+    <cmt>Bear valley north</cmt>
+    <desc>Bear valley north</desc>
+  </wpt>
+  <wpt lat="39.073715931" lon="-122.409557844">
+    <ele>407.000000</ele>
+    <name>bear valley south</name>
+    <cmt>Bear valley south</cmt>
+    <desc>Bear valley south</desc>
+  </wpt>
+  <wpt lat="38.330353033" lon="-122.017905652">
+    <ele>67.000000</ele>
+    <name>Lagoon Valley</name>
+    <cmt>Lagoon Valley</cmt>
+    <desc>Lagoon Valley</desc>
+  </wpt>
+  <wpt lat="38.278722745" lon="-122.247395504">
+    <ele>54.000000</ele>
+    <name>Skyline park LZ</name>
+    <cmt>Skyline park LZ</cmt>
+    <desc>Skyline park LZ</desc>
+  </wpt>
+  <wpt lat="38.378329148" lon="-122.211615196">
+    <ele>521.000000</ele>
+    <name>121 ridge</name>
+    <cmt>121 ridge</cmt>
+    <desc>121 ridge</desc>
+  </wpt>
+  <wpt lat="38.243154012" lon="-122.123195473">
+    <ele>19.000000</ele>
+    <name>rockville</name>
+    <cmt>rockville</cmt>
+    <desc>rockville</desc>
+  </wpt>
+  <wpt lat="38.796055118" lon="-122.567560097">
+    <ele>293.000000</ele>
+    <name>Hidden Valley</name>
+    <cmt>Hidden Valley</cmt>
+    <desc>Hidden Valley</desc>
+  </wpt>
+  <wpt lat="38.668582224" lon="-122.633377550">
+    <ele>1310.000000</ele>
+    <name>St Helena</name>
+    <cmt>St HElena</cmt>
+    <desc>St HElena</desc>
+  </wpt>
+  <wpt lat="38.655913340" lon="-122.464070994">
+    <ele>212.000000</ele>
+    <name>Pope Valley</name>
+    <cmt>Pope Valley</cmt>
+    <desc>Pope Valley</desc>
+  </wpt>
+  <wpt lat="38.698371000" lon="-122.028657000">
+    <ele>62.000000</ele>
+    <name>Esparto</name>
+    <cmt>Esparto</cmt>
+    <desc>Esparto</desc>
+  </wpt>
+  <wpt lat="38.837802000" lon="-122.135177000">
+    <ele>539.000000</ele>
+    <name>East Guinda</name>
+    <cmt>East Guinda peak</cmt>
+    <desc>East Guinda peak</desc>
+  </wpt>
+  <wpt lat="38.884046000" lon="-122.234818000">
+    <ele>129.000000</ele>
+    <name>Rumsey</name>
+    <cmt>Rumsey</cmt>
+    <desc>Rumsey</desc>
+  </wpt>
+  <wpt lat="38.821860000" lon="-122.187672000">
+    <ele>109.000000</ele>
+    <name>Guinda</name>
+    <cmt>Guinda</cmt>
+    <desc>Guinda</desc>
+  </wpt>
+  <wpt lat="38.442946000" lon="-122.188089000">
+    <ele>260.000000</ele>
+    <name>Moskowite</name>
+    <cmt>Moskowite corner</cmt>
+    <desc>Moskowite corner</desc>
+  </wpt>
+</gpx>

@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lm:lmx xmlns:lm="http://www.nokia.com/schemas/location/landmarks/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nokia.com/schemas/location/landmarks/1/0/ lmx.xsd">
+	<lm:landmarkCollection>
+		<lm:landmark>
+			<lm:name>49917</lm:name>
+			<lm:description>HILL 49917</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.781434</lm:latitude>
+				<lm:longitude>-119.121414</lm:longitude>
+				<lm:altitude>1510.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ACADMY</lm:name>
+			<lm:description>ACADEMY</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.887250</lm:latitude>
+				<lm:longitude>-119.539083</lm:longitude>
+				<lm:altitude>162.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>AIRSTR</lm:name>
+			<lm:description>AIRSTRIP</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.716483</lm:latitude>
+				<lm:longitude>-119.137650</lm:longitude>
+				<lm:altitude>641.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>AUBERY</lm:name>
+			<lm:description>AUBERY LANDING S</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.077683</lm:latitude>
+				<lm:longitude>-119.488533</lm:longitude>
+				<lm:altitude>606.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BALDMT</lm:name>
+			<lm:description>BALD MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.765950</lm:latitude>
+				<lm:longitude>-119.203370</lm:longitude>
+				<lm:altitude>1080.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BEARMT</lm:name>
+			<lm:description>BEAR MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.745950</lm:latitude>
+				<lm:longitude>-119.281732</lm:longitude>
+				<lm:altitude>1019.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BIGCAT</lm:name>
+			<lm:description>PROJECT SURVIVAL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.766384</lm:latitude>
+				<lm:longitude>-119.129500</lm:longitude>
+				<lm:altitude>784.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BLKMTN</lm:name>
+			<lm:description>BLACK MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.012833</lm:latitude>
+				<lm:longitude>-119.451967</lm:longitude>
+				<lm:altitude>1090.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>CAMPBE</lm:name>
+			<lm:description>CAMPBELL MTN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.694885</lm:latitude>
+				<lm:longitude>-119.422086</lm:longitude>
+				<lm:altitude>515.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>CLIFF</lm:name>
+			<lm:description>CLIFF PEAK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.556580</lm:latitude>
+				<lm:longitude>-119.170966</lm:longitude>
+				<lm:altitude>549.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>CORLEW</lm:name>
+			<lm:description>CORLEW MOUNTIAN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.001500</lm:latitude>
+				<lm:longitude>-119.549750</lm:longitude>
+				<lm:altitude>570.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>CURTIS</lm:name>
+			<lm:description>Waypoint no: 12</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.594732</lm:latitude>
+				<lm:longitude>-119.256699</lm:longitude>
+				<lm:altitude>395.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TIM</lm:name>
+			<lm:description>TIM LZ</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.735500</lm:latitude>
+				<lm:longitude>-119.105133</lm:longitude>
+				<lm:altitude>631.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DELILA</lm:name>
+			<lm:description>DELIILAH</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.789114</lm:latitude>
+				<lm:longitude>-119.118987</lm:longitude>
+				<lm:altitude>1623.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TIMLNCH</lm:name>
+			<lm:description>TIM LAUNCH</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.765267</lm:latitude>
+				<lm:longitude>-119.098434</lm:longitude>
+				<lm:altitude>1414.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DRUM</lm:name>
+			<lm:description>DRUM HILL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.634516</lm:latitude>
+				<lm:longitude>-119.117362</lm:longitude>
+				<lm:altitude>674.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ECKERT</lm:name>
+			<lm:description>ECKERT AIRPORT</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.161117</lm:latitude>
+				<lm:longitude>-119.048883</lm:longitude>
+				<lm:altitude>128.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ELK</lm:name>
+			<lm:description>ELK CREEK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.601837</lm:latitude>
+				<lm:longitude>-122.538478</lm:longitude>
+				<lm:altitude>213.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>EXETER</lm:name>
+			<lm:description>Waypoint no: 19</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.297343</lm:latitude>
+				<lm:longitude>-119.146046</lm:longitude>
+				<lm:altitude>116.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>FELKNE</lm:name>
+			<lm:description>FELKNER OH MY GO</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.520503</lm:latitude>
+				<lm:longitude>-122.681856</lm:longitude>
+				<lm:altitude>1706.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>GRNY</lm:name>
+			<lm:description>GRANY S KNOB</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.729831</lm:latitude>
+				<lm:longitude>-119.134483</lm:longitude>
+				<lm:altitude>880.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>HOOKER</lm:name>
+			<lm:description>Waypoint no: 22</lm:description>
+			<lm:coordinates>
+				<lm:latitude>40.300707</lm:latitude>
+				<lm:longitude>-122.326883</lm:longitude>
+				<lm:altitude>151.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>HUMPH</lm:name>
+			<lm:description>HREY STATION</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.959541</lm:latitude>
+				<lm:longitude>-119.444173</lm:longitude>
+				<lm:altitude>332.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>INDIAN</lm:name>
+			<lm:description>INDIAN VALLEY</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.405803</lm:latitude>
+				<lm:longitude>-122.551706</lm:longitude>
+				<lm:altitude>335.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>JESSE</lm:name>
+			<lm:description>JESSE MTN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.737536</lm:latitude>
+				<lm:longitude>-119.407053</lm:longitude>
+				<lm:altitude>566.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>JOHNLO</lm:name>
+			<lm:description>LOW ON ST JOHN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.419537</lm:latitude>
+				<lm:longitude>-122.673654</lm:longitude>
+				<lm:altitude>1668.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>KEYS</lm:name>
+			<lm:description>KEYS MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.952050</lm:latitude>
+				<lm:longitude>-119.482450</lm:longitude>
+				<lm:altitude>550.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>KNOB</lm:name>
+			<lm:description>KNOB</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.022156</lm:latitude>
+				<lm:longitude>-119.410421</lm:longitude>
+				<lm:altitude>832.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>LEMON</lm:name>
+			<lm:description>LEMONCOVE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.385974</lm:latitude>
+				<lm:longitude>-119.022777</lm:longitude>
+				<lm:altitude>157.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>LODOGA</lm:name>
+			<lm:description>Waypoint no: 30</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.302783</lm:latitude>
+				<lm:longitude>-122.490567</lm:longitude>
+				<lm:altitude>378.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>LOWREY</lm:name>
+			<lm:description>Waypoint no: 31</lm:description>
+			<lm:coordinates>
+				<lm:latitude>40.013742</lm:latitude>
+				<lm:longitude>-122.553231</lm:longitude>
+				<lm:altitude>249.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>MARSHA</lm:name>
+			<lm:description>MARSHALL HILL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.018750</lm:latitude>
+				<lm:longitude>-119.573983</lm:longitude>
+				<lm:altitude>471.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>MAXWEL</lm:name>
+			<lm:description>MAXWELL AIRSTRIP</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.287350</lm:latitude>
+				<lm:longitude>-122.188717</lm:longitude>
+				<lm:altitude>25.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>MILLLZ</lm:name>
+			<lm:description>MILLERTON LAKE L</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.991183</lm:latitude>
+				<lm:longitude>-119.711650</lm:longitude>
+				<lm:altitude>99.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>NONAME</lm:name>
+			<lm:description>NO NAME KNOB</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.721366</lm:latitude>
+				<lm:longitude>-119.121185</lm:longitude>
+				<lm:altitude>853.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ORANGE</lm:name>
+			<lm:description>ORANGE COVE SOCC</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.630116</lm:latitude>
+				<lm:longitude>-119.308668</lm:longitude>
+				<lm:altitude>131.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>OROSI</lm:name>
+			<lm:description>EAST OROSI</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.545750</lm:latitude>
+				<lm:longitude>-119.268367</lm:longitude>
+				<lm:altitude>116.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>PASKEN</lm:name>
+			<lm:description>PASKENTA</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.884624</lm:latitude>
+				<lm:longitude>-122.545823</lm:longitude>
+				<lm:altitude>243.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>PORTER</lm:name>
+			<lm:description>PORTERVILLE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.072319</lm:latitude>
+				<lm:longitude>-119.024590</lm:longitude>
+				<lm:altitude>136.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>POTLZ</lm:name>
+			<lm:description>POTATO LZ</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.349622</lm:latitude>
+				<lm:longitude>-122.662050</lm:longitude>
+				<lm:altitude>517.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>RADIO</lm:name>
+			<lm:description>RADIO TOWER</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.515818</lm:latitude>
+				<lm:longitude>-122.562791</lm:longitude>
+				<lm:altitude>552.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>REDBLF</lm:name>
+			<lm:description>RED BLUFF BABY</lm:description>
+			<lm:coordinates>
+				<lm:latitude>40.180050</lm:latitude>
+				<lm:longitude>-122.237900</lm:longitude>
+				<lm:altitude>87.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>RESERV</lm:name>
+			<lm:description>EAST PARK RESERV</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.356367</lm:latitude>
+				<lm:longitude>-122.516483</lm:longitude>
+				<lm:altitude>365.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>RNGSTN</lm:name>
+			<lm:description>RANGER STATION</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.756417</lm:latitude>
+				<lm:longitude>-119.165734</lm:longitude>
+				<lm:altitude>557.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>RUTH</lm:name>
+			<lm:description>RUTH HILL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.730316</lm:latitude>
+				<lm:longitude>-119.191887</lm:longitude>
+				<lm:altitude>814.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SANDYM</lm:name>
+			<lm:description>SANDY MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.073883</lm:latitude>
+				<lm:longitude>-119.465083</lm:longitude>
+				<lm:altitude>929.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SKNOB</lm:name>
+			<lm:description>SANDY KNOB</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.046400</lm:latitude>
+				<lm:longitude>-119.450683</lm:longitude>
+				<lm:altitude>642.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SNOWVL</lm:name>
+			<lm:description>VERY LOW ON SNOW</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.370803</lm:latitude>
+				<lm:longitude>-122.690058</lm:longitude>
+				<lm:altitude>1360.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SONTAG</lm:name>
+			<lm:description>SONTAG POINT</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.746933</lm:latitude>
+				<lm:longitude>-119.076667</lm:longitude>
+				<lm:altitude>1276.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SQVAL</lm:name>
+			<lm:description>SQUAW VALLEY</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.738767</lm:latitude>
+				<lm:longitude>-119.251517</lm:longitude>
+				<lm:altitude>507.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>STJOHN</lm:name>
+			<lm:description>ST JOHN MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.430413</lm:latitude>
+				<lm:longitude>-122.691597</lm:longitude>
+				<lm:altitude>1938.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>STONYF</lm:name>
+			<lm:description>STONYFORD</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.375000</lm:latitude>
+				<lm:longitude>-122.543833</lm:longitude>
+				<lm:altitude>359.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TIT</lm:name>
+			<lm:description>SQUAW TIT</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.033300</lm:latitude>
+				<lm:longitude>-119.386600</lm:longitude>
+				<lm:altitude>1189.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TIVYMT</lm:name>
+			<lm:description>TIVY MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.800403</lm:latitude>
+				<lm:longitude>-119.359686</lm:longitude>
+				<lm:altitude>856.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TOLLLN</lm:name>
+			<lm:description>TOLLHOUSE LAUNCH</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.015500</lm:latitude>
+				<lm:longitude>-119.373350</lm:longitude>
+				<lm:altitude>1241.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TOP</lm:name>
+			<lm:description>POTATO TOP</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.334887</lm:latitude>
+				<lm:longitude>-122.698008</lm:longitude>
+				<lm:altitude>1072.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TROUGH</lm:name>
+			<lm:description>TROUGH SPUR</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.349687</lm:latitude>
+				<lm:longitude>-122.646608</lm:longitude>
+				<lm:altitude>775.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TUCKER</lm:name>
+			<lm:description>TUCKER MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.638583</lm:latitude>
+				<lm:longitude>-119.209480</lm:longitude>
+				<lm:altitude>789.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>WATT</lm:name>
+			<lm:description>WATTS VALLEY</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.932950</lm:latitude>
+				<lm:longitude>-119.367483</lm:longitude>
+				<lm:altitude>450.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>WILLOW</lm:name>
+			<lm:description>WILLOWS AIRPORT</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.521450</lm:latitude>
+				<lm:longitude>-122.220383</lm:longitude>
+				<lm:altitude>41.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>WOLVER</lm:name>
+			<lm:description>WOLVERINE LANE S</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.691117</lm:latitude>
+				<lm:longitude>-119.258034</lm:longitude>
+				<lm:altitude>560.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>WOODLA</lm:name>
+			<lm:description>WOODLAKE SCHOOL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.421767</lm:latitude>
+				<lm:longitude>-119.100650</lm:longitude>
+				<lm:altitude>134.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>LINDSY</lm:name>
+			<lm:description>LINDSAY</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.213015</lm:latitude>
+				<lm:longitude>-119.094586</lm:longitude>
+				<lm:altitude>113.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>HOPE</lm:name>
+			<lm:description>HOPEWELL ROAD</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.760380</lm:latitude>
+				<lm:longitude>-119.170060</lm:longitude>
+				<lm:altitude>580.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>JEEP</lm:name>
+			<lm:description>Jeep trail hill</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.710280</lm:latitude>
+				<lm:longitude>-119.137830</lm:longitude>
+				<lm:altitude>737.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>63BEND</lm:name>
+			<lm:description>Bend in Highway63</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.717020</lm:latitude>
+				<lm:longitude>-119.288550</lm:longitude>
+				<lm:altitude>410.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>FAWN</lm:name>
+			<lm:description>FAWN LANE HILL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.703780</lm:latitude>
+				<lm:longitude>-119.237840</lm:longitude>
+				<lm:altitude>641.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SNDCRN</lm:name>
+			<lm:description>Waypoint no: 68</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.668980</lm:latitude>
+				<lm:longitude>-119.238270</lm:longitude>
+				<lm:altitude>477.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ROCKYH</lm:name>
+			<lm:description>ROCKY HILL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.287630</lm:latitude>
+				<lm:longitude>-119.088760</lm:longitude>
+				<lm:altitude>444.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ROUND</lm:name>
+			<lm:description>Round Mt</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.818690</lm:latitude>
+				<lm:longitude>-119.510940</lm:longitude>
+				<lm:altitude>257.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>COYOTE</lm:name>
+			<lm:description>COYOTE RIDGE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.813310</lm:latitude>
+				<lm:longitude>-119.465350</lm:longitude>
+				<lm:altitude>271.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>KINDSV</lm:name>
+			<lm:description>KINDSVATER RANCH AIRPORT</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.847230</lm:latitude>
+				<lm:longitude>-119.515440</lm:longitude>
+				<lm:altitude>153.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>WILDCAT</lm:name>
+			<lm:description>WILDCAT MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.886520</lm:latitude>
+				<lm:longitude>-119.436010</lm:longitude>
+				<lm:altitude>688.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>4CORNERS</lm:name>
+			<lm:description>4 CORNERS</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.011260</lm:latitude>
+				<lm:longitude>-119.792910</lm:longitude>
+				<lm:altitude>139.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>MILLVW</lm:name>
+			<lm:description>MILLVIEW PARK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.973770</lm:latitude>
+				<lm:longitude>-120.035000</lm:longitude>
+				<lm:altitude>86.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>4LNTRN</lm:name>
+			<lm:description>4 LANE TURN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.065125</lm:latitude>
+				<lm:longitude>-119.456674</lm:longitude>
+				<lm:altitude>644.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>63LZ</lm:name>
+			<lm:description>HILLS VALLEY</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.698151</lm:latitude>
+				<lm:longitude>-119.305469</lm:longitude>
+				<lm:altitude>161.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ANT</lm:name>
+			<lm:description>ANTELOPE MOUNTAI</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.432460</lm:latitude>
+				<lm:longitude>-119.075564</lm:longitude>
+				<lm:altitude>473.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>AVOCAD</lm:name>
+			<lm:description>AVACADO LAKE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.782086</lm:latitude>
+				<lm:longitude>-119.414471</lm:longitude>
+				<lm:altitude>144.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BLKDMD</lm:name>
+			<lm:description>BLACK DIAMOND</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.409858</lm:latitude>
+				<lm:longitude>-122.621189</lm:longitude>
+				<lm:altitude>977.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BURROU</lm:name>
+			<lm:description>BURROUGH VALLEY</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.972274</lm:latitude>
+				<lm:longitude>-119.376872</lm:longitude>
+				<lm:altitude>604.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>CASINO</lm:name>
+			<lm:description>TABLE MOUNTAIN C</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.983326</lm:latitude>
+				<lm:longitude>-119.640641</lm:longitude>
+				<lm:altitude>235.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>CHROME</lm:name>
+			<lm:description>Waypoint no: 83</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.724799</lm:latitude>
+				<lm:longitude>-122.551116</lm:longitude>
+				<lm:altitude>282.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>COLVIN</lm:name>
+			<lm:description>COLVIN MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.452338</lm:latitude>
+				<lm:longitude>-119.150348</lm:longitude>
+				<lm:altitude>479.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>CUTLER</lm:name>
+			<lm:description>Waypoint no: 85</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.523625</lm:latitude>
+				<lm:longitude>-119.286400</lm:longitude>
+				<lm:altitude>108.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DLTNMT</lm:name>
+			<lm:description>DALTON MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.774402</lm:latitude>
+				<lm:longitude>-119.241068</lm:longitude>
+				<lm:altitude>1052.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DOYLES</lm:name>
+			<lm:description>DOYLES STORE WIT</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.819990</lm:latitude>
+				<lm:longitude>-119.379390</lm:longitude>
+				<lm:altitude>161.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DRYCRK</lm:name>
+			<lm:description>CREEK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.972566</lm:latitude>
+				<lm:longitude>-119.532996</lm:longitude>
+				<lm:altitude>242.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ELDERW</lm:name>
+			<lm:description>ELDERWOOD STATIO</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.479072</lm:latitude>
+				<lm:longitude>-119.115847</lm:longitude>
+				<lm:altitude>157.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>LASTCH</lm:name>
+			<lm:description>LAST CHANCE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.737117</lm:latitude>
+				<lm:longitude>-119.079649</lm:longitude>
+				<lm:altitude>1052.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>NICHOL</lm:name>
+			<lm:description>NICHOLAS ROAD HI</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.961308</lm:latitude>
+				<lm:longitude>-119.507489</lm:longitude>
+				<lm:altitude>338.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>PINEFL</lm:name>
+			<lm:description>PINE FLAT RESERV</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.867057</lm:latitude>
+				<lm:longitude>-119.291889</lm:longitude>
+				<lm:altitude>289.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>POTLAU</lm:name>
+			<lm:description>POTATO LAUNCH</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.340662</lm:latitude>
+				<lm:longitude>-122.685269</lm:longitude>
+				<lm:altitude>1039.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>PRATHE</lm:name>
+			<lm:description>PRATHER AIRSTRIP</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.038491</lm:latitude>
+				<lm:longitude>-119.524058</lm:longitude>
+				<lm:altitude>497.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>REDBAN</lm:name>
+			<lm:description>RED BANK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>40.099447</lm:latitude>
+				<lm:longitude>-122.445424</lm:longitude>
+				<lm:altitude>172.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>REDMTN</lm:name>
+			<lm:description>RED MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.742599</lm:latitude>
+				<lm:longitude>-122.609649</lm:longitude>
+				<lm:altitude>1107.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SJUHS</lm:name>
+			<lm:description>SIERRA JOINT UNI</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.036241</lm:latitude>
+				<lm:longitude>-119.454840</lm:longitude>
+				<lm:altitude>586.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SNDCRK</lm:name>
+			<lm:description>SAND CREEK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.624216</lm:latitude>
+				<lm:longitude>-119.262301</lm:longitude>
+				<lm:altitude>147.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SQUAW</lm:name>
+			<lm:description>SQUAW LEAP</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.069425</lm:latitude>
+				<lm:longitude>-119.540491</lm:longitude>
+				<lm:altitude>717.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>STOKES</lm:name>
+			<lm:description>STOKES MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.517107</lm:latitude>
+				<lm:longitude>-119.196882</lm:longitude>
+				<lm:altitude>568.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>STYCKR</lm:name>
+			<lm:description>STONY CREEK RESE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.542210</lm:latitude>
+				<lm:longitude>-122.536135</lm:longitude>
+				<lm:altitude>735.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TOLLLZ</lm:name>
+			<lm:description>TOLLHOUSE LZ</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.014007</lm:latitude>
+				<lm:longitude>-119.400388</lm:longitude>
+				<lm:altitude>580.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TONY</lm:name>
+			<lm:description>TONYVILLE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.249556</lm:latitude>
+				<lm:longitude>-119.093378</lm:longitude>
+				<lm:altitude>107.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ELWOOD</lm:name>
+			<lm:description>Waypoint no: 104</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.790048</lm:latitude>
+				<lm:longitude>-119.307720</lm:longitude>
+				<lm:altitude>219.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DEER</lm:name>
+			<lm:description>Waypoint no: 105</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.825030</lm:latitude>
+				<lm:longitude>-119.342887</lm:longitude>
+				<lm:altitude>189.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TANK</lm:name>
+			<lm:description>Waypoint no: 106</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.713770</lm:latitude>
+				<lm:longitude>-119.211554</lm:longitude>
+				<lm:altitude>699.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Sanger180</lm:name>
+			<lm:description>Sanger and 180</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.751376</lm:latitude>
+				<lm:longitude>-119.557445</lm:longitude>
+				<lm:altitude>117.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Alice</lm:name>
+			<lm:description>Alice Bass</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.329830</lm:latitude>
+				<lm:longitude>-122.535650</lm:longitude>
+				<lm:altitude>394.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BALDYMT</lm:name>
+			<lm:description>BALDY MOUNTAIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.141400</lm:latitude>
+				<lm:longitude>-122.498400</lm:longitude>
+				<lm:altitude>1013.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BEARVB</lm:name>
+			<lm:description>BEAR VALLEY BUTTE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.199717</lm:latitude>
+				<lm:longitude>-122.444800</lm:longitude>
+				<lm:altitude>603.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SITES</lm:name>
+			<lm:description>Waypoint no: 111</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.310283</lm:latitude>
+				<lm:longitude>-122.337567</lm:longitude>
+				<lm:altitude>86.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>GRAPE</lm:name>
+			<lm:description>GRAPEVINE PASS RADIO</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.351333</lm:latitude>
+				<lm:longitude>-122.456900</lm:longitude>
+				<lm:altitude>687.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>CLARK</lm:name>
+			<lm:description>CLARK RIDGE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.374400</lm:latitude>
+				<lm:longitude>-122.475500</lm:longitude>
+				<lm:altitude>619.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>GILMORE</lm:name>
+			<lm:description>GILMORE PEAK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.309400</lm:latitude>
+				<lm:longitude>-122.553167</lm:longitude>
+				<lm:altitude>746.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>HORNET</lm:name>
+			<lm:description>HORNET NEST HILL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.330600</lm:latitude>
+				<lm:longitude>-122.583633</lm:longitude>
+				<lm:altitude>926.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>WOLF</lm:name>
+			<lm:description>WOLF CREEK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.366050</lm:latitude>
+				<lm:longitude>-122.622183</lm:longitude>
+				<lm:altitude>456.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SNOW</lm:name>
+			<lm:description>SNOW MT EAST</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.383250</lm:latitude>
+				<lm:longitude>-122.751967</lm:longitude>
+				<lm:altitude>2144.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>AUKAUK</lm:name>
+			<lm:description>AUK AUK RIDGE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.395033</lm:latitude>
+				<lm:longitude>-122.599600</lm:longitude>
+				<lm:altitude>773.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SULPHUR</lm:name>
+			<lm:description>SULPHUR SPRINGS</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.433583</lm:latitude>
+				<lm:longitude>-122.540200</lm:longitude>
+				<lm:altitude>363.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ELEPHANT</lm:name>
+			<lm:description>Waypoint no: 120</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.458100</lm:latitude>
+				<lm:longitude>-122.607167</lm:longitude>
+				<lm:altitude>885.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>RADIOC</lm:name>
+			<lm:description>RADIO ON CLAERK RIDGE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.452750</lm:latitude>
+				<lm:longitude>-122.470900</lm:longitude>
+				<lm:altitude>551.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>HOODOO</lm:name>
+			<lm:description>HOODOO HILLS</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.531383</lm:latitude>
+				<lm:longitude>-122.331417</lm:longitude>
+				<lm:altitude>82.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>FRUTO</lm:name>
+			<lm:description>FRUTO</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.587800</lm:latitude>
+				<lm:longitude>-122.447350</lm:longitude>
+				<lm:altitude>183.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BLACKB</lm:name>
+			<lm:description>BLACK BUTTE RESERVOIR</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.829383</lm:latitude>
+				<lm:longitude>-122.368717</lm:longitude>
+				<lm:altitude>170.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DNLNCH</lm:name>
+			<lm:description>DUNLAP LAUNCH</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.769400</lm:latitude>
+				<lm:longitude>-119.101430</lm:longitude>
+				<lm:altitude>1415.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DNLPLZ</lm:name>
+			<lm:description>DUNLAP LZ</lm:description>
+			<lm:coordinates>
+				<lm:latitude>36.728890</lm:latitude>
+				<lm:longitude>-119.107480</lm:longitude>
+				<lm:altitude>568.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>MIDDLE</lm:name>
+			<lm:description>MIDDLE KING</lm:description>
+			<lm:coordinates>
+				<lm:latitude>37.058509</lm:latitude>
+				<lm:longitude>-119.517292</lm:longitude>
+				<lm:altitude>707.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+	</lm:landmarkCollection>
+</lm:lmx>

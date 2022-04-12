@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2022-04-12T17:46:30.341Z</time>
+  <bounds minlat="35.646783000" minlon="-119.104200000" maxlat="38.389667000" maxlon="-117.598283000"/>
+  <wpt lat="37.581767000" lon="-118.248017000">
+    <ele>3945.000000</ele>
+    <name>barcroft</name>
+    <cmt>MOUNT BARCROFT</cmt>
+    <desc>MOUNT BARCROFT</desc>
+  </wpt>
+  <wpt lat="37.820250000" lon="-118.474333000">
+    <ele>1650.000000</ele>
+    <name>benton</name>
+    <cmt>BENTON</cmt>
+    <desc>BENTON</desc>
+  </wpt>
+  <wpt lat="37.232433000" lon="-118.283250000">
+    <ele>1205.000000</ele>
+    <name>BIGEAR</name>
+    <cmt>DEEP SPACE RADIO</cmt>
+    <desc>DEEP SPACE RADIO</desc>
+  </wpt>
+  <wpt lat="37.171225000" lon="-118.288331000">
+    <ele>1208.000000</ele>
+    <name>BIGPIN</name>
+    <cmt>BIG PINE</cmt>
+    <desc>BIG PINE</desc>
+  </wpt>
+  <wpt lat="37.267000000" lon="-118.225750000">
+    <ele>2743.000000</ele>
+    <name>BLACK</name>
+    <cmt>BLACK MOUNTAIN</cmt>
+    <desc>BLACK MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="37.644733000" lon="-118.390233000">
+    <ele>1393.000000</ele>
+    <name>CASBAH</name>
+    <cmt>CASBAH</cmt>
+    <desc>CASBAH</desc>
+  </wpt>
+  <wpt lat="37.417600000" lon="-118.432667000">
+    <ele>1283.000000</ele>
+    <name>CHALK</name>
+    <cmt>CHALK BLUFF ROAD</cmt>
+    <desc>CHALK BLUFF ROAD</desc>
+  </wpt>
+  <wpt lat="37.529933000" lon="-118.364117000">
+    <ele>1303.000000</ele>
+    <name>CHLFNT</name>
+    <cmt>CHALFANT VALLEY</cmt>
+    <desc>CHALFANT VALLEY</desc>
+  </wpt>
+  <wpt lat="36.265800000" lon="-117.598283000">
+    <ele>1442.000000</ele>
+    <name>DARWIN</name>
+    <cmt>DARWIN AIRSTRIP</cmt>
+    <desc>DARWIN AIRSTRIP</desc>
+  </wpt>
+  <wpt lat="37.783267000" lon="-118.343000000">
+    <ele>4121.000000</ele>
+    <name>DUBOIS</name>
+    <cmt>MOUNT DUBOIS</cmt>
+    <desc>MOUNT DUBOIS</desc>
+  </wpt>
+  <wpt lat="37.372767000" lon="-118.399300000">
+    <ele>1266.000000</ele>
+    <name>FAIR</name>
+    <cmt>BISHOP FAIR GROU</cmt>
+    <desc>BISHOP FAIR GROU</desc>
+  </wpt>
+  <wpt lat="37.459067000" lon="-118.405000000">
+    <ele>1387.000000</ele>
+    <name>FISH</name>
+    <cmt>FISH SLOUGH ROAD</cmt>
+    <desc>FISH SLOUGH ROAD</desc>
+  </wpt>
+  <wpt lat="37.388086000" lon="-118.295108000">
+    <ele>1716.000000</ele>
+    <name>FLNLNC</name>
+    <cmt>FLYNNS LAUNCH</cmt>
+    <desc>FLYNNS LAUNCH</desc>
+  </wpt>
+  <wpt lat="37.392033000" lon="-118.315133000">
+    <ele>1268.000000</ele>
+    <name>FLYNLZ</name>
+    <cmt>FLYNZ LZ</cmt>
+    <desc>FLYNZ LZ</desc>
+  </wpt>
+  <wpt lat="37.437683000" lon="-118.334033000">
+    <ele>1281.000000</ele>
+    <name>GNTRLZ</name>
+    <cmt>GUNTER LZ</cmt>
+    <desc>GUNTER LZ</desc>
+  </wpt>
+  <wpt lat="37.467967000" lon="-118.262833000">
+    <ele>2522.000000</ele>
+    <name>GUNTER</name>
+    <cmt>GUNTER LAUNCH</cmt>
+    <desc>GUNTER LAUNCH</desc>
+  </wpt>
+  <wpt lat="37.673983000" lon="-118.403450000">
+    <ele>1396.000000</ele>
+    <name>HAMMIL</name>
+    <cmt>HAMMIL LANDING S</cmt>
+    <desc>HAMMIL LANDING S</desc>
+  </wpt>
+  <wpt lat="37.456300000" lon="-118.350867000">
+    <ele>1275.000000</ele>
+    <name>HIWAY6</name>
+    <cmt>HIGHWAY 6</cmt>
+    <desc>HIGHWAY 6</desc>
+  </wpt>
+  <wpt lat="37.732017000" lon="-118.305133000">
+    <ele>3881.000000</ele>
+    <name>HOGUE</name>
+    <cmt>MOUNT HOGUE</cmt>
+    <desc>MOUNT HOGUE</desc>
+  </wpt>
+  <wpt lat="36.812817000" lon="-118.203150000">
+    <ele>1185.000000</ele>
+    <name>INDEP</name>
+    <cmt>INDEPENDENCE AIR</cmt>
+    <desc>INDEPENDENCE AIR</desc>
+  </wpt>
+  <wpt lat="35.646783000" lon="-117.811583000">
+    <ele>740.000000</ele>
+    <name>INYKRN</name>
+    <cmt>INYOKERN</cmt>
+    <desc>INYOKERN</desc>
+  </wpt>
+  <wpt lat="37.927481000" lon="-118.405744000">
+    <ele>1901.000000</ele>
+    <name>JANEYS</name>
+    <cmt>JANEYS</cmt>
+    <desc>JANEYS</desc>
+  </wpt>
+  <wpt lat="37.605050000" lon="-118.346067000">
+    <ele>1878.000000</ele>
+    <name>JEFFRY</name>
+    <cmt>JEFFREY RADIO</cmt>
+    <desc>JEFFREY RADIO</desc>
+  </wpt>
+  <wpt lat="37.255617000" lon="-118.370033000">
+    <ele>1264.000000</ele>
+    <name>KEOUGH</name>
+    <cmt>KEOUGH HOT SPRIN</cmt>
+    <desc>KEOUGH HOT SPRIN</desc>
+  </wpt>
+  <wpt lat="37.400350000" lon="-118.345683000">
+    <ele>1253.000000</ele>
+    <name>LAWS</name>
+    <cmt>LAWS</cmt>
+    <desc>LAWS</desc>
+  </wpt>
+  <wpt lat="36.590533000" lon="-118.045450000">
+    <ele>1120.000000</ele>
+    <name>LONPIN</name>
+    <cmt>LONE PINE AIRPOR</cmt>
+    <desc>LONE PINE AIRPOR</desc>
+  </wpt>
+  <wpt lat="36.737600000" lon="-118.145450000">
+    <ele>1163.000000</ele>
+    <name>MANZAP</name>
+    <cmt>MANZANAR AIRPORT</cmt>
+    <desc>MANZANAR AIRPORT</desc>
+  </wpt>
+  <wpt lat="37.979983000" lon="-118.317983000">
+    <ele>2175.000000</ele>
+    <name>MGRPS</name>
+    <cmt>MONTGOMERY PASS</cmt>
+    <desc>MONTGOMERY PASS</desc>
+  </wpt>
+  <wpt lat="37.833683000" lon="-118.416733000">
+    <ele>2239.000000</ele>
+    <name>MGYCRK</name>
+    <cmt>MONTGOMERY CREEK</cmt>
+    <desc>MONTGOMERY CREEK</desc>
+  </wpt>
+  <wpt lat="37.377117000" lon="-118.491867000">
+    <ele>1356.000000</ele>
+    <name>MILPND</name>
+    <cmt>MILLPOND RECREAT</cmt>
+    <desc>MILLPOND RECREAT</desc>
+  </wpt>
+  <wpt lat="38.389667000" lon="-118.102383000">
+    <ele>1384.000000</ele>
+    <name>MINA</name>
+    <cmt>MINA TOWN</cmt>
+    <desc>MINA TOWN</desc>
+  </wpt>
+  <wpt lat="37.904333000" lon="-118.316783000">
+    <ele>3001.000000</ele>
+    <name>MUSTANG</name>
+    <cmt>MUSTANG POINT</cmt>
+    <desc>MUSTANG POINT</desc>
+  </wpt>
+  <wpt lat="37.723633000" lon="-118.368983000">
+    <ele>1953.000000</ele>
+    <name>MVWMIN</name>
+    <cmt>MOUNTAIN VIEW MI</cmt>
+    <desc>MOUNTAIN VIEW MI</desc>
+  </wpt>
+  <wpt lat="37.422883000" lon="-118.264300000">
+    <ele>2465.000000</ele>
+    <name>N78</name>
+    <cmt>HILL</cmt>
+    <desc>HILL</desc>
+  </wpt>
+  <wpt lat="36.282233000" lon="-118.004450000">
+    <ele>1111.000000</ele>
+    <name>OLNCHA</name>
+    <cmt>OLANCHA</cmt>
+    <desc>OLANCHA</desc>
+  </wpt>
+  <wpt lat="37.510050000" lon="-118.349267000">
+    <ele>1303.000000</ele>
+    <name>PAIULZ</name>
+    <cmt>PAIUTE LZ</cmt>
+    <desc>PAIUTE LZ</desc>
+  </wpt>
+  <wpt lat="37.518800000" lon="-118.293733000">
+    <ele>2435.000000</ele>
+    <name>PAIUTE</name>
+    <cmt>PAUITE LAUNCH</cmt>
+    <desc>PAUITE LAUNCH</desc>
+  </wpt>
+  <wpt lat="37.332617000" lon="-118.284833000">
+    <ele>1392.000000</ele>
+    <name>PARTRD</name>
+    <cmt>MINE PROSPECT</cmt>
+    <desc>MINE PROSPECT</desc>
+  </wpt>
+  <wpt lat="37.497517000" lon="-118.274250000">
+    <ele>2650.000000</ele>
+    <name>PEAK</name>
+    <cmt>SUMMIT</cmt>
+    <desc>SUMMIT</desc>
+  </wpt>
+  <wpt lat="37.458317000" lon="-118.289350000">
+    <ele>1751.000000</ele>
+    <name>PITS</name>
+    <cmt>TAILING PITS</cmt>
+    <desc>TAILING PITS</desc>
+  </wpt>
+  <wpt lat="37.650750000" lon="-118.434517000">
+    <ele>1485.000000</ele>
+    <name>PTRGLF</name>
+    <cmt>PETROGLYPH</cmt>
+    <desc>PETROGLYPH</desc>
+  </wpt>
+  <wpt lat="37.297700000" lon="-118.283017000">
+    <ele>1247.000000</ele>
+    <name>PUPFSH</name>
+    <cmt>PUPFSH</cmt>
+    <desc>PUPFSH</desc>
+  </wpt>
+  <wpt lat="37.764817000" lon="-118.402667000">
+    <ele>1901.000000</ele>
+    <name>QENDIX</name>
+    <cmt>QUEEN DICKS</cmt>
+    <desc>QUEEN DICKS</desc>
+  </wpt>
+  <wpt lat="37.391550000" lon="-118.254567000">
+    <ele>2543.000000</ele>
+    <name>REDHIL</name>
+    <cmt>REDHILL PEAK</cmt>
+    <desc>REDHILL PEAK</desc>
+  </wpt>
+  <wpt lat="37.583450000" lon="-118.344650000">
+    <ele>1673.000000</ele>
+    <name>SABIES</name>
+    <cmt>SABIES CANYON</cmt>
+    <desc>SABIES CANYON</desc>
+  </wpt>
+  <wpt lat="37.542767000" lon="-118.333800000">
+    <ele>1525.000000</ele>
+    <name>SCRMNT</name>
+    <cmt>SACRAMENTO MINE</cmt>
+    <desc>SACRAMENTO MINE</desc>
+  </wpt>
+  <wpt lat="37.461547000" lon="-118.316172000">
+    <ele>1507.000000</ele>
+    <name>SOBLMIN</name>
+    <cmt>SOUTHERN BELLE M</cmt>
+    <desc>SOUTHERN BELLE M</desc>
+  </wpt>
+  <wpt lat="37.934617000" lon="-118.305933000">
+    <ele>2746.000000</ele>
+    <name>SUGAR</name>
+    <cmt>SUGARLOAF MOUNTA</cmt>
+    <desc>SUGARLOAF MOUNTA</desc>
+  </wpt>
+  <wpt lat="37.050850000" lon="-118.226933000">
+    <ele>1175.000000</ele>
+    <name>TINMAH</name>
+    <cmt>TINEMAHA RESERVO</cmt>
+    <desc>TINEMAHA RESERVO</desc>
+  </wpt>
+  <wpt lat="37.355422000" lon="-118.285753000">
+    <ele>1581.000000</ele>
+    <name>TWRCTR</name>
+    <cmt>RADIO TOWER</cmt>
+    <desc>RADIO TOWER</desc>
+  </wpt>
+  <wpt lat="36.473133000" lon="-118.115067000">
+    <ele>2788.000000</ele>
+    <name>WALTS</name>
+    <cmt>WALTS POINT</cmt>
+    <desc>WALTS POINT</desc>
+  </wpt>
+  <wpt lat="37.705283000" lon="-118.413783000">
+    <ele>1431.000000</ele>
+    <name>WATERS</name>
+    <cmt>WATERS</cmt>
+    <desc>WATERS</desc>
+  </wpt>
+  <wpt lat="37.634275000" lon="-118.255578000">
+    <ele>4313.000000</ele>
+    <name>WHITE</name>
+    <cmt>WHITE MOUNTAIN P</cmt>
+    <desc>WHITE MOUNTAIN P</desc>
+  </wpt>
+  <wpt lat="37.360906000" lon="-118.321633000">
+    <ele>1236.000000</ele>
+    <name>WMRSEZ</name>
+    <cmt>WMRSEZ</cmt>
+    <desc>WMRSEZ</desc>
+  </wpt>
+  <wpt lat="37.615592000" lon="-118.385870000">
+    <ele>1394.000000</ele>
+    <name>WMTRCH</name>
+    <cmt>WMTRCH</cmt>
+    <desc>WMTRCH</desc>
+  </wpt>
+  <wpt lat="37.182433000" lon="-118.259467000">
+    <ele>1196.000000</ele>
+    <name>ZURICH</name>
+    <cmt>ZURICH</cmt>
+    <desc>ZURICH</desc>
+  </wpt>
+  <wpt lat="36.976900000" lon="-118.121383000">
+    <ele>2858.000000</ele>
+    <name>MAZOURKA</name>
+    <cmt>MAZOURKA PEAK</cmt>
+    <desc>MAZOURKA PEAK</desc>
+  </wpt>
+  <wpt lat="37.113117000" lon="-118.299317000">
+    <ele>1847.000000</ele>
+    <name>CRATER</name>
+    <cmt>CRATER MOUNTAIN</cmt>
+    <desc>CRATER MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="37.207967000" lon="-118.432600000">
+    <ele>3365.000000</ele>
+    <name>ROUND</name>
+    <cmt>ROUND MTN</cmt>
+    <desc>ROUND MTN</desc>
+  </wpt>
+  <wpt lat="37.338783000" lon="-118.656767000">
+    <ele>4070.000000</ele>
+    <name>TOM</name>
+    <cmt>mT TOM</cmt>
+    <desc>mT TOM</desc>
+  </wpt>
+  <wpt lat="37.306783000" lon="-118.601617000">
+    <ele>2233.000000</ele>
+    <name>GROUSE</name>
+    <cmt>GROUSE MTN</cmt>
+    <desc>GROUSE MTN</desc>
+  </wpt>
+  <wpt lat="37.403867000" lon="-118.497900000">
+    <ele>1304.000000</ele>
+    <name>PLEASV</name>
+    <cmt>PLEASENT VALLEY RESERVOIR</cmt>
+    <desc>PLEASENT VALLEY RESERVOIR</desc>
+  </wpt>
+  <wpt lat="37.519033000" lon="-118.400950000">
+    <ele>1290.000000</ele>
+    <name>NFISH</name>
+    <cmt>North of Fish SLOUGH</cmt>
+    <desc>North of Fish SLOUGH</desc>
+  </wpt>
+  <wpt lat="37.691767000" lon="-118.312067000">
+    <ele>3376.000000</ele>
+    <name>INDIAN</name>
+    <cmt>INDIAN PEAK</cmt>
+    <desc>INDIAN PEAK</desc>
+  </wpt>
+  <wpt lat="37.578017000" lon="-118.550350000">
+    <ele>2402.000000</ele>
+    <name>CASAD</name>
+    <cmt>CASA DIABLO MINE</cmt>
+    <desc>CASA DIABLO MINE</desc>
+  </wpt>
+  <wpt lat="37.684433000" lon="-118.577600000">
+    <ele>2502.000000</ele>
+    <name>BANNER</name>
+    <cmt>BANNER RIDGE</cmt>
+    <desc>BANNER RIDGE</desc>
+  </wpt>
+  <wpt lat="37.781150000" lon="-118.486550000">
+    <ele>2081.000000</ele>
+    <name>PEARCE</name>
+    <cmt>PEARCE PEAK</cmt>
+    <desc>PEARCE PEAK</desc>
+  </wpt>
+  <wpt lat="37.847917000" lon="-118.493933000">
+    <ele>1652.000000</ele>
+    <name>SIPES</name>
+    <cmt>SIPES RANCH ROAD</cmt>
+    <desc>SIPES RANCH ROAD</desc>
+  </wpt>
+  <wpt lat="37.850583000" lon="-118.566567000">
+    <ele>2349.000000</ele>
+    <name>TRAFTON</name>
+    <cmt>TRAFTON MTN</cmt>
+    <desc>TRAFTON MTN</desc>
+  </wpt>
+  <wpt lat="37.774983000" lon="-118.708667000">
+    <ele>3393.000000</ele>
+    <name>GLASS</name>
+    <cmt>GLASS MOUNTAIN</cmt>
+    <desc>GLASS MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="37.924750000" lon="-118.771183000">
+    <ele>2659.000000</ele>
+    <name>GRANITE</name>
+    <cmt>GRANITE MOUNTAIN</cmt>
+    <desc>GRANITE MOUNTAIN</desc>
+  </wpt>
+  <wpt lat="37.953867000" lon="-119.104200000">
+    <ele>2070.000000</ele>
+    <name>LEEV</name>
+    <cmt>LEE Vining AIRPORT</cmt>
+    <desc>LEE Vining AIRPORT</desc>
+  </wpt>
+</gpx>

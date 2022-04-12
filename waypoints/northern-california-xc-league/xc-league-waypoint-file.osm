@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='GPSBabel-1.5.2'>
+  <node id='-1' visible='true' lat='36.7814340' lon='-119.1214140'>
+    <tag k='name' v='49917'/>
+    <tag k='note' v='HILL 49917'/>
+  </node>
+  <node id='-2' visible='true' lat='36.8872500' lon='-119.5390830'>
+    <tag k='name' v='ACADMY'/>
+    <tag k='note' v='ACADEMY'/>
+  </node>
+  <node id='-3' visible='true' lat='36.7164830' lon='-119.1376500'>
+    <tag k='name' v='AIRSTR'/>
+    <tag k='note' v='AIRSTRIP'/>
+  </node>
+  <node id='-4' visible='true' lat='37.0776830' lon='-119.4885330'>
+    <tag k='name' v='AUBERY'/>
+    <tag k='note' v='AUBERY LANDING S'/>
+  </node>
+  <node id='-5' visible='true' lat='36.7659500' lon='-119.2033700'>
+    <tag k='name' v='BALDMT'/>
+    <tag k='note' v='BALD MOUNTAIN'/>
+  </node>
+  <node id='-6' visible='true' lat='36.7459500' lon='-119.2817320'>
+    <tag k='name' v='BEARMT'/>
+    <tag k='note' v='BEAR MOUNTAIN'/>
+  </node>
+  <node id='-7' visible='true' lat='36.7663840' lon='-119.1295000'>
+    <tag k='name' v='BIGCAT'/>
+    <tag k='note' v='PROJECT SURVIVAL'/>
+  </node>
+  <node id='-8' visible='true' lat='37.0128330' lon='-119.4519670'>
+    <tag k='name' v='BLKMTN'/>
+    <tag k='note' v='BLACK MOUNTAIN'/>
+  </node>
+  <node id='-9' visible='true' lat='36.6948850' lon='-119.4220860'>
+    <tag k='name' v='CAMPBE'/>
+    <tag k='note' v='CAMPBELL MTN'/>
+  </node>
+  <node id='-10' visible='true' lat='36.5565800' lon='-119.1709660'>
+    <tag k='name' v='CLIFF'/>
+    <tag k='note' v='CLIFF PEAK'/>
+  </node>
+  <node id='-11' visible='true' lat='37.0015000' lon='-119.5497500'>
+    <tag k='name' v='CORLEW'/>
+    <tag k='note' v='CORLEW MOUNTIAN'/>
+  </node>
+  <node id='-12' visible='true' lat='36.5947320' lon='-119.2566990'>
+    <tag k='name' v='CURTIS'/>
+    <tag k='note' v='This is waypoint no: 12'/>
+  </node>
+  <node id='-13' visible='true' lat='36.7355000' lon='-119.1051330'>
+    <tag k='name' v='TIM'/>
+    <tag k='note' v='TIM LZ'/>
+  </node>
+  <node id='-14' visible='true' lat='36.7891140' lon='-119.1189870'>
+    <tag k='name' v='DELILA'/>
+    <tag k='note' v='DELIILAH'/>
+  </node>
+  <node id='-15' visible='true' lat='36.7652670' lon='-119.0984340'>
+    <tag k='name' v='TIMLNCH'/>
+    <tag k='note' v='TIM LAUNCH'/>
+  </node>
+  <node id='-16' visible='true' lat='36.6345160' lon='-119.1173620'>
+    <tag k='name' v='DRUM'/>
+    <tag k='note' v='DRUM HILL'/>
+  </node>
+  <node id='-17' visible='true' lat='36.1611170' lon='-119.0488830'>
+    <tag k='name' v='ECKERT'/>
+    <tag k='note' v='ECKERT AIRPORT'/>
+  </node>
+  <node id='-18' visible='true' lat='39.6018370' lon='-122.5384780'>
+    <tag k='name' v='ELK'/>
+    <tag k='note' v='ELK CREEK'/>
+  </node>
+  <node id='-19' visible='true' lat='36.2973430' lon='-119.1460460'>
+    <tag k='name' v='EXETER'/>
+    <tag k='note' v='This is waypoint no: 19'/>
+  </node>
+  <node id='-20' visible='true' lat='39.5205030' lon='-122.6818560'>
+    <tag k='name' v='FELKNE'/>
+    <tag k='note' v='FELKNER OH MY GO'/>
+  </node>
+  <node id='-21' visible='true' lat='36.7298310' lon='-119.1344830'>
+    <tag k='name' v='GRNY'/>
+    <tag k='note' v='GRANY S KNOB'/>
+  </node>
+  <node id='-22' visible='true' lat='40.3007070' lon='-122.3268830'>
+    <tag k='name' v='HOOKER'/>
+    <tag k='note' v='This is waypoint no: 22'/>
+  </node>
+  <node id='-23' visible='true' lat='36.9595410' lon='-119.4441730'>
+    <tag k='name' v='HUMPH'/>
+    <tag k='note' v='HREY STATION'/>
+  </node>
+  <node id='-24' visible='true' lat='39.4058030' lon='-122.5517060'>
+    <tag k='name' v='INDIAN'/>
+    <tag k='note' v='INDIAN VALLEY'/>
+  </node>
+  <node id='-25' visible='true' lat='36.7375360' lon='-119.4070530'>
+    <tag k='name' v='JESSE'/>
+    <tag k='note' v='JESSE MTN'/>
+  </node>
+  <node id='-26' visible='true' lat='39.4195370' lon='-122.6736540'>
+    <tag k='name' v='JOHNLO'/>
+    <tag k='note' v='LOW ON ST JOHN'/>
+  </node>
+  <node id='-27' visible='true' lat='36.9520500' lon='-119.4824500'>
+    <tag k='name' v='KEYS'/>
+    <tag k='note' v='KEYS MOUNTAIN'/>
+  </node>
+  <node id='-28' visible='true' lat='37.0221560' lon='-119.4104210'>
+    <tag k='name' v='KNOB'/>
+    <tag k='note' v='KNOB'/>
+  </node>
+  <node id='-29' visible='true' lat='36.3859740' lon='-119.0227770'>
+    <tag k='name' v='LEMON'/>
+    <tag k='note' v='LEMONCOVE'/>
+  </node>
+  <node id='-30' visible='true' lat='39.3027830' lon='-122.4905670'>
+    <tag k='name' v='LODOGA'/>
+    <tag k='note' v='This is waypoint no: 30'/>
+  </node>
+  <node id='-31' visible='true' lat='40.0137420' lon='-122.5532310'>
+    <tag k='name' v='LOWREY'/>
+    <tag k='note' v='This is waypoint no: 31'/>
+  </node>
+  <node id='-32' visible='true' lat='37.0187500' lon='-119.5739830'>
+    <tag k='name' v='MARSHA'/>
+    <tag k='note' v='MARSHALL HILL'/>
+  </node>
+  <node id='-33' visible='true' lat='39.2873500' lon='-122.1887170'>
+    <tag k='name' v='MAXWEL'/>
+    <tag k='note' v='MAXWELL AIRSTRIP'/>
+  </node>
+  <node id='-34' visible='true' lat='36.9911830' lon='-119.7116500'>
+    <tag k='name' v='MILLLZ'/>
+    <tag k='note' v='MILLERTON LAKE L'/>
+  </node>
+  <node id='-35' visible='true' lat='36.7213660' lon='-119.1211850'>
+    <tag k='name' v='NONAME'/>
+    <tag k='note' v='NO NAME KNOB'/>
+  </node>
+  <node id='-36' visible='true' lat='36.6301160' lon='-119.3086680'>
+    <tag k='name' v='ORANGE'/>
+    <tag k='note' v='ORANGE COVE SOCC'/>
+  </node>
+  <node id='-37' visible='true' lat='36.5457500' lon='-119.2683670'>
+    <tag k='name' v='OROSI'/>
+    <tag k='note' v='EAST OROSI'/>
+  </node>
+  <node id='-38' visible='true' lat='39.8846240' lon='-122.5458230'>
+    <tag k='name' v='PASKEN'/>
+    <tag k='note' v='PASKENTA'/>
+  </node>
+  <node id='-39' visible='true' lat='36.0723190' lon='-119.0245900'>
+    <tag k='name' v='PORTER'/>
+    <tag k='note' v='PORTERVILLE'/>
+  </node>
+  <node id='-40' visible='true' lat='39.3496220' lon='-122.6620500'>
+    <tag k='name' v='POTLZ'/>
+    <tag k='note' v='POTATO LZ'/>
+  </node>
+  <node id='-41' visible='true' lat='39.5158180' lon='-122.5627910'>
+    <tag k='name' v='RADIO'/>
+    <tag k='note' v='RADIO TOWER'/>
+  </node>
+  <node id='-42' visible='true' lat='40.1800500' lon='-122.2379000'>
+    <tag k='name' v='REDBLF'/>
+    <tag k='note' v='RED BLUFF BABY'/>
+  </node>
+  <node id='-43' visible='true' lat='39.3563670' lon='-122.5164830'>
+    <tag k='name' v='RESERV'/>
+    <tag k='note' v='EAST PARK RESERV'/>
+  </node>
+  <node id='-44' visible='true' lat='36.7564170' lon='-119.1657340'>
+    <tag k='name' v='RNGSTN'/>
+    <tag k='note' v='RANGER STATION'/>
+  </node>
+  <node id='-45' visible='true' lat='36.7303160' lon='-119.1918870'>
+    <tag k='name' v='RUTH'/>
+    <tag k='note' v='RUTH HILL'/>
+  </node>
+  <node id='-46' visible='true' lat='37.0738830' lon='-119.4650830'>
+    <tag k='name' v='SANDYM'/>
+    <tag k='note' v='SANDY MOUNTAIN'/>
+  </node>
+  <node id='-47' visible='true' lat='37.0464000' lon='-119.4506830'>
+    <tag k='name' v='SKNOB'/>
+    <tag k='note' v='SANDY KNOB'/>
+  </node>
+  <node id='-48' visible='true' lat='39.3708030' lon='-122.6900580'>
+    <tag k='name' v='SNOWVL'/>
+    <tag k='note' v='VERY LOW ON SNOW'/>
+  </node>
+  <node id='-49' visible='true' lat='36.7469330' lon='-119.0766670'>
+    <tag k='name' v='SONTAG'/>
+    <tag k='note' v='SONTAG POINT'/>
+  </node>
+  <node id='-50' visible='true' lat='36.7387670' lon='-119.2515170'>
+    <tag k='name' v='SQVAL'/>
+    <tag k='note' v='SQUAW VALLEY'/>
+  </node>
+  <node id='-51' visible='true' lat='39.4304130' lon='-122.6915970'>
+    <tag k='name' v='STJOHN'/>
+    <tag k='note' v='ST JOHN MOUNTAIN'/>
+  </node>
+  <node id='-52' visible='true' lat='39.3750000' lon='-122.5438330'>
+    <tag k='name' v='STONYF'/>
+    <tag k='note' v='STONYFORD'/>
+  </node>
+  <node id='-53' visible='true' lat='37.0333000' lon='-119.3866000'>
+    <tag k='name' v='TIT'/>
+    <tag k='note' v='SQUAW TIT'/>
+  </node>
+  <node id='-54' visible='true' lat='36.8004030' lon='-119.3596860'>
+    <tag k='name' v='TIVYMT'/>
+    <tag k='note' v='TIVY MOUNTAIN'/>
+  </node>
+  <node id='-55' visible='true' lat='37.0155000' lon='-119.3733500'>
+    <tag k='name' v='TOLLLN'/>
+    <tag k='note' v='TOLLHOUSE LAUNCH'/>
+  </node>
+  <node id='-56' visible='true' lat='39.3348870' lon='-122.6980080'>
+    <tag k='name' v='TOP'/>
+    <tag k='note' v='POTATO TOP'/>
+  </node>
+  <node id='-57' visible='true' lat='39.3496870' lon='-122.6466080'>
+    <tag k='name' v='TROUGH'/>
+    <tag k='note' v='TROUGH SPUR'/>
+  </node>
+  <node id='-58' visible='true' lat='36.6385830' lon='-119.2094800'>
+    <tag k='name' v='TUCKER'/>
+    <tag k='note' v='TUCKER MOUNTAIN'/>
+  </node>
+  <node id='-59' visible='true' lat='36.9329500' lon='-119.3674830'>
+    <tag k='name' v='WATT'/>
+    <tag k='note' v='WATTS VALLEY'/>
+  </node>
+  <node id='-60' visible='true' lat='39.5214500' lon='-122.2203830'>
+    <tag k='name' v='WILLOW'/>
+    <tag k='note' v='WILLOWS AIRPORT'/>
+  </node>
+  <node id='-61' visible='true' lat='36.6911170' lon='-119.2580340'>
+    <tag k='name' v='WOLVER'/>
+    <tag k='note' v='WOLVERINE LANE S'/>
+  </node>
+  <node id='-62' visible='true' lat='36.4217670' lon='-119.1006500'>
+    <tag k='name' v='WOODLA'/>
+    <tag k='note' v='WOODLAKE SCHOOL'/>
+  </node>
+  <node id='-63' visible='true' lat='36.2130150' lon='-119.0945860'>
+    <tag k='name' v='LINDSY'/>
+    <tag k='note' v='LINDSAY'/>
+  </node>
+  <node id='-64' visible='true' lat='36.7603800' lon='-119.1700600'>
+    <tag k='name' v='HOPE'/>
+    <tag k='note' v='HOPEWELL ROAD'/>
+  </node>
+  <node id='-65' visible='true' lat='36.7102800' lon='-119.1378300'>
+    <tag k='name' v='JEEP'/>
+    <tag k='note' v='Jeep trail hill'/>
+  </node>
+  <node id='-66' visible='true' lat='36.7170200' lon='-119.2885500'>
+    <tag k='name' v='63BEND'/>
+    <tag k='note' v='Bend in Highway63'/>
+  </node>
+  <node id='-67' visible='true' lat='36.7037800' lon='-119.2378400'>
+    <tag k='name' v='FAWN'/>
+    <tag k='note' v='FAWN LANE HILL'/>
+  </node>
+  <node id='-68' visible='true' lat='36.6689800' lon='-119.2382700'>
+    <tag k='name' v='SNDCRN'/>
+    <tag k='note' v='This is waypoint no: 68'/>
+  </node>
+  <node id='-69' visible='true' lat='36.2876300' lon='-119.0887600'>
+    <tag k='name' v='ROCKYH'/>
+    <tag k='note' v='ROCKY HILL'/>
+  </node>
+  <node id='-70' visible='true' lat='36.8186900' lon='-119.5109400'>
+    <tag k='name' v='ROUND'/>
+    <tag k='note' v='Round Mt'/>
+  </node>
+  <node id='-71' visible='true' lat='36.8133100' lon='-119.4653500'>
+    <tag k='name' v='COYOTE'/>
+    <tag k='note' v='COYOTE RIDGE'/>
+  </node>
+  <node id='-72' visible='true' lat='36.8472300' lon='-119.5154400'>
+    <tag k='name' v='KINDSV'/>
+    <tag k='note' v='KINDSVATER RANCH AIRPORT'/>
+  </node>
+  <node id='-73' visible='true' lat='36.8865200' lon='-119.4360100'>
+    <tag k='name' v='WILDCAT'/>
+    <tag k='note' v='WILDCAT MOUNTAIN'/>
+  </node>
+  <node id='-74' visible='true' lat='37.0112600' lon='-119.7929100'>
+    <tag k='name' v='4CORNERS'/>
+    <tag k='note' v='4 CORNERS'/>
+  </node>
+  <node id='-75' visible='true' lat='36.9737700' lon='-120.0350000'>
+    <tag k='name' v='MILLVW'/>
+    <tag k='note' v='MILLVIEW PARK'/>
+  </node>
+  <node id='-76' visible='true' lat='37.0651250' lon='-119.4566740'>
+    <tag k='name' v='4LNTRN'/>
+    <tag k='note' v='4 LANE TURN'/>
+  </node>
+  <node id='-77' visible='true' lat='36.6981510' lon='-119.3054690'>
+    <tag k='name' v='63LZ'/>
+    <tag k='note' v='HILLS VALLEY'/>
+  </node>
+  <node id='-78' visible='true' lat='36.4324600' lon='-119.0755640'>
+    <tag k='name' v='ANT'/>
+    <tag k='note' v='ANTELOPE MOUNTAI'/>
+  </node>
+  <node id='-79' visible='true' lat='36.7820860' lon='-119.4144710'>
+    <tag k='name' v='AVOCAD'/>
+    <tag k='note' v='AVACADO LAKE'/>
+  </node>
+  <node id='-80' visible='true' lat='39.4098580' lon='-122.6211890'>
+    <tag k='name' v='BLKDMD'/>
+    <tag k='note' v='BLACK DIAMOND'/>
+  </node>
+  <node id='-81' visible='true' lat='36.9722740' lon='-119.3768720'>
+    <tag k='name' v='BURROU'/>
+    <tag k='note' v='BURROUGH VALLEY'/>
+  </node>
+  <node id='-82' visible='true' lat='36.9833260' lon='-119.6406410'>
+    <tag k='name' v='CASINO'/>
+    <tag k='note' v='TABLE MOUNTAIN C'/>
+  </node>
+  <node id='-83' visible='true' lat='39.7247990' lon='-122.5511160'>
+    <tag k='name' v='CHROME'/>
+    <tag k='note' v='This is waypoint no: 83'/>
+  </node>
+  <node id='-84' visible='true' lat='36.4523380' lon='-119.1503480'>
+    <tag k='name' v='COLVIN'/>
+    <tag k='note' v='COLVIN MOUNTAIN'/>
+  </node>
+  <node id='-85' visible='true' lat='36.5236250' lon='-119.2864000'>
+    <tag k='name' v='CUTLER'/>
+    <tag k='note' v='This is waypoint no: 85'/>
+  </node>
+  <node id='-86' visible='true' lat='36.7744020' lon='-119.2410680'>
+    <tag k='name' v='DLTNMT'/>
+    <tag k='note' v='DALTON MOUNTAIN'/>
+  </node>
+  <node id='-87' visible='true' lat='36.8199900' lon='-119.3793900'>
+    <tag k='name' v='DOYLES'/>
+    <tag k='note' v='DOYLES STORE WIT'/>
+  </node>
+  <node id='-88' visible='true' lat='36.9725660' lon='-119.5329960'>
+    <tag k='name' v='DRYCRK'/>
+    <tag k='note' v='CREEK'/>
+  </node>
+  <node id='-89' visible='true' lat='36.4790720' lon='-119.1158470'>
+    <tag k='name' v='ELDERW'/>
+    <tag k='note' v='ELDERWOOD STATIO'/>
+  </node>
+  <node id='-90' visible='true' lat='36.7371170' lon='-119.0796490'>
+    <tag k='name' v='LASTCH'/>
+    <tag k='note' v='LAST CHANCE'/>
+  </node>
+  <node id='-91' visible='true' lat='36.9613080' lon='-119.5074890'>
+    <tag k='name' v='NICHOL'/>
+    <tag k='note' v='NICHOLAS ROAD HI'/>
+  </node>
+  <node id='-92' visible='true' lat='36.8670570' lon='-119.2918890'>
+    <tag k='name' v='PINEFL'/>
+    <tag k='note' v='PINE FLAT RESERV'/>
+  </node>
+  <node id='-93' visible='true' lat='39.3406620' lon='-122.6852690'>
+    <tag k='name' v='POTLAU'/>
+    <tag k='note' v='POTATO LAUNCH'/>
+  </node>
+  <node id='-94' visible='true' lat='37.0384910' lon='-119.5240580'>
+    <tag k='name' v='PRATHE'/>
+    <tag k='note' v='PRATHER AIRSTRIP'/>
+  </node>
+  <node id='-95' visible='true' lat='40.0994470' lon='-122.4454240'>
+    <tag k='name' v='REDBAN'/>
+    <tag k='note' v='RED BANK'/>
+  </node>
+  <node id='-96' visible='true' lat='39.7425990' lon='-122.6096490'>
+    <tag k='name' v='REDMTN'/>
+    <tag k='note' v='RED MOUNTAIN'/>
+  </node>
+  <node id='-97' visible='true' lat='37.0362410' lon='-119.4548400'>
+    <tag k='name' v='SJUHS'/>
+    <tag k='note' v='SIERRA JOINT UNI'/>
+  </node>
+  <node id='-98' visible='true' lat='36.6242160' lon='-119.2623010'>
+    <tag k='name' v='SNDCRK'/>
+    <tag k='note' v='SAND CREEK'/>
+  </node>
+  <node id='-99' visible='true' lat='37.0694250' lon='-119.5404910'>
+    <tag k='name' v='SQUAW'/>
+    <tag k='note' v='SQUAW LEAP'/>
+  </node>
+  <node id='-100' visible='true' lat='36.5171070' lon='-119.1968820'>
+    <tag k='name' v='STOKES'/>
+    <tag k='note' v='STOKES MOUNTAIN'/>
+  </node>
+  <node id='-101' visible='true' lat='39.5422100' lon='-122.5361350'>
+    <tag k='name' v='STYCKR'/>
+    <tag k='note' v='STONY CREEK RESE'/>
+  </node>
+  <node id='-102' visible='true' lat='37.0140070' lon='-119.4003880'>
+    <tag k='name' v='TOLLLZ'/>
+    <tag k='note' v='TOLLHOUSE LZ'/>
+  </node>
+  <node id='-103' visible='true' lat='36.2495560' lon='-119.0933780'>
+    <tag k='name' v='TONY'/>
+    <tag k='note' v='TONYVILLE'/>
+  </node>
+  <node id='-104' visible='true' lat='36.7900480' lon='-119.3077200'>
+    <tag k='name' v='ELWOOD'/>
+    <tag k='note' v='This is waypoint no: 104'/>
+  </node>
+  <node id='-105' visible='true' lat='36.8250300' lon='-119.3428870'>
+    <tag k='name' v='DEER'/>
+    <tag k='note' v='This is waypoint no: 105'/>
+  </node>
+  <node id='-106' visible='true' lat='36.7137700' lon='-119.2115540'>
+    <tag k='name' v='TANK'/>
+    <tag k='note' v='This is waypoint no: 106'/>
+  </node>
+  <node id='-107' visible='true' lat='36.7513760' lon='-119.5574450'>
+    <tag k='name' v='Sanger180'/>
+    <tag k='note' v='Sanger and 180'/>
+  </node>
+  <node id='-108' visible='true' lat='39.3298300' lon='-122.5356500'>
+    <tag k='name' v='Alice'/>
+    <tag k='note' v='Alice Bass'/>
+  </node>
+  <node id='-109' visible='true' lat='39.1414000' lon='-122.4984000'>
+    <tag k='name' v='BALDYMT'/>
+    <tag k='note' v='BALDY MOUNTAIN'/>
+  </node>
+  <node id='-110' visible='true' lat='39.1997170' lon='-122.4448000'>
+    <tag k='name' v='BEARVB'/>
+    <tag k='note' v='BEAR VALLEY BUTTE'/>
+  </node>
+  <node id='-111' visible='true' lat='39.3102830' lon='-122.3375670'>
+    <tag k='name' v='SITES'/>
+    <tag k='note' v='This is waypoint no: 111'/>
+  </node>
+  <node id='-112' visible='true' lat='39.3513330' lon='-122.4569000'>
+    <tag k='name' v='GRAPE'/>
+    <tag k='note' v='GRAPEVINE PASS RADIO'/>
+  </node>
+  <node id='-113' visible='true' lat='39.3744000' lon='-122.4755000'>
+    <tag k='name' v='CLARK'/>
+    <tag k='note' v='CLARK RIDGE'/>
+  </node>
+  <node id='-114' visible='true' lat='39.3094000' lon='-122.5531670'>
+    <tag k='name' v='GILMORE'/>
+    <tag k='note' v='GILMORE PEAK'/>
+  </node>
+  <node id='-115' visible='true' lat='39.3306000' lon='-122.5836330'>
+    <tag k='name' v='HORNET'/>
+    <tag k='note' v='HORNET NEST HILL'/>
+  </node>
+  <node id='-116' visible='true' lat='39.3660500' lon='-122.6221830'>
+    <tag k='name' v='WOLF'/>
+    <tag k='note' v='WOLF CREEK'/>
+  </node>
+  <node id='-117' visible='true' lat='39.3832500' lon='-122.7519670'>
+    <tag k='name' v='SNOW'/>
+    <tag k='note' v='SNOW MT EAST'/>
+  </node>
+  <node id='-118' visible='true' lat='39.3950330' lon='-122.5996000'>
+    <tag k='name' v='AUKAUK'/>
+    <tag k='note' v='AUK AUK RIDGE'/>
+  </node>
+  <node id='-119' visible='true' lat='39.4335830' lon='-122.5402000'>
+    <tag k='name' v='SULPHUR'/>
+    <tag k='note' v='SULPHUR SPRINGS'/>
+  </node>
+  <node id='-120' visible='true' lat='39.4581000' lon='-122.6071670'>
+    <tag k='name' v='ELEPHANT'/>
+    <tag k='note' v='This is waypoint no: 120'/>
+  </node>
+  <node id='-121' visible='true' lat='39.4527500' lon='-122.4709000'>
+    <tag k='name' v='RADIOC'/>
+    <tag k='note' v='RADIO ON CLAERK RIDGE'/>
+  </node>
+  <node id='-122' visible='true' lat='39.5313830' lon='-122.3314170'>
+    <tag k='name' v='HOODOO'/>
+    <tag k='note' v='HOODOO HILLS'/>
+  </node>
+  <node id='-123' visible='true' lat='39.5878000' lon='-122.4473500'>
+    <tag k='name' v='FRUTO'/>
+    <tag k='note' v='FRUTO'/>
+  </node>
+  <node id='-124' visible='true' lat='39.8293830' lon='-122.3687170'>
+    <tag k='name' v='BLACKB'/>
+    <tag k='note' v='BLACK BUTTE RESERVOIR'/>
+  </node>
+  <node id='-125' visible='true' lat='36.7694000' lon='-119.1014299'>
+    <tag k='name' v='DNLNCH'/>
+    <tag k='note' v='DUNLAP LAUNCH'/>
+  </node>
+  <node id='-126' visible='true' lat='36.7288900' lon='-119.1074800'>
+    <tag k='name' v='DNLPLZ'/>
+    <tag k='note' v='DUNLAP LZ'/>
+  </node>
+  <node id='-127' visible='true' lat='37.0585090' lon='-119.5172920'>
+    <tag k='name' v='MIDDLE'/>
+    <tag k='note' v='MIDDLE KING'/>
+  </node>
+</osm>

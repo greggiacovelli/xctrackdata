@@ -1,0 +1,347 @@
+<?xml version="1.0"?><loc version="1.0" src="EasyGPS">
+<waypoint>
+<name id="Deer"><![CDATA[Deer Mountain]]></name>
+<coord lat="41.607033" lon="-122.128167"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Whaleback"><![CDATA[Whaleback  Mountain]]></name>
+<coord lat="41.528250" lon="-122.140683"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="launchWhale"><![CDATA[Whaleback launch]]></name>
+<coord lat="41.535103" lon="-122.152566"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="shasta"><![CDATA[Mt Shasta]]></name>
+<coord lat="41.410483" lon="-122.195350"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Ashbutte"><![CDATA[Ash Butte Creek]]></name>
+<coord lat="41.446933" lon="-122.048317"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="McCloud"><![CDATA[McCloud airstrip]]></name>
+<coord lat="41.285083" lon="-121.940167"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Weed"><![CDATA[Weed]]></name>
+<coord lat="41.435300" lon="-122.366433"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Sheep"><![CDATA[Sheep rock]]></name>
+<coord lat="41.580933" lon="-122.222067"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Herd"><![CDATA[Herd Peak]]></name>
+<coord lat="41.628350" lon="-122.230767"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MtSheep"><![CDATA[Sheep Mountain]]></name>
+<coord lat="41.801667" lon="-121.885283"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Hebron"><![CDATA[Mt Hebron]]></name>
+<coord lat="41.703317" lon="-122.017350"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Orr"><![CDATA[Orr Mountain]]></name>
+<coord lat="41.667500" lon="-121.976100"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Cedar"><![CDATA[Cedar]]></name>
+<coord lat="41.709200" lon="-121.908683"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="macdoel"><![CDATA[Macdoel City]]></name>
+<coord lat="41.830117" lon="-122.005233"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Juniper"><![CDATA[Juniper]]></name>
+<coord lat="41.836667" lon="-121.987400"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="hillD"><![CDATA[Dorris Hill]]></name>
+<coord lat="41.990033" lon="-121.930817"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Dorris"><![CDATA[Dorris]]></name>
+<coord lat="41.962367" lon="-121.925000"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Dome"><![CDATA[Mt Dome]]></name>
+<coord lat="41.808983" lon="-121.687717"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Sharp"><![CDATA[Sharp Mtn]]></name>
+<coord lat="41.703317" lon="-121.770650"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Middle"><![CDATA[Middle sister]]></name>
+<coord lat="41.717317" lon="-121.739183"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Tulelake"><![CDATA[Tulelake racetrack]]></name>
+<coord lat="41.947867" lon="-121.478717"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Grass"><![CDATA[Grass Lake Visitors Center]]></name>
+<coord lat="41.643920" lon="-122.167340"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WhaleLZ"><![CDATA[whaleback LZ]]></name>
+<coord lat="41.550217" lon="-122.198967"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Bikini"><![CDATA[Bikini Junction (aka Mt Shasta Woods)]]></name>
+<coord lat="41.605041" lon="-122.073262"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="USFS42"><![CDATA[USFS 42]]></name>
+<coord lat="41.541150" lon="-122.049750"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Mahagony"><![CDATA[Mahagony Mountain]]></name>
+<coord lat="41.875033" lon="-121.857217"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Howizter"><![CDATA[Howitzer Point]]></name>
+<coord lat="41.818367" lon="-121.532683"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="cllkrd"><![CDATA[Clear Lake Road]]></name>
+<coord lat="41.794183" lon="-121.176250"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Tionesta"><![CDATA[Tionesta]]></name>
+<coord lat="41.647933" lon="-121.325300"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Falls"><![CDATA[Falls Highway]]></name>
+<coord lat="42.236483" lon="-121.839633"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Aspen"><![CDATA[Aspen Lake]]></name>
+<coord lat="42.323983" lon="-122.023633"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Buck"><![CDATA[Near Buck Island]]></name>
+<coord lat="42.287533" lon="-121.914067"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Klamath"><![CDATA[Klamath Airport. Make it in here and you get DQed.]]></name>
+<coord lat="42.156100" lon="-121.733200"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="shastina"><![CDATA[Lake Shastina]]></name>
+<coord lat="41.494683" lon="-122.401317"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="eddy"><![CDATA[Mt Eddy]]></name>
+<coord lat="41.319133" lon="-122.479250"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="goosenest"><![CDATA[Goosenest]]></name>
+<coord lat="41.719383" lon="-122.222583"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Antelope"><![CDATA[Antelope Mtn]]></name>
+<coord lat="41.593185" lon="-122.640467"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Eagle "><![CDATA[Eagle Rock]]></name>
+<coord lat="41.877250" lon="-122.241717"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Rabbit"><![CDATA[Rabbit Hill]]></name>
+<coord lat="41.671167" lon="-122.388033"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Black"><![CDATA[black mountain]]></name>
+<coord lat="41.857680" lon="-122.512020"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Paradise"><![CDATA[Paradise Craggy]]></name>
+<coord lat="41.814867" lon="-122.546933"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Bonnet"><![CDATA[Bonnet]]></name>
+<coord lat="41.514250" lon="-122.575150"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Stewart"><![CDATA[Stewart]]></name>
+<coord lat="41.447250" lon="-122.541783"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Emigrant"><![CDATA[Emigrant Lake]]></name>
+<coord lat="42.146263" lon="-122.611420"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Willow"><![CDATA[Willow Creek Mtn]]></name>
+<coord lat="41.814717" lon="-122.242150"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Montague"><![CDATA[Montague athletic field]]></name>
+<coord lat="41.722783" lon="-122.526417"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Hornbrook"><![CDATA[Hornbrook school]]></name>
+<coord lat="41.910183" lon="-122.561717"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Perez"><![CDATA[Perez landing strip]]></name>
+<coord lat="41.676895" lon="-121.268064"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Tickner"><![CDATA[Tickner Road]]></name>
+<coord lat="41.527038" lon="-121.122149"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Kandra"><![CDATA[Kandra grain elevator]]></name>
+<coord lat="41.829333" lon="-121.398683"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Ambrose"><![CDATA[Ambrose]]></name>
+<coord lat="41.500498" lon="-120.976748"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Alturas"><![CDATA[Alturas]]></name>
+<coord lat="41.493802" lon="-120.566078"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Dairy"><![CDATA[Dairy]]></name>
+<coord lat="42.247933" lon="-121.516900"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Beatty"><![CDATA[Beatty]]></name>
+<coord lat="42.445876" lon="-121.265396"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Bly"><![CDATA[Bly]]></name>
+<coord lat="42.401080" lon="-121.035817"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Ball"><![CDATA[Ball Mountain]]></name>
+<coord lat="41.794739" lon="-122.155781"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Keno"><![CDATA[Keno]]></name>
+<coord lat="42.127948" lon="-121.910790"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Bonanza"><![CDATA[Bonanza]]></name>
+<coord lat="42.201791" lon="-121.409456"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Merrill"><![CDATA[Merrill]]></name>
+<coord lat="42.028910" lon="-121.606890"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Yreka"><![CDATA[Yreka]]></name>
+<coord lat="41.695088" lon="-122.646925"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="yellow"><![CDATA[Yellow Butte]]></name>
+<coord lat="41.547472" lon="-122.262279"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LTDEER"><![CDATA[LITTLE DEER MOUNTAIN]]></name>
+<coord lat="41.676417" lon="-122.117583"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MTHEBRON"><![CDATA[MT HEBRON]]></name>
+<coord lat="41.789250" lon="-122.003467"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BVAIR"><![CDATA[BUTTE VALLEY AIRPORT]]></name>
+<coord lat="41.886667" lon="-121.975517"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MUD"><![CDATA[MUD LAKE]]></name>
+<coord lat="41.985683" lon="-121.983883"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SECRET"><![CDATA[SECRET SPRINGS MOUNTAIN]]></name>
+<coord lat="41.974333" lon="-122.135817"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HAMAKER"><![CDATA[HAMAKER HILL]]></name>
+<coord lat="42.067983" lon="-121.970300"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BOYLER"><![CDATA[BOYLER RESERVOIR]]></name>
+<coord lat="42.134183" lon="-122.028750"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SHEEPY"><![CDATA[SHEEPY PEAK]]></name>
+<coord lat="41.953800" lon="-121.576967"/>
+<type></type>
+</waypoint>
+</loc>
