@@ -1,0 +1,362 @@
+<?xml version="1.0"?><loc version="1.0" src="EasyGPS">
+<waypoint>
+<name id="barcroft"><![CDATA[MOUNT BARCROFT]]></name>
+<coord lat="37.581767" lon="-118.248017"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="benton"><![CDATA[BENTON]]></name>
+<coord lat="37.820250" lon="-118.474333"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BIGEAR"><![CDATA[DEEP SPACE RADIO]]></name>
+<coord lat="37.232433" lon="-118.283250"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BIGPIN"><![CDATA[BIG PINE]]></name>
+<coord lat="37.171225" lon="-118.288331"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BLACK"><![CDATA[BLACK MOUNTAIN]]></name>
+<coord lat="37.267000" lon="-118.225750"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CASBAH"><![CDATA[CASBAH]]></name>
+<coord lat="37.644733" lon="-118.390233"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CHALK"><![CDATA[CHALK BLUFF ROAD]]></name>
+<coord lat="37.417600" lon="-118.432667"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CHLFNT"><![CDATA[CHALFANT VALLEY]]></name>
+<coord lat="37.529933" lon="-118.364117"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DARWIN"><![CDATA[DARWIN AIRSTRIP]]></name>
+<coord lat="36.265800" lon="-117.598283"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DUBOIS"><![CDATA[MOUNT DUBOIS]]></name>
+<coord lat="37.783267" lon="-118.343000"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="FAIR"><![CDATA[BISHOP FAIR GROU]]></name>
+<coord lat="37.372767" lon="-118.399300"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="FISH"><![CDATA[FISH SLOUGH ROAD]]></name>
+<coord lat="37.459067" lon="-118.405000"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="FLNLNC"><![CDATA[FLYNNS LAUNCH]]></name>
+<coord lat="37.388086" lon="-118.295108"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="FLYNLZ"><![CDATA[FLYNZ LZ]]></name>
+<coord lat="37.392033" lon="-118.315133"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GNTRLZ"><![CDATA[GUNTER LZ]]></name>
+<coord lat="37.437683" lon="-118.334033"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GUNTER"><![CDATA[GUNTER LAUNCH]]></name>
+<coord lat="37.467967" lon="-118.262833"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HAMMIL"><![CDATA[HAMMIL LANDING S]]></name>
+<coord lat="37.673983" lon="-118.403450"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HIWAY6"><![CDATA[HIGHWAY 6]]></name>
+<coord lat="37.456300" lon="-118.350867"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HOGUE"><![CDATA[MOUNT HOGUE]]></name>
+<coord lat="37.732017" lon="-118.305133"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="INDEP"><![CDATA[INDEPENDENCE AIR]]></name>
+<coord lat="36.812817" lon="-118.203150"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="INYKRN"><![CDATA[INYOKERN]]></name>
+<coord lat="35.646783" lon="-117.811583"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="JANEYS"><![CDATA[JANEYS]]></name>
+<coord lat="37.927481" lon="-118.405744"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="JEFFRY"><![CDATA[JEFFREY RADIO]]></name>
+<coord lat="37.605050" lon="-118.346067"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="KEOUGH"><![CDATA[KEOUGH HOT SPRIN]]></name>
+<coord lat="37.255617" lon="-118.370033"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LAWS"><![CDATA[LAWS]]></name>
+<coord lat="37.400350" lon="-118.345683"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LONPIN"><![CDATA[LONE PINE AIRPOR]]></name>
+<coord lat="36.590533" lon="-118.045450"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MANZAP"><![CDATA[MANZANAR AIRPORT]]></name>
+<coord lat="36.737600" lon="-118.145450"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MGRPS"><![CDATA[MONTGOMERY PASS]]></name>
+<coord lat="37.979983" lon="-118.317983"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MGYCRK"><![CDATA[MONTGOMERY CREEK]]></name>
+<coord lat="37.833683" lon="-118.416733"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MILPND"><![CDATA[MILLPOND RECREAT]]></name>
+<coord lat="37.377117" lon="-118.491867"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MINA"><![CDATA[MINA TOWN]]></name>
+<coord lat="38.389667" lon="-118.102383"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MUSTANG"><![CDATA[MUSTANG POINT]]></name>
+<coord lat="37.904333" lon="-118.316783"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MVWMIN"><![CDATA[MOUNTAIN VIEW MI]]></name>
+<coord lat="37.723633" lon="-118.368983"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="N78"><![CDATA[HILL]]></name>
+<coord lat="37.422883" lon="-118.264300"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="OLNCHA"><![CDATA[OLANCHA]]></name>
+<coord lat="36.282233" lon="-118.004450"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PAIULZ"><![CDATA[PAIUTE LZ]]></name>
+<coord lat="37.510050" lon="-118.349267"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PAIUTE"><![CDATA[PAUITE LAUNCH]]></name>
+<coord lat="37.518800" lon="-118.293733"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PARTRD"><![CDATA[MINE PROSPECT]]></name>
+<coord lat="37.332617" lon="-118.284833"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PEAK"><![CDATA[SUMMIT]]></name>
+<coord lat="37.497517" lon="-118.274250"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PITS"><![CDATA[TAILING PITS]]></name>
+<coord lat="37.458317" lon="-118.289350"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PTRGLF"><![CDATA[PETROGLYPH]]></name>
+<coord lat="37.650750" lon="-118.434517"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PUPFSH"><![CDATA[PUPFSH]]></name>
+<coord lat="37.297700" lon="-118.283017"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="QENDIX"><![CDATA[QUEEN DICKS]]></name>
+<coord lat="37.764817" lon="-118.402667"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="REDHIL"><![CDATA[REDHILL PEAK]]></name>
+<coord lat="37.391550" lon="-118.254567"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SABIES"><![CDATA[SABIES CANYON]]></name>
+<coord lat="37.583450" lon="-118.344650"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SCRMNT"><![CDATA[SACRAMENTO MINE]]></name>
+<coord lat="37.542767" lon="-118.333800"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SOBLMIN"><![CDATA[SOUTHERN BELLE M]]></name>
+<coord lat="37.461547" lon="-118.316172"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SUGAR"><![CDATA[SUGARLOAF MOUNTA]]></name>
+<coord lat="37.934617" lon="-118.305933"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TINMAH"><![CDATA[TINEMAHA RESERVO]]></name>
+<coord lat="37.050850" lon="-118.226933"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TWRCTR"><![CDATA[RADIO TOWER]]></name>
+<coord lat="37.355422" lon="-118.285753"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WALTS"><![CDATA[WALTS POINT]]></name>
+<coord lat="36.473133" lon="-118.115067"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WATERS"><![CDATA[WATERS]]></name>
+<coord lat="37.705283" lon="-118.413783"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WHITE"><![CDATA[WHITE MOUNTAIN P]]></name>
+<coord lat="37.634275" lon="-118.255578"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WMRSEZ"><![CDATA[WMRSEZ]]></name>
+<coord lat="37.360906" lon="-118.321633"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WMTRCH"><![CDATA[WMTRCH]]></name>
+<coord lat="37.615592" lon="-118.385870"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ZURICH"><![CDATA[ZURICH]]></name>
+<coord lat="37.182433" lon="-118.259467"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MAZOURKA"><![CDATA[MAZOURKA PEAK]]></name>
+<coord lat="36.976900" lon="-118.121383"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CRATER"><![CDATA[CRATER MOUNTAIN]]></name>
+<coord lat="37.113117" lon="-118.299317"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ROUND"><![CDATA[ROUND MTN]]></name>
+<coord lat="37.207967" lon="-118.432600"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TOM"><![CDATA[mT TOM]]></name>
+<coord lat="37.338783" lon="-118.656767"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GROUSE"><![CDATA[GROUSE MTN]]></name>
+<coord lat="37.306783" lon="-118.601617"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PLEASV"><![CDATA[PLEASENT VALLEY RESERVOIR]]></name>
+<coord lat="37.403867" lon="-118.497900"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="NFISH"><![CDATA[North of Fish SLOUGH]]></name>
+<coord lat="37.519033" lon="-118.400950"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="INDIAN"><![CDATA[INDIAN PEAK]]></name>
+<coord lat="37.691767" lon="-118.312067"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="CASAD"><![CDATA[CASA DIABLO MINE]]></name>
+<coord lat="37.578017" lon="-118.550350"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BANNER"><![CDATA[BANNER RIDGE]]></name>
+<coord lat="37.684433" lon="-118.577600"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PEARCE"><![CDATA[PEARCE PEAK]]></name>
+<coord lat="37.781150" lon="-118.486550"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SIPES"><![CDATA[SIPES RANCH ROAD]]></name>
+<coord lat="37.847917" lon="-118.493933"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TRAFTON"><![CDATA[TRAFTON MTN]]></name>
+<coord lat="37.850583" lon="-118.566567"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GLASS"><![CDATA[GLASS MOUNTAIN]]></name>
+<coord lat="37.774983" lon="-118.708667"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GRANITE"><![CDATA[GRANITE MOUNTAIN]]></name>
+<coord lat="37.924750" lon="-118.771183"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="LEEV"><![CDATA[LEE Vining AIRPORT]]></name>
+<coord lat="37.953867" lon="-119.104200"/>
+<type></type>
+</waypoint>
+</loc>
