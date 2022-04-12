@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='GPSBabel-1.5.2'>
+  <node id='-1' visible='true' lat='38.4003208' lon='-122.1059845'>
+    <tag k='name' v='Vaca Launch'/>
+    <tag k='note' v='Mt Vaca Launch'/>
+  </node>
+  <node id='-2' visible='true' lat='39.0119360' lon='-122.3576723'>
+    <tag k='name' v='Calfire'/>
+    <tag k='note' v='Calfire at Wilbur Springs'/>
+  </node>
+  <node id='-3' visible='true' lat='39.3019913' lon='-122.4884890'>
+    <tag k='name' v='Lodoga'/>
+    <tag k='note' v='Lodoga lodge'/>
+  </node>
+  <node id='-4' visible='true' lat='38.4397567' lon='-122.1237601'>
+    <tag k='name' v='5k north'/>
+    <tag k='note' v='5k north of launch'/>
+  </node>
+  <node id='-5' visible='true' lat='38.4559082' lon='-122.0367281'>
+    <tag k='name' v='East hills'/>
+    <tag k='note' v='East hills'/>
+  </node>
+  <node id='-6' visible='true' lat='38.3997931' lon='-122.0406415'>
+    <tag k='name' v='Parking'/>
+    <tag k='note' v='main parking area'/>
+  </node>
+  <node id='-7' visible='true' lat='38.4634589' lon='-122.1553817'>
+    <tag k='name' v='Horse LZ'/>
+    <tag k='note' v='Horse LZ by HW120'/>
+  </node>
+  <node id='-8' visible='true' lat='38.5293906' lon='-121.9616552'>
+    <tag k='name' v='winters'/>
+    <tag k='note' v='winters'/>
+  </node>
+  <node id='-9' visible='true' lat='38.6802610' lon='-122.5366159'>
+    <tag k='name' v='table mountain'/>
+    <tag k='note' v='table mountain'/>
+  </node>
+  <node id='-10' visible='true' lat='38.7029696' lon='-122.2691994'>
+    <tag k='name' v='Knoxville south'/>
+    <tag k='note' v='Berryessa Peak Trailhead'/>
+  </node>
+  <node id='-11' visible='true' lat='38.6635494' lon='-122.1895862'>
+    <tag k='name' v='Berryessa peak'/>
+    <tag k='note' v='Berryessa Peak'/>
+  </node>
+  <node id='-12' visible='true' lat='38.8989601' lon='-122.2546249'>
+    <tag k='name' v='Rivertrip'/>
+    <tag k='note' v='Rivertrip'/>
+  </node>
+  <node id='-13' visible='true' lat='39.1564080' lon='-122.1592340'>
+    <tag k='name' v='williams'/>
+    <tag k='note' v='williams'/>
+  </node>
+  <node id='-14' visible='true' lat='38.8250530' lon='-122.3338703'>
+    <tag k='name' v='knoxville'/>
+    <tag k='note' v='knoxville'/>
+  </node>
+  <node id='-15' visible='true' lat='39.1044657' lon='-122.3252978'>
+    <tag k='name' v='hwy 20 gap'/>
+    <tag k='note' v='hwy 20 gap'/>
+  </node>
+  <node id='-16' visible='true' lat='39.3067775' lon='-122.3227373'>
+    <tag k='name' v='Maxwell road'/>
+    <tag k='note' v='Maxwell road'/>
+  </node>
+  <node id='-17' visible='true' lat='39.1642577' lon='-122.4407176'>
+    <tag k='name' v='Bear valley north'/>
+    <tag k='note' v='Bear valley north'/>
+  </node>
+  <node id='-18' visible='true' lat='39.0737159' lon='-122.4095578'>
+    <tag k='name' v='bear valley south'/>
+    <tag k='note' v='Bear valley south'/>
+  </node>
+  <node id='-19' visible='true' lat='38.3303530' lon='-122.0179057'>
+    <tag k='name' v='Lagoon Valley'/>
+    <tag k='note' v='Lagoon Valley'/>
+  </node>
+  <node id='-20' visible='true' lat='38.2787227' lon='-122.2473955'>
+    <tag k='name' v='Skyline park LZ'/>
+    <tag k='note' v='Skyline park LZ'/>
+  </node>
+  <node id='-21' visible='true' lat='38.3783291' lon='-122.2116152'>
+    <tag k='name' v='121 ridge'/>
+    <tag k='note' v='121 ridge'/>
+  </node>
+  <node id='-22' visible='true' lat='38.2431540' lon='-122.1231955'>
+    <tag k='name' v='rockville'/>
+    <tag k='note' v='rockville'/>
+  </node>
+  <node id='-23' visible='true' lat='38.7960551' lon='-122.5675601'>
+    <tag k='name' v='Hidden Valley'/>
+    <tag k='note' v='Hidden Valley'/>
+  </node>
+  <node id='-24' visible='true' lat='38.6685822' lon='-122.6333775'>
+    <tag k='name' v='St Helena'/>
+    <tag k='note' v='St HElena'/>
+  </node>
+  <node id='-25' visible='true' lat='38.6559133' lon='-122.4640710'>
+    <tag k='name' v='Pope Valley'/>
+    <tag k='note' v='Pope Valley'/>
+  </node>
+  <node id='-26' visible='true' lat='38.6983710' lon='-122.0286570'>
+    <tag k='name' v='Esparto'/>
+    <tag k='note' v='Esparto'/>
+  </node>
+  <node id='-27' visible='true' lat='38.8378020' lon='-122.1351770'>
+    <tag k='name' v='East Guinda'/>
+    <tag k='note' v='East Guinda peak'/>
+  </node>
+  <node id='-28' visible='true' lat='38.8840460' lon='-122.2348180'>
+    <tag k='name' v='Rumsey'/>
+    <tag k='note' v='Rumsey'/>
+  </node>
+  <node id='-29' visible='true' lat='38.8218600' lon='-122.1876720'>
+    <tag k='name' v='Guinda'/>
+    <tag k='note' v='Guinda'/>
+  </node>
+  <node id='-30' visible='true' lat='38.4429460' lon='-122.1880890'>
+    <tag k='name' v='Moskowite'/>
+    <tag k='note' v='Moskowite corner'/>
+  </node>
+</osm>

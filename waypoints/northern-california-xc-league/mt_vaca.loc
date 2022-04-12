@@ -1,0 +1,152 @@
+<?xml version="1.0"?><loc version="1.0" src="EasyGPS">
+<waypoint>
+<name id="Vaca Launch"><![CDATA[Mt Vaca Launch]]></name>
+<coord lat="38.400321" lon="-122.105985"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Calfire"><![CDATA[Calfire at Wilbur Springs]]></name>
+<coord lat="39.011936" lon="-122.357672"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Lodoga"><![CDATA[Lodoga lodge]]></name>
+<coord lat="39.301991" lon="-122.488489"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="5k north"><![CDATA[5k north of launch]]></name>
+<coord lat="38.439757" lon="-122.123760"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="East hills"><![CDATA[East hills]]></name>
+<coord lat="38.455908" lon="-122.036728"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Parking"><![CDATA[main parking area]]></name>
+<coord lat="38.399793" lon="-122.040642"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Horse LZ"><![CDATA[Horse LZ by HW120]]></name>
+<coord lat="38.463459" lon="-122.155382"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="winters"><![CDATA[winters]]></name>
+<coord lat="38.529391" lon="-121.961655"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="table mountain"><![CDATA[table mountain]]></name>
+<coord lat="38.680261" lon="-122.536616"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Knoxville south"><![CDATA[Berryessa Peak Trailhead]]></name>
+<coord lat="38.702970" lon="-122.269199"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Berryessa peak"><![CDATA[Berryessa Peak]]></name>
+<coord lat="38.663549" lon="-122.189586"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Rivertrip"><![CDATA[Rivertrip]]></name>
+<coord lat="38.898960" lon="-122.254625"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="williams"><![CDATA[williams]]></name>
+<coord lat="39.156408" lon="-122.159234"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="knoxville"><![CDATA[knoxville]]></name>
+<coord lat="38.825053" lon="-122.333870"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="hwy 20 gap"><![CDATA[hwy 20 gap]]></name>
+<coord lat="39.104466" lon="-122.325298"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Maxwell road"><![CDATA[Maxwell road]]></name>
+<coord lat="39.306778" lon="-122.322737"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Bear valley north"><![CDATA[Bear valley north]]></name>
+<coord lat="39.164258" lon="-122.440718"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="bear valley south"><![CDATA[Bear valley south]]></name>
+<coord lat="39.073716" lon="-122.409558"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Lagoon Valley"><![CDATA[Lagoon Valley]]></name>
+<coord lat="38.330353" lon="-122.017906"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Skyline park LZ"><![CDATA[Skyline park LZ]]></name>
+<coord lat="38.278723" lon="-122.247396"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="121 ridge"><![CDATA[121 ridge]]></name>
+<coord lat="38.378329" lon="-122.211615"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="rockville"><![CDATA[rockville]]></name>
+<coord lat="38.243154" lon="-122.123195"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Hidden Valley"><![CDATA[Hidden Valley]]></name>
+<coord lat="38.796055" lon="-122.567560"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="St Helena"><![CDATA[St HElena]]></name>
+<coord lat="38.668582" lon="-122.633378"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Pope Valley"><![CDATA[Pope Valley]]></name>
+<coord lat="38.655913" lon="-122.464071"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Esparto"><![CDATA[Esparto]]></name>
+<coord lat="38.698371" lon="-122.028657"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="East Guinda"><![CDATA[East Guinda peak]]></name>
+<coord lat="38.837802" lon="-122.135177"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Rumsey"><![CDATA[Rumsey]]></name>
+<coord lat="38.884046" lon="-122.234818"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Guinda"><![CDATA[Guinda]]></name>
+<coord lat="38.821860" lon="-122.187672"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="Moskowite"><![CDATA[Moskowite corner]]></name>
+<coord lat="38.442946" lon="-122.188089"/>
+<type></type>
+</waypoint>
+</loc>

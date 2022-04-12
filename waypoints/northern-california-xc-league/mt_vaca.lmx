@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lm:lmx xmlns:lm="http://www.nokia.com/schemas/location/landmarks/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nokia.com/schemas/location/landmarks/1/0/ lmx.xsd">
+	<lm:landmarkCollection>
+		<lm:landmark>
+			<lm:name>Vaca Launch</lm:name>
+			<lm:description>Mt Vaca Launch</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.400321</lm:latitude>
+				<lm:longitude>-122.105985</lm:longitude>
+				<lm:altitude>860.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Calfire</lm:name>
+			<lm:description>Calfire at Wilbur Springs</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.011936</lm:latitude>
+				<lm:longitude>-122.357672</lm:longitude>
+				<lm:altitude>333.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Lodoga</lm:name>
+			<lm:description>Lodoga lodge</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.301991</lm:latitude>
+				<lm:longitude>-122.488489</lm:longitude>
+				<lm:altitude>370.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>5k north</lm:name>
+			<lm:description>5k north of launch</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.439757</lm:latitude>
+				<lm:longitude>-122.123760</lm:longitude>
+				<lm:altitude>722.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>East hills</lm:name>
+			<lm:description>East hills</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.455908</lm:latitude>
+				<lm:longitude>-122.036728</lm:longitude>
+				<lm:altitude>191.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Parking</lm:name>
+			<lm:description>main parking area</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.399793</lm:latitude>
+				<lm:longitude>-122.040642</lm:longitude>
+				<lm:altitude>109.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Horse LZ</lm:name>
+			<lm:description>Horse LZ by HW120</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.463459</lm:latitude>
+				<lm:longitude>-122.155382</lm:longitude>
+				<lm:altitude>162.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>winters</lm:name>
+			<lm:description>winters</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.529391</lm:latitude>
+				<lm:longitude>-121.961655</lm:longitude>
+				<lm:altitude>38.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>table mountain</lm:name>
+			<lm:description>table mountain</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.680261</lm:latitude>
+				<lm:longitude>-122.536616</lm:longitude>
+				<lm:altitude>875.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Knoxville south</lm:name>
+			<lm:description>Berryessa Peak Trailhead</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.702970</lm:latitude>
+				<lm:longitude>-122.269199</lm:longitude>
+				<lm:altitude>173.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Berryessa peak</lm:name>
+			<lm:description>Berryessa Peak</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.663549</lm:latitude>
+				<lm:longitude>-122.189586</lm:longitude>
+				<lm:altitude>913.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Rivertrip</lm:name>
+			<lm:description>Rivertrip</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.898960</lm:latitude>
+				<lm:longitude>-122.254625</lm:longitude>
+				<lm:altitude>145.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>williams</lm:name>
+			<lm:description>williams</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.156408</lm:latitude>
+				<lm:longitude>-122.159234</lm:longitude>
+				<lm:altitude>25.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>knoxville</lm:name>
+			<lm:description>knoxville</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.825053</lm:latitude>
+				<lm:longitude>-122.333870</lm:longitude>
+				<lm:altitude>388.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>hwy 20 gap</lm:name>
+			<lm:description>hwy 20 gap</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.104466</lm:latitude>
+				<lm:longitude>-122.325298</lm:longitude>
+				<lm:altitude>150.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Maxwell road</lm:name>
+			<lm:description>Maxwell road</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.306778</lm:latitude>
+				<lm:longitude>-122.322737</lm:longitude>
+				<lm:altitude>76.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Bear valley north</lm:name>
+			<lm:description>Bear valley north</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.164258</lm:latitude>
+				<lm:longitude>-122.440718</lm:longitude>
+				<lm:altitude>411.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>bear valley south</lm:name>
+			<lm:description>Bear valley south</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.073716</lm:latitude>
+				<lm:longitude>-122.409558</lm:longitude>
+				<lm:altitude>407.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Lagoon Valley</lm:name>
+			<lm:description>Lagoon Valley</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.330353</lm:latitude>
+				<lm:longitude>-122.017906</lm:longitude>
+				<lm:altitude>67.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Skyline park LZ</lm:name>
+			<lm:description>Skyline park LZ</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.278723</lm:latitude>
+				<lm:longitude>-122.247396</lm:longitude>
+				<lm:altitude>54.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>121 ridge</lm:name>
+			<lm:description>121 ridge</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.378329</lm:latitude>
+				<lm:longitude>-122.211615</lm:longitude>
+				<lm:altitude>521.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>rockville</lm:name>
+			<lm:description>rockville</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.243154</lm:latitude>
+				<lm:longitude>-122.123195</lm:longitude>
+				<lm:altitude>19.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Hidden Valley</lm:name>
+			<lm:description>Hidden Valley</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.796055</lm:latitude>
+				<lm:longitude>-122.567560</lm:longitude>
+				<lm:altitude>293.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>St Helena</lm:name>
+			<lm:description>St HElena</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.668582</lm:latitude>
+				<lm:longitude>-122.633378</lm:longitude>
+				<lm:altitude>1310.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Pope Valley</lm:name>
+			<lm:description>Pope Valley</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.655913</lm:latitude>
+				<lm:longitude>-122.464071</lm:longitude>
+				<lm:altitude>212.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Esparto</lm:name>
+			<lm:description>Esparto</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.698371</lm:latitude>
+				<lm:longitude>-122.028657</lm:longitude>
+				<lm:altitude>62.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>East Guinda</lm:name>
+			<lm:description>East Guinda peak</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.837802</lm:latitude>
+				<lm:longitude>-122.135177</lm:longitude>
+				<lm:altitude>539.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Rumsey</lm:name>
+			<lm:description>Rumsey</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.884046</lm:latitude>
+				<lm:longitude>-122.234818</lm:longitude>
+				<lm:altitude>129.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Guinda</lm:name>
+			<lm:description>Guinda</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.821860</lm:latitude>
+				<lm:longitude>-122.187672</lm:longitude>
+				<lm:altitude>109.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>Moskowite</lm:name>
+			<lm:description>Moskowite corner</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.442946</lm:latitude>
+				<lm:longitude>-122.188089</lm:longitude>
+				<lm:altitude>260.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+	</lm:landmarkCollection>
+</lm:lmx>
