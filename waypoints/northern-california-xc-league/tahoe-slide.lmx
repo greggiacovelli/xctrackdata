@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lm:lmx xmlns:lm="http://www.nokia.com/schemas/location/landmarks/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nokia.com/schemas/location/landmarks/1/0/ lmx.xsd">
+	<lm:landmarkCollection>
+		<lm:landmark>
+			<lm:name>50-341</lm:name>
+			<lm:description>JUNCTION 50 341</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.223620</lm:latitude>
+				<lm:longitude>-119.639110</lm:longitude>
+				<lm:altitude>1434.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>BORDER</lm:name>
+			<lm:description>BORDER TOWN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.671680</lm:latitude>
+				<lm:longitude>-119.999310</lm:longitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>C HILL</lm:name>
+			<lm:description>C HILL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.156370</lm:latitude>
+				<lm:longitude>-119.790480</lm:longitude>
+				<lm:altitude>1745.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>DOYLE</lm:name>
+			<lm:description>DOYLE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>40.030460</lm:latitude>
+				<lm:longitude>-120.105590</lm:longitude>
+				<lm:altitude>1303.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>GEN PE</lm:name>
+			<lm:description>GENOA PEAK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.043370</lm:latitude>
+				<lm:longitude>-119.882200</lm:longitude>
+				<lm:altitude>2768.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>GENOA</lm:name>
+			<lm:description>GENOA</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.999470</lm:latitude>
+				<lm:longitude>-119.843000</lm:longitude>
+				<lm:altitude>1447.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>HALLEL</lm:name>
+			<lm:description>HALLELUJAH JUNCTION</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.774010</lm:latitude>
+				<lm:longitude>-120.041560</lm:longitude>
+				<lm:altitude>1527.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>HOBO</lm:name>
+			<lm:description>HOBO HOT SPRINGS</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.057290</lm:latitude>
+				<lm:longitude>-119.822240</lm:longitude>
+				<lm:altitude>1513.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>KINGSB</lm:name>
+			<lm:description>KINGSBURY MTN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.989600</lm:latitude>
+				<lm:longitude>-119.877890</lm:longitude>
+				<lm:altitude>2499.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>MCLELL</lm:name>
+			<lm:description>MCLELLAN PEAK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.251517</lm:latitude>
+				<lm:longitude>-119.722733</lm:longitude>
+				<lm:altitude>2134.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>MEADOW</lm:name>
+			<lm:description>E MEADOW</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.302850</lm:latitude>
+				<lm:longitude>-119.916730</lm:longitude>
+				<lm:altitude>2606.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>MOTTSV</lm:name>
+			<lm:description>MOTTSVILLE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.941560</lm:latitude>
+				<lm:longitude>-119.839530</lm:longitude>
+				<lm:altitude>1441.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>PEAVIN</lm:name>
+			<lm:description>PEAVIN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.596500</lm:latitude>
+				<lm:longitude>-119.936033</lm:longitude>
+				<lm:altitude>2499.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>PYRAMI</lm:name>
+			<lm:description>PYRAMID LAKE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.921983</lm:latitude>
+				<lm:longitude>-119.573992</lm:longitude>
+				<lm:altitude>1173.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>ROSE</lm:name>
+			<lm:description>MT ROSE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.313160</lm:latitude>
+				<lm:longitude>-119.884380</lm:longitude>
+				<lm:altitude>2935.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SAWMIL</lm:name>
+			<lm:description>SAWMILL</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.220290</lm:latitude>
+				<lm:longitude>-119.824760</lm:longitude>
+				<lm:altitude>1888.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SHERID</lm:name>
+			<lm:description>SHERIDAN</lm:description>
+			<lm:coordinates>
+				<lm:latitude>38.899230</lm:latitude>
+				<lm:longitude>-119.819750</lm:longitude>
+				<lm:altitude>1454.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SILVER</lm:name>
+			<lm:description>SILVER SPRINGS</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.419530</lm:latitude>
+				<lm:longitude>-119.228950</lm:longitude>
+				<lm:altitude>1291.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SLIDE</lm:name>
+			<lm:description>SLIDE LAUNCH</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.318340</lm:latitude>
+				<lm:longitude>-119.870180</lm:longitude>
+				<lm:altitude>2522.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SLIDE</lm:name>
+			<lm:description>SLIDE LZ</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.308960</lm:latitude>
+				<lm:longitude>-119.822680</lm:longitude>
+				<lm:altitude>1552.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SUNFLO</lm:name>
+			<lm:description>SUNFLOWER PEAK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.382460</lm:latitude>
+				<lm:longitude>-119.935560</lm:longitude>
+				<lm:altitude>3079.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>SUTRO</lm:name>
+			<lm:description>O</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.299467</lm:latitude>
+				<lm:longitude>-119.524954</lm:longitude>
+				<lm:altitude>1324.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>TANK</lm:name>
+			<lm:description>TANK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.381340</lm:latitude>
+				<lm:longitude>-119.839270</lm:longitude>
+				<lm:altitude>1833.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>VERDI</lm:name>
+			<lm:description>VERDI PEAK</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.472350</lm:latitude>
+				<lm:longitude>-120.039550</lm:longitude>
+				<lm:altitude>2560.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>WARMSP</lm:name>
+			<lm:description>WARM SPRINGS</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.770550</lm:latitude>
+				<lm:longitude>-119.690240</lm:longitude>
+				<lm:altitude>1376.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+		<lm:landmark>
+			<lm:name>WASHOE</lm:name>
+			<lm:description>WASHOE LAKE</lm:description>
+			<lm:coordinates>
+				<lm:latitude>39.247710</lm:latitude>
+				<lm:longitude>-119.757030</lm:longitude>
+				<lm:altitude>1553.000000</lm:altitude>
+			</lm:coordinates>
+		</lm:landmark>
+	</lm:landmarkCollection>
+</lm:lmx>

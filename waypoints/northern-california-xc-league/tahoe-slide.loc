@@ -1,0 +1,132 @@
+<?xml version="1.0"?><loc version="1.0" src="EasyGPS">
+<waypoint>
+<name id="50-341"><![CDATA[JUNCTION 50 341]]></name>
+<coord lat="39.223620" lon="-119.639110"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="BORDER"><![CDATA[BORDER TOWN]]></name>
+<coord lat="39.671680" lon="-119.999310"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="C HILL"><![CDATA[C HILL]]></name>
+<coord lat="39.156370" lon="-119.790480"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="DOYLE"><![CDATA[DOYLE]]></name>
+<coord lat="40.030460" lon="-120.105590"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GEN PE"><![CDATA[GENOA PEAK]]></name>
+<coord lat="39.043370" lon="-119.882200"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="GENOA"><![CDATA[GENOA]]></name>
+<coord lat="38.999470" lon="-119.843000"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HALLEL"><![CDATA[HALLELUJAH JUNCTION]]></name>
+<coord lat="39.774010" lon="-120.041560"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="HOBO"><![CDATA[HOBO HOT SPRINGS]]></name>
+<coord lat="39.057290" lon="-119.822240"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="KINGSB"><![CDATA[KINGSBURY MTN]]></name>
+<coord lat="38.989600" lon="-119.877890"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MCLELL"><![CDATA[MCLELLAN PEAK]]></name>
+<coord lat="39.251517" lon="-119.722733"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MEADOW"><![CDATA[E MEADOW]]></name>
+<coord lat="39.302850" lon="-119.916730"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="MOTTSV"><![CDATA[MOTTSVILLE]]></name>
+<coord lat="38.941560" lon="-119.839530"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PEAVIN"><![CDATA[PEAVIN]]></name>
+<coord lat="39.596500" lon="-119.936033"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="PYRAMI"><![CDATA[PYRAMID LAKE]]></name>
+<coord lat="39.921983" lon="-119.573992"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="ROSE"><![CDATA[MT ROSE]]></name>
+<coord lat="39.313160" lon="-119.884380"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SAWMIL"><![CDATA[SAWMILL]]></name>
+<coord lat="39.220290" lon="-119.824760"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SHERID"><![CDATA[SHERIDAN]]></name>
+<coord lat="38.899230" lon="-119.819750"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SILVER"><![CDATA[SILVER SPRINGS]]></name>
+<coord lat="39.419530" lon="-119.228950"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SLIDE"><![CDATA[SLIDE LAUNCH]]></name>
+<coord lat="39.318340" lon="-119.870180"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SLIDE"><![CDATA[SLIDE LZ]]></name>
+<coord lat="39.308960" lon="-119.822680"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SUNFLO"><![CDATA[SUNFLOWER PEAK]]></name>
+<coord lat="39.382460" lon="-119.935560"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="SUTRO"><![CDATA[O]]></name>
+<coord lat="39.299467" lon="-119.524954"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="TANK"><![CDATA[TANK]]></name>
+<coord lat="39.381340" lon="-119.839270"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="VERDI"><![CDATA[VERDI PEAK]]></name>
+<coord lat="39.472350" lon="-120.039550"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WARMSP"><![CDATA[WARM SPRINGS]]></name>
+<coord lat="39.770550" lon="-119.690240"/>
+<type></type>
+</waypoint>
+<waypoint>
+<name id="WASHOE"><![CDATA[WASHOE LAKE]]></name>
+<coord lat="39.247710" lon="-119.757030"/>
+<type></type>
+</waypoint>
+</loc>

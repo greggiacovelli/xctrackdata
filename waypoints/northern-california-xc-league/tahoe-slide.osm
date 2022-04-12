@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='GPSBabel-1.5.2'>
+  <node id='-1' visible='true' lat='39.2236200' lon='-119.6391100'>
+    <tag k='name' v='50-341'/>
+    <tag k='note' v='JUNCTION 50 341'/>
+  </node>
+  <node id='-2' visible='true' lat='39.6716800' lon='-119.9993100'>
+    <tag k='name' v='BORDER'/>
+    <tag k='note' v='BORDER TOWN'/>
+  </node>
+  <node id='-3' visible='true' lat='39.1563700' lon='-119.7904800'>
+    <tag k='name' v='C HILL'/>
+    <tag k='note' v='C HILL'/>
+  </node>
+  <node id='-4' visible='true' lat='40.0304600' lon='-120.1055900'>
+    <tag k='name' v='DOYLE'/>
+    <tag k='note' v='DOYLE'/>
+  </node>
+  <node id='-5' visible='true' lat='39.0433700' lon='-119.8822000'>
+    <tag k='name' v='GEN PE'/>
+    <tag k='note' v='GENOA PEAK'/>
+  </node>
+  <node id='-6' visible='true' lat='38.9994700' lon='-119.8430000'>
+    <tag k='name' v='GENOA'/>
+    <tag k='note' v='GENOA'/>
+  </node>
+  <node id='-7' visible='true' lat='39.7740100' lon='-120.0415600'>
+    <tag k='name' v='HALLEL'/>
+    <tag k='note' v='HALLELUJAH JUNCTION'/>
+  </node>
+  <node id='-8' visible='true' lat='39.0572900' lon='-119.8222400'>
+    <tag k='name' v='HOBO'/>
+    <tag k='note' v='HOBO HOT SPRINGS'/>
+  </node>
+  <node id='-9' visible='true' lat='38.9896000' lon='-119.8778900'>
+    <tag k='name' v='KINGSB'/>
+    <tag k='note' v='KINGSBURY MTN'/>
+  </node>
+  <node id='-10' visible='true' lat='39.2515170' lon='-119.7227330'>
+    <tag k='name' v='MCLELL'/>
+    <tag k='note' v='MCLELLAN PEAK'/>
+  </node>
+  <node id='-11' visible='true' lat='39.3028500' lon='-119.9167300'>
+    <tag k='name' v='MEADOW'/>
+    <tag k='note' v='E MEADOW'/>
+  </node>
+  <node id='-12' visible='true' lat='38.9415600' lon='-119.8395300'>
+    <tag k='name' v='MOTTSV'/>
+    <tag k='note' v='MOTTSVILLE'/>
+  </node>
+  <node id='-13' visible='true' lat='39.5965000' lon='-119.9360330'>
+    <tag k='name' v='PEAVIN'/>
+    <tag k='note' v='PEAVIN'/>
+  </node>
+  <node id='-14' visible='true' lat='39.9219830' lon='-119.5739920'>
+    <tag k='name' v='PYRAMI'/>
+    <tag k='note' v='PYRAMID LAKE'/>
+  </node>
+  <node id='-15' visible='true' lat='39.3131600' lon='-119.8843800'>
+    <tag k='name' v='ROSE'/>
+    <tag k='note' v='MT ROSE'/>
+  </node>
+  <node id='-16' visible='true' lat='39.2202900' lon='-119.8247600'>
+    <tag k='name' v='SAWMIL'/>
+    <tag k='note' v='SAWMILL'/>
+  </node>
+  <node id='-17' visible='true' lat='38.8992300' lon='-119.8197500'>
+    <tag k='name' v='SHERID'/>
+    <tag k='note' v='SHERIDAN'/>
+  </node>
+  <node id='-18' visible='true' lat='39.4195300' lon='-119.2289500'>
+    <tag k='name' v='SILVER'/>
+    <tag k='note' v='SILVER SPRINGS'/>
+  </node>
+  <node id='-19' visible='true' lat='39.3183400' lon='-119.8701800'>
+    <tag k='name' v='SLIDE'/>
+    <tag k='note' v='SLIDE LAUNCH'/>
+  </node>
+  <node id='-20' visible='true' lat='39.3089600' lon='-119.8226800'>
+    <tag k='name' v='SLIDE'/>
+    <tag k='note' v='SLIDE LZ'/>
+  </node>
+  <node id='-21' visible='true' lat='39.3824600' lon='-119.9355600'>
+    <tag k='name' v='SUNFLO'/>
+    <tag k='note' v='SUNFLOWER PEAK'/>
+  </node>
+  <node id='-22' visible='true' lat='39.2994670' lon='-119.5249540'>
+    <tag k='name' v='SUTRO'/>
+    <tag k='note' v='O'/>
+  </node>
+  <node id='-23' visible='true' lat='39.3813400' lon='-119.8392700'>
+    <tag k='name' v='TANK'/>
+    <tag k='note' v='TANK'/>
+  </node>
+  <node id='-24' visible='true' lat='39.4723500' lon='-120.0395500'>
+    <tag k='name' v='VERDI'/>
+    <tag k='note' v='VERDI PEAK'/>
+  </node>
+  <node id='-25' visible='true' lat='39.7705500' lon='-119.6902400'>
+    <tag k='name' v='WARMSP'/>
+    <tag k='note' v='WARM SPRINGS'/>
+  </node>
+  <node id='-26' visible='true' lat='39.2477100' lon='-119.7570300'>
+    <tag k='name' v='WASHOE'/>
+    <tag k='note' v='WASHOE LAKE'/>
+  </node>
+</osm>

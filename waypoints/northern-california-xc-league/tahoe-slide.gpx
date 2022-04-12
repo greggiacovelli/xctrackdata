@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2022-04-12T17:49:39.656Z</time>
+  <bounds minlat="38.899230000" minlon="-120.105590000" maxlat="40.030460000" maxlon="-119.228950000"/>
+  <wpt lat="39.223620000" lon="-119.639110000">
+    <ele>1434.000000</ele>
+    <name>50-341</name>
+    <cmt>JUNCTION 50 341</cmt>
+    <desc>JUNCTION 50 341</desc>
+  </wpt>
+  <wpt lat="39.671680000" lon="-119.999310000">
+    <ele>0.000000</ele>
+    <name>BORDER</name>
+    <cmt>BORDER TOWN</cmt>
+    <desc>BORDER TOWN</desc>
+  </wpt>
+  <wpt lat="39.156370000" lon="-119.790480000">
+    <ele>1745.000000</ele>
+    <name>C HILL</name>
+    <cmt>C HILL</cmt>
+    <desc>C HILL</desc>
+  </wpt>
+  <wpt lat="40.030460000" lon="-120.105590000">
+    <ele>1303.000000</ele>
+    <name>DOYLE</name>
+    <cmt>DOYLE</cmt>
+    <desc>DOYLE</desc>
+  </wpt>
+  <wpt lat="39.043370000" lon="-119.882200000">
+    <ele>2768.000000</ele>
+    <name>GEN PE</name>
+    <cmt>GENOA PEAK</cmt>
+    <desc>GENOA PEAK</desc>
+  </wpt>
+  <wpt lat="38.999470000" lon="-119.843000000">
+    <ele>1447.000000</ele>
+    <name>GENOA</name>
+    <cmt>GENOA</cmt>
+    <desc>GENOA</desc>
+  </wpt>
+  <wpt lat="39.774010000" lon="-120.041560000">
+    <ele>1527.000000</ele>
+    <name>HALLEL</name>
+    <cmt>HALLELUJAH JUNCTION</cmt>
+    <desc>HALLELUJAH JUNCTION</desc>
+  </wpt>
+  <wpt lat="39.057290000" lon="-119.822240000">
+    <ele>1513.000000</ele>
+    <name>HOBO</name>
+    <cmt>HOBO HOT SPRINGS</cmt>
+    <desc>HOBO HOT SPRINGS</desc>
+  </wpt>
+  <wpt lat="38.989600000" lon="-119.877890000">
+    <ele>2499.000000</ele>
+    <name>KINGSB</name>
+    <cmt>KINGSBURY MTN</cmt>
+    <desc>KINGSBURY MTN</desc>
+  </wpt>
+  <wpt lat="39.251517000" lon="-119.722733000">
+    <ele>2134.000000</ele>
+    <name>MCLELL</name>
+    <cmt>MCLELLAN PEAK</cmt>
+    <desc>MCLELLAN PEAK</desc>
+  </wpt>
+  <wpt lat="39.302850000" lon="-119.916730000">
+    <ele>2606.000000</ele>
+    <name>MEADOW</name>
+    <cmt>E MEADOW</cmt>
+    <desc>E MEADOW</desc>
+  </wpt>
+  <wpt lat="38.941560000" lon="-119.839530000">
+    <ele>1441.000000</ele>
+    <name>MOTTSV</name>
+    <cmt>MOTTSVILLE</cmt>
+    <desc>MOTTSVILLE</desc>
+  </wpt>
+  <wpt lat="39.596500000" lon="-119.936033000">
+    <ele>2499.000000</ele>
+    <name>PEAVIN</name>
+    <cmt>PEAVIN</cmt>
+    <desc>PEAVIN</desc>
+  </wpt>
+  <wpt lat="39.921983000" lon="-119.573992000">
+    <ele>1173.000000</ele>
+    <name>PYRAMI</name>
+    <cmt>PYRAMID LAKE</cmt>
+    <desc>PYRAMID LAKE</desc>
+  </wpt>
+  <wpt lat="39.313160000" lon="-119.884380000">
+    <ele>2935.000000</ele>
+    <name>ROSE</name>
+    <cmt>MT ROSE</cmt>
+    <desc>MT ROSE</desc>
+  </wpt>
+  <wpt lat="39.220290000" lon="-119.824760000">
+    <ele>1888.000000</ele>
+    <name>SAWMIL</name>
+    <cmt>SAWMILL</cmt>
+    <desc>SAWMILL</desc>
+  </wpt>
+  <wpt lat="38.899230000" lon="-119.819750000">
+    <ele>1454.000000</ele>
+    <name>SHERID</name>
+    <cmt>SHERIDAN</cmt>
+    <desc>SHERIDAN</desc>
+  </wpt>
+  <wpt lat="39.419530000" lon="-119.228950000">
+    <ele>1291.000000</ele>
+    <name>SILVER</name>
+    <cmt>SILVER SPRINGS</cmt>
+    <desc>SILVER SPRINGS</desc>
+  </wpt>
+  <wpt lat="39.318340000" lon="-119.870180000">
+    <ele>2522.000000</ele>
+    <name>SLIDE</name>
+    <cmt>SLIDE LAUNCH</cmt>
+    <desc>SLIDE LAUNCH</desc>
+  </wpt>
+  <wpt lat="39.308960000" lon="-119.822680000">
+    <ele>1552.000000</ele>
+    <name>SLIDE</name>
+    <cmt>SLIDE LZ</cmt>
+    <desc>SLIDE LZ</desc>
+  </wpt>
+  <wpt lat="39.382460000" lon="-119.935560000">
+    <ele>3079.000000</ele>
+    <name>SUNFLO</name>
+    <cmt>SUNFLOWER PEAK</cmt>
+    <desc>SUNFLOWER PEAK</desc>
+  </wpt>
+  <wpt lat="39.299467000" lon="-119.524954000">
+    <ele>1324.000000</ele>
+    <name>SUTRO</name>
+    <cmt>O</cmt>
+    <desc>O</desc>
+  </wpt>
+  <wpt lat="39.381340000" lon="-119.839270000">
+    <ele>1833.000000</ele>
+    <name>TANK</name>
+    <cmt>TANK</cmt>
+    <desc>TANK</desc>
+  </wpt>
+  <wpt lat="39.472350000" lon="-120.039550000">
+    <ele>2560.000000</ele>
+    <name>VERDI</name>
+    <cmt>VERDI PEAK</cmt>
+    <desc>VERDI PEAK</desc>
+  </wpt>
+  <wpt lat="39.770550000" lon="-119.690240000">
+    <ele>1376.000000</ele>
+    <name>WARMSP</name>
+    <cmt>WARM SPRINGS</cmt>
+    <desc>WARM SPRINGS</desc>
+  </wpt>
+  <wpt lat="39.247710000" lon="-119.757030000">
+    <ele>1553.000000</ele>
+    <name>WASHOE</name>
+    <cmt>WASHOE LAKE</cmt>
+    <desc>WASHOE LAKE</desc>
+  </wpt>
+</gpx>
