@@ -77,7 +77,7 @@
     <tag k='note' v='SLIDE LAUNCH'/>
   </node>
   <node id='-20' visible='true' lat='39.3089600' lon='-119.8226800'>
-    <tag k='name' v='SLIDE'/>
+    <tag k='name' v='SLIDELZ'/>
     <tag k='note' v='SLIDE LZ'/>
   </node>
   <node id='-21' visible='true' lat='39.3824600' lon='-119.9355600'>

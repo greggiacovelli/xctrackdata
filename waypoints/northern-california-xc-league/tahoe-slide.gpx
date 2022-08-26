@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2022-04-12T17:49:39.656Z</time>
+  <time>2022-08-26T15:14:35.267Z</time>
   <bounds minlat="38.899230000" minlon="-120.105590000" maxlat="40.030460000" maxlon="-119.228950000"/>
   <wpt lat="39.223620000" lon="-119.639110000">
     <ele>1434.000000</ele>
@@ -118,7 +118,7 @@
   </wpt>
   <wpt lat="39.308960000" lon="-119.822680000">
     <ele>1552.000000</ele>
-    <name>SLIDE</name>
+    <name>SLIDELZ</name>
     <cmt>SLIDE LZ</cmt>
     <desc>SLIDE LZ</desc>
   </wpt>
