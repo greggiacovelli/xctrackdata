@@ -172,7 +172,7 @@
 			</lm:coordinates>
 		</lm:landmark>
 		<lm:landmark>
-			<lm:name>SLIDE</lm:name>
+			<lm:name>SLIDELZ</lm:name>
 			<lm:description>SLIDE LZ</lm:description>
 			<lm:coordinates>
 				<lm:latitude>39.308960</lm:latitude>
