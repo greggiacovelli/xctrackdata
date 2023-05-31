@@ -301,14 +301,14 @@
         <name>DNLNCH</name>
         <description>DUNLAP LAUNCH</description>
         <Point>
-        <coordinates>-119.1014299,36.76940,1415.000000</coordinates>
+        <coordinates>-119.097968,36.765116,1415.000000</coordinates>
         </Point>
       </Placemark>
  <Placemark>
         <name>DNLPLZ</name>
         <description>DUNLAP LZ</description>
         <Point>
-        <coordinates>-119.10748,36.72889,568.000000</coordinates>
+        <coordinates>-119.104777,36.735891,568.000000</coordinates>
         </Point>
       </Placemark>
     </Folder>
