@@ -168,11 +168,11 @@
     <tag k='name' v='TURKEY'/>
     <tag k='note' v='TURKEY FARM'/>
   </node>
-  <node id='-43' visible='true' lat='36.7694000' lon='-119.1014299'>
+  <node id='-43' visible='true' lat='36.7651160' lon='-119.0979680'>
     <tag k='name' v='DNLNCH'/>
     <tag k='note' v='DUNLAP LAUNCH'/>
   </node>
-  <node id='-44' visible='true' lat='36.7288900' lon='-119.1074800'>
+  <node id='-44' visible='true' lat='36.7358910' lon='-119.1047770'>
     <tag k='name' v='DNLPLZ'/>
     <tag k='note' v='DUNLAP LZ'/>
   </node>

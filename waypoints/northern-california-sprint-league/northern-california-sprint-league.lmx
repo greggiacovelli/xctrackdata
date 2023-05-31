@@ -383,8 +383,8 @@
 			<lm:name>DNLNCH</lm:name>
 			<lm:description>DUNLAP LAUNCH</lm:description>
 			<lm:coordinates>
-				<lm:latitude>36.769400</lm:latitude>
-				<lm:longitude>-119.101430</lm:longitude>
+				<lm:latitude>36.765116</lm:latitude>
+				<lm:longitude>-119.097968</lm:longitude>
 				<lm:altitude>1415.000000</lm:altitude>
 			</lm:coordinates>
 		</lm:landmark>
@@ -392,8 +392,8 @@
 			<lm:name>DNLPLZ</lm:name>
 			<lm:description>DUNLAP LZ</lm:description>
 			<lm:coordinates>
-				<lm:latitude>36.728890</lm:latitude>
-				<lm:longitude>-119.107480</lm:longitude>
+				<lm:latitude>36.735891</lm:latitude>
+				<lm:longitude>-119.104777</lm:longitude>
 				<lm:altitude>568.000000</lm:altitude>
 			</lm:coordinates>
 		</lm:landmark>

@@ -423,8 +423,8 @@
 		<wpt>
 			<ident>DNLNCH</ident>
 			<sym></sym>
-			<lat>36.769400</lat>
-			<long>-119.101430</long>
+			<lat>36.765116</lat>
+			<long>-119.097968</long>
 			<color>
 				<lbl>FAFFB4</lbl>
 				<obj>FF8000</obj>
@@ -433,8 +433,8 @@
 		<wpt>
 			<ident>DNLPLZ</ident>
 			<sym></sym>
-			<lat>36.728890</lat>
-			<long>-119.107480</long>
+			<lat>36.735891</lat>
+			<long>-119.104777</long>
 			<color>
 				<lbl>FAFFB4</lbl>
 				<obj>FF8000</obj>
