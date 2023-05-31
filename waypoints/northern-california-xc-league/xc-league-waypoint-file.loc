@@ -621,12 +621,12 @@
 </waypoint>
 <waypoint>
 <name id="DNLNCH"><![CDATA[DUNLAP LAUNCH]]></name>
-<coord lat="36.769400" lon="-119.101430"/>
+<coord lat="36.769512" lon="-119.097968"/>
 <type></type>
 </waypoint>
 <waypoint>
 <name id="DNLPLZ"><![CDATA[DUNLAP LZ]]></name>
-<coord lat="36.728890" lon="-119.107480"/>
+<coord lat="36.735891" lon="-119.104777"/>
 <type></type>
 </waypoint>
 <waypoint>
