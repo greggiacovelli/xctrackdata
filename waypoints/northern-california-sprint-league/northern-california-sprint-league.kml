@@ -67,13 +67,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>TIM</name>
-        <description>TIMS LZ</description>
-        <Point>
-        <coordinates>-119.105132,36.735500,632.000000</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>DAVIS</name>
         <description>DAVIS</description>
         <Point>
@@ -92,13 +85,6 @@
         <description>DALTON MOUNTAIN</description>
         <Point>
         <coordinates>-119.241068,36.774402,1053.000000</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>TMLNCH</name>
-        <description>TIMS LAUNCH</description>
-        <Point>
-        <coordinates>-119.098432,36.765267,1415.000000</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -242,15 +228,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>TANK</name>
-        <description></description>
-        <Point>
-        <coordinates>-119.211554,36.713770,700.000000</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>TIT</name>
-        <description>SQUAW TIT</description>
+        <name>ROCK</name>
+        <description>TOLLHOUSE ROCK</description>
         <Point>
         <coordinates>-119.386606,37.033307,1190.000000</coordinates>
         </Point>

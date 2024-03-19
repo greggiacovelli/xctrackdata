@@ -1,4 +1,5 @@
-<?xml version="1.0"?><loc version="1.0" src="EasyGPS">
+<?xml version="1.0" encoding="UTF-8"?>
+<loc version="1.0" src="EasyGPS">
 <waypoint>
 <name id="4160"><![CDATA[HILL]]></name>
 <coord lat="39.389287" lon="-122.687974"/>
@@ -45,11 +46,6 @@
 <type></type>
 </waypoint>
 <waypoint>
-<name id="TIM"><![CDATA[TIMS LZ]]></name>
-<coord lat="36.735500" lon="-119.105132"/>
-<type></type>
-</waypoint>
-<waypoint>
 <name id="DAVIS"><![CDATA[DAVIS]]></name>
 <coord lat="39.362252" lon="-122.654673"/>
 <type></type>
@@ -62,11 +58,6 @@
 <waypoint>
 <name id="DLTNMT"><![CDATA[DALTON MOUNTAIN]]></name>
 <coord lat="36.774402" lon="-119.241068"/>
-<type></type>
-</waypoint>
-<waypoint>
-<name id="TMLNCH"><![CDATA[TIMS LAUNCH]]></name>
-<coord lat="36.765267" lon="-119.098432"/>
 <type></type>
 </waypoint>
 <waypoint>
@@ -170,12 +161,7 @@
 <type></type>
 </waypoint>
 <waypoint>
-<name id="TANK"><![CDATA[TANK]]></name>
-<coord lat="36.713770" lon="-119.211554"/>
-<type></type>
-</waypoint>
-<waypoint>
-<name id="TIT"><![CDATA[SQUAW TIT]]></name>
+<name id="ROCK"><![CDATA[TOLLHOUSE ROCK]]></name>
 <coord lat="37.033307" lon="-119.386606"/>
 <type></type>
 </waypoint>
